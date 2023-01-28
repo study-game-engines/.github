@@ -1,6 +1,6 @@
 # Engines
 
-| Engine                                                     | Description                                                                                                                                                                                               |
+| Repository                                                 | Description                                                                                                                                                                                               |
 |:-----------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | study-game-engines/24a2                                    | An ultra-minimalist game engine                                                                                                                                                                           |
 | study-game-engines/3d-game-shaders-for-beginners           | A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.                                                                                           |
