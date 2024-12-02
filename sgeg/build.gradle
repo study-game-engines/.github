@@ -1,0 +1,15 @@
+plugins {
+    id 'org.jetbrains.kotlin.jvm' version '1.9.21'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    api 'com.google.code.gson:gson:2.8.2'
+}
+
+kotlin {
+    jvmToolchain(18)
+}
