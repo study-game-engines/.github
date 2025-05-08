@@ -9,12 +9,23 @@ import java.io.InputStream
 data class Repository(val url: String, val description: String)
 
 val Repository.name: String get() = url.removePrefix("https://github.com/study-game-engines/")
+val exclude: List<String> = listOf(
+    "mraid.js",
+    "hazel",
+    "hazel-dichotomy-demo",
+    "hazel-forest-demo",
+    "hazel-fragile-demo",
+    "hazel-tools",
+    "hazel.kt",
+    "hazel.rs",
+    "teachable-glsl-shaders-from-scratch",
+)
 
 fun main() {
     val file: InputStream = ClassLoader.getSystemClassLoader().getResourceAsStream("repositories.json")
     val jsonText: String = file.reader().readText()
-    val repositories: Array<Repository> = Gson().fromJson(jsonText, Array<Repository>::class.java)
-    repositories.sortWith { repository1, repository2 ->
+    val repositories: List<Repository> = Gson().fromJson(jsonText, Array<Repository>::class.java).filter { !exclude.contains(it.name) }
+    repositories.sortedWith { repository1, repository2 ->
         repository1.name.compareTo(repository2.name)
     }
     File("REPOSITORIES.md").writer().use { writer ->
