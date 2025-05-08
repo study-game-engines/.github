@@ -1,5 +1,10 @@
 [
   {
+    "description": "3D and 2D game engine written in Rust",
+    "name": "fyrox",
+    "url": "https://github.com/study-game-engines/fyrox"
+  },
+  {
     "description": "",
     "name": ".github",
     "url": "https://github.com/study-game-engines/.github"
@@ -113,11 +118,6 @@
     "description": "Nuake is a modern engine inspired by the Quake engine that integrates with Trenchbroom",
     "name": "nuake",
     "url": "https://github.com/study-game-engines/nuake"
-  },
-  {
-    "description": "3D and 2D game engine written in Rust",
-    "name": "fyrox",
-    "url": "https://github.com/study-game-engines/fyrox"
   },
   {
     "description": "minimal cross-platform standalone C headers",
@@ -2475,7 +2475,7 @@
     "url": "https://github.com/study-game-engines/miniquad-examples"
   },
   {
-    "description": "基于Unity的简易版现代俄罗斯方块。资源更新、代码热更、ecs实现。",
+    "description": "A simplified modern Tetris based on Unity. Resource update, code hotfix, ecs implementation",
     "name": "unity-tetris-demo",
     "url": "https://github.com/study-game-engines/unity-tetris-demo"
   },
@@ -3590,7 +3590,7 @@
     "url": "https://github.com/study-game-engines/raycast.js"
   },
   {
-    "description": "Real-Time Rendering 4th (RTR4) 参考文献合集典藏 | Collection of <Real-Time Rendering 4th (RTR4)> Bibliography / Reference",
+    "description": "Real-Time Rendering 4th (RTR4) Bibliography / Reference",
     "name": "realtimerendering-books",
     "url": "https://github.com/study-game-engines/realtimerendering-books"
   },
@@ -4030,7 +4030,7 @@
     "url": "https://github.com/study-game-engines/horde"
   },
   {
-    "description": "一个玩具游戏引擎，参考UE4部分实现",
+    "description": "A toy game engine, partially implemented with reference to UE4",
     "name": "visreal",
     "url": "https://github.com/study-game-engines/visreal"
   },
@@ -5125,7 +5125,7 @@
     "url": "https://github.com/study-game-engines/ptah-software-renderer"
   },
   {
-    "description": "使用 Java Script  实现的简易软件渲染器",
+    "description": "A simple software renderer implemented using Java Script",
     "name": "ksgin-software-renderer",
     "url": "https://github.com/study-game-engines/ksgin-software-renderer"
   },

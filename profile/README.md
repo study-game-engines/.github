@@ -1,6 +1,7 @@
 # 1079 references to study game engines
 | Reference     | Description        |
 |:--------------|:-------------------|
+| [fyrox](https://github.com/study-game-engines/fyrox) | 3D and 2D game engine written in Rust |
 | [vulkan-demo](https://github.com/study-game-engines/vulkan-demo) | PBR, IBL, Clustered Forward Shading, Path Tracing, Shadow Mapping, and more! |
 | [opengl-examples-gordan](https://github.com/study-game-engines/opengl-examples-gordan) | Tutorials from the following playlist: https://www.youtube.com/playlist?list=PLPaoO-vpZnumdcb4tZc4x5Q-v7CkrQ6M- |
 | [three.js-particles](https://github.com/study-game-engines/three.js-particles) | Three.quarks is a general purpose particle system /  VFX engine for three.js |
@@ -23,7 +24,6 @@
 | [littlekt-glutton-demo](https://github.com/study-game-engines/littlekt-glutton-demo) | A month long game made for GitHub Game Off 2022.  |
 | [lyon](https://github.com/study-game-engines/lyon) | 2D graphics rendering on the GPU in rust using path tessellation. |
 | [nuake](https://github.com/study-game-engines/nuake) | Nuake is a modern engine inspired by the Quake engine that integrates with Trenchbroom |
-| [fyrox](https://github.com/study-game-engines/fyrox) | 3D and 2D game engine written in Rust |
 | [sokol](https://github.com/study-game-engines/sokol) | minimal cross-platform standalone C headers |
 | [motion-canvas](https://github.com/study-game-engines/motion-canvas) | Visualize Your Ideas With Code |
 | [zetaray](https://github.com/study-game-engines/zetaray) | Real-time Direct3D 12 path tracer |
@@ -492,7 +492,7 @@
 | [lumix-gltf-loader](https://github.com/study-game-engines/lumix-gltf-loader) | GLTF loader plugin for Lumix Engine |
 | [ncine-android](https://github.com/study-game-engines/ncine-android) | CMake scripts to build nCine dependency libraries for Android |
 | [miniquad-examples](https://github.com/study-game-engines/miniquad-examples) | Miniquad game engine examples |
-| [unity-tetris-demo](https://github.com/study-game-engines/unity-tetris-demo) | 基于Unity的简易版现代俄罗斯方块。资源更新、代码热更、ecs实现。 |
+| [unity-tetris-demo](https://github.com/study-game-engines/unity-tetris-demo) | A simplified modern Tetris based on Unity. Resource update, code hotfix, ecs implementation |
 | [bevy-recwars-demo](https://github.com/study-game-engines/bevy-recwars-demo) | A top-down vehicle shooter in Rust - a FOSS clone of RecWar |
 | [software-renderer-yablokov](https://github.com/study-game-engines/software-renderer-yablokov) | Simple software rasterizer with OpenGL-like interface |
 | [binocle](https://github.com/study-game-engines/binocle) | A simple game engine in C |
@@ -712,7 +712,7 @@
 | [warp](https://github.com/study-game-engines/warp) | 3D Game Engine |
 | [astera](https://github.com/study-game-engines/astera) | A C99 Cross Platform 2D Game Library |
 | [raycast.js](https://github.com/study-game-engines/raycast.js) | An advanced ray-caster engine written in JavaScript from scratch, with zero dependencies |
-| [realtimerendering-books](https://github.com/study-game-engines/realtimerendering-books) | Real-Time Rendering 4th (RTR4) 参考文献合集典藏 | Collection of <Real-Time Rendering 4th (RTR4)> Bibliography / Reference |
+| [realtimerendering-books](https://github.com/study-game-engines/realtimerendering-books) | Real-Time Rendering 4th (RTR4) Bibliography / Reference |
 | [ncine-particle-editor](https://github.com/study-game-engines/ncine-particle-editor) | A particle editor made with the nCine |
 | [software-renderer-seichberg](https://github.com/study-game-engines/software-renderer-seichberg) |  |
 | [orx-example](https://github.com/study-game-engines/orx-example) | Orx - Large World Sample |
@@ -798,7 +798,7 @@
 | [dragonBones.js](https://github.com/study-game-engines/dragonBones.js) | DragonBones TypeScript / JavaScript Runtime |
 | [oneiro](https://github.com/study-game-engines/oneiro) | Work in progress. |
 | [horde](https://github.com/study-game-engines/horde) | Horde3D is a small 3D rendering and animation engine. It is written in an effort to create an engine being as lightweight and conceptually clean as possible. |
-| [visreal](https://github.com/study-game-engines/visreal) | 一个玩具游戏引擎，参考UE4部分实现 |
+| [visreal](https://github.com/study-game-engines/visreal) | A toy game engine, partially implemented with reference to UE4 |
 | [jmonkeyengine-fps-demo](https://github.com/study-game-engines/jmonkeyengine-fps-demo) | An FPS demo made with jMonkeyEngine |
 | [nika](https://github.com/study-game-engines/nika) | Nika Engine |
 | [godot-shaders](https://github.com/study-game-engines/godot-shaders) | A large library of free and open-source shaders for the Godot game engine. Here, you'll get 2D and 3D shaders with playable demos. |
@@ -1016,7 +1016,7 @@
 | [nrays-raytracer](https://github.com/study-game-engines/nrays-raytracer) | A basic 3D ray tracer in Rust. |
 | [software-renderer-thenanisore](https://github.com/study-game-engines/software-renderer-thenanisore) | A simple software 3D renderer in Visual C++/GDI. |
 | [ptah-software-renderer](https://github.com/study-game-engines/ptah-software-renderer) | A small software graphics renderer |
-| [ksgin-software-renderer](https://github.com/study-game-engines/ksgin-software-renderer) | 使用 Java Script  实现的简易软件渲染器 |
+| [ksgin-software-renderer](https://github.com/study-game-engines/ksgin-software-renderer) | A simple software renderer implemented using Java Script |
 | [merlin](https://github.com/study-game-engines/merlin) | A C++ game engine |
 | [zrenderer](https://github.com/study-game-engines/zrenderer) | a tiny software raster renderer  |
 | [voxel-cone-tracing](https://github.com/study-game-engines/voxel-cone-tracing) | A real-time global illumination implementation using voxel cone tracing. Implemented in C++ and GLSL. |
