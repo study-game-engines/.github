@@ -1,5 +1,20 @@
 [
   {
+    "description": "PBR, IBL, Clustered Forward Shading, Path Tracing, Shadow Mapping, and more!",
+    "name": "vulkan-demo",
+    "url": "https://github.com/study-game-engines/vulkan-demo"
+  },
+  {
+    "description": "Tutorials from the following playlist: https://www.youtube.com/playlist?list=PLPaoO-vpZnumdcb4tZc4x5Q-v7CkrQ6M-",
+    "name": "opengl-examples-gordan",
+    "url": "https://github.com/study-game-engines/opengl-examples-gordan"
+  },
+  {
+    "description": "",
+    "name": ".github",
+    "url": "https://github.com/study-game-engines/.github"
+  },
+  {
     "description": "Three.quarks is a general purpose particle system /  VFX engine for three.js",
     "name": "three.js-particles",
     "url": "https://github.com/study-game-engines/three.js-particles"
@@ -40,7 +55,7 @@
     "url": "https://github.com/study-game-engines/three.d.ts"
   },
   {
-    "description": "📚 Stand-alone library of threejs examples designed to run without transpilation in node & browser",
+    "description": "Stand-alone library of threejs examples designed to run without transpilation in node & browser",
     "name": "three.ts",
     "url": "https://github.com/study-game-engines/three.ts"
   },
@@ -98,11 +113,6 @@
     "description": "Nuake is a modern engine inspired by the Quake engine that integrates with Trenchbroom",
     "name": "nuake",
     "url": "https://github.com/study-game-engines/nuake"
-  },
-  {
-    "description": "",
-    "name": ".github",
-    "url": "https://github.com/study-game-engines/.github"
   },
   {
     "description": "3D and 2D game engine written in Rust",
@@ -170,7 +180,7 @@
     "url": "https://github.com/study-game-engines/hazel"
   },
   {
-    "description": ":control_knobs: Compact GUI for fine-tuning parameters and monitoring value changes",
+    "description": "Compact GUI for fine-tuning parameters and monitoring value changes",
     "name": "tweakpane",
     "url": "https://github.com/study-game-engines/tweakpane"
   },
@@ -528,11 +538,6 @@
     "description": "Javascript Blender file parser",
     "name": "blender-file-parser.js",
     "url": "https://github.com/study-game-engines/blender-file-parser.js"
-  },
-  {
-    "description": "🌋🖖🏽 PBR, IBL, Clustered Forward Shading, Path Tracing, Shadow Mapping, and more!",
-    "name": "vulkan-demo",
-    "url": "https://github.com/study-game-engines/vulkan-demo"
   },
   {
     "description": "A quick and easy to use drag and drop retro game creator for your favourite handheld video game system",
@@ -1230,7 +1235,7 @@
     "url": "https://github.com/study-game-engines/godot-blender-exporter"
   },
   {
-    "description": "💣 A lightweight 3D physics engine written in JavaScript.",
+    "description": "A lightweight 3D physics engine written in JavaScript.",
     "name": "cannon.js",
     "url": "https://github.com/study-game-engines/cannon.js"
   },
@@ -1345,7 +1350,7 @@
     "url": "https://github.com/study-game-engines/kool-templates"
   },
   {
-    "description": "☀️ Cascaded shadow maps (CSMs) implementation for Three.js",
+    "description": "Cascaded shadow maps (CSMs) implementation for Three.js",
     "name": "three.js-shadowMaps",
     "url": "https://github.com/study-game-engines/three.js-shadowMaps"
   },
@@ -1475,7 +1480,7 @@
     "url": "https://github.com/study-game-engines/aether"
   },
   {
-    "description": "🌔 Toon shader for Unity's Universal Render Pipeline.",
+    "description": "Toon shader for Unity's Universal Render Pipeline.",
     "name": "unity-toon",
     "url": "https://github.com/study-game-engines/unity-toon"
   },
@@ -1923,11 +1928,6 @@
     "description": "C++ open source 3D game engine",
     "name": "mxengine",
     "url": "https://github.com/study-game-engines/mxengine"
-  },
-  {
-    "description": "Tutorials from the following playlist: https://www.youtube.com/playlist?list=PLPaoO-vpZnumdcb4tZc4x5Q-v7CkrQ6M-",
-    "name": "opengl-examples-gordan",
-    "url": "https://github.com/study-game-engines/opengl-examples-gordan"
   },
   {
     "description": "OpenGL/Vulkan Java 3D Engine",
@@ -5025,7 +5025,7 @@
     "url": "https://github.com/study-game-engines/aelto"
   },
   {
-    "description": "A GPU Particle System for Unity ✨capable of simulating and rendering millions of particles at once 💥",
+    "description": "A GPU Particle System for Unity capable of simulating and rendering millions of particles at once",
     "name": "unity-particles",
     "url": "https://github.com/study-game-engines/unity-particles"
   },
