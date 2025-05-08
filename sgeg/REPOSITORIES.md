@@ -119,7 +119,7 @@
 | [methane](https://github.com/study-game-engines/methane) | Modern 3D graphics made simple with C++17 cross-platform framework and rendering abstraction API on top of DirectX 12, Metal & Vulkan |
 | [carrot](https://github.com/study-game-engines/carrot) | (WIP) Small game engine made for fun and educational proposes. Might do something with it later, might not. |
 | [threlte](https://github.com/study-game-engines/threlte) | 3D framework for Svelte |
-| [three.js-particles-showcase1](https://github.com/study-game-engines/three.js-particles-showcase1) |  |
+| [three.js-particles-showcase1](https://github.com/study-game-engines/three.js-particles-showcase1) | Learn three simple particle effects with Three.js |
 | [shader-minifier](https://github.com/study-game-engines/shader-minifier) | Minify and obfuscate GLSL or HLSL code |
 | [bevy-examples](https://github.com/study-game-engines/bevy-examples) | Shaders and other small Bevy examples |
 | [lygia](https://github.com/study-game-engines/lygia) | LYGIA, it's a granular and multi-language (GLSL, HLSL, WGSL, MSL and CUDA) shader library designed for performance and flexibility |
@@ -267,7 +267,7 @@
 | [simplex](https://github.com/study-game-engines/simplex) | Game engine with a custom made software renderer (OpenGL-like rendering pipeline) |
 | [gpu.js](https://github.com/study-game-engines/gpu.js) | GPU Accelerated JavaScript |
 | [three.js-ship-demo](https://github.com/study-game-engines/three.js-ship-demo) | Three.js Ship demo project |
-| [paladin](https://github.com/study-game-engines/paladin) |  |
+| [paladin](https://github.com/study-game-engines/paladin) | Paladin is my first offline renderer |
 | [kool-templates](https://github.com/study-game-engines/kool-templates) | Template project for creating a new multi-platform application with kool. |
 | [three.js-shadowMaps](https://github.com/study-game-engines/three.js-shadowMaps) | Cascaded shadow maps (CSMs) implementation for Three.js |
 | [vengine](https://github.com/study-game-engines/vengine) | Game engine framework using DirectX 11, Direct2D, DirectWrite, Qt, FBX SDK, ImGui/ImGuizmo and PhysX |

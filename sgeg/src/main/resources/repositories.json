@@ -600,7 +600,7 @@
     "url": "https://github.com/study-game-engines/threlte"
   },
   {
-    "description": "",
+    "description": "Learn three simple particle effects with Three.js",
     "name": "three.js-particles-showcase1",
     "url": "https://github.com/study-game-engines/three.js-particles-showcase1"
   },
@@ -1340,7 +1340,7 @@
     "url": "https://github.com/study-game-engines/three.js-ship-demo"
   },
   {
-    "description": "",
+    "description": "Paladin is my first offline renderer",
     "name": "paladin",
     "url": "https://github.com/study-game-engines/paladin"
   },
