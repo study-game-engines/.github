@@ -1,14 +1,5447 @@
 [
   {
+    "description": "Three.quarks is a general purpose particle system /  VFX engine for three.js",
+    "name": "three.js-particles",
+    "url": "https://github.com/study-game-engines/three.js-particles"
+  },
+  {
     "description": "JavaScript 3D Library.",
+    "name": "three.js",
     "url": "https://github.com/study-game-engines/three.js"
   },
   {
-    "description": "",
-    "url": "https://github.com/study-game-engines/.github"
+    "description": "Three.js port for the JVM (desktop)",
+    "name": "three.kt",
+    "url": "https://github.com/study-game-engines/three.kt"
+  },
+  {
+    "description": "An OpenGL/Vulkan engine for Desktop Java and Javascript written in Kotlin",
+    "name": "kool",
+    "url": "https://github.com/study-game-engines/kool"
+  },
+  {
+    "description": "JavaScript/TypeScript animation engine",
+    "name": "tween.js",
+    "url": "https://github.com/study-game-engines/tween.js"
+  },
+  {
+    "description": "Heaps : Haxe Game Framework",
+    "name": "heaps",
+    "url": "https://github.com/study-game-engines/heaps"
+  },
+  {
+    "description": "Desktop/Android/HTML5/iOS Java game development framework",
+    "name": "libgdx",
+    "url": "https://github.com/study-game-engines/libgdx"
+  },
+  {
+    "description": "TS type library for the popular webgl library threejs",
+    "name": "three.d.ts",
+    "url": "https://github.com/study-game-engines/three.d.ts"
+  },
+  {
+    "description": "📚 Stand-alone library of threejs examples designed to run without transpilation in node & browser",
+    "name": "three.ts",
+    "url": "https://github.com/study-game-engines/three.ts"
+  },
+  {
+    "description": "A post processing library for three.js.",
+    "name": "three.js-postprocessing",
+    "url": "https://github.com/study-game-engines/three.js-postprocessing"
   },
   {
     "description": "",
+    "name": "blender-java",
+    "url": "https://github.com/study-game-engines/blender-java"
+  },
+  {
+    "description": "Modern low level game library and hardware abstraction.",
+    "name": "kinc",
+    "url": "https://github.com/study-game-engines/kinc"
+  },
+  {
+    "description": "Alexander Sannikov's Radiance Cascades for Unity's URP",
+    "name": "unity-radiance-cascades",
+    "url": "https://github.com/study-game-engines/unity-radiance-cascades"
+  },
+  {
+    "description": "A refreshingly simple data-driven game engine built in Rust",
+    "name": "bevy",
+    "url": "https://github.com/study-game-engines/bevy"
+  },
+  {
+    "description": "",
+    "name": "shaderpedia",
+    "url": "https://github.com/study-game-engines/shaderpedia"
+  },
+  {
+    "description": "KorGE Game Engine. Multiplatform Kotlin Game Engine & Korlibs",
+    "name": "korge",
+    "url": "https://github.com/study-game-engines/korge"
+  },
+  {
+    "description": "A simplified version of Space Invaders made with the nCine",
+    "name": "ncine-invaders",
+    "url": "https://github.com/study-game-engines/ncine-invaders"
+  },
+  {
+    "description": "A month long game made for GitHub Game Off 2022. ",
+    "name": "littlekt-glutton-demo",
+    "url": "https://github.com/study-game-engines/littlekt-glutton-demo"
+  },
+  {
+    "description": "2D graphics rendering on the GPU in rust using path tessellation.",
+    "name": "lyon",
+    "url": "https://github.com/study-game-engines/lyon"
+  },
+  {
+    "description": "Nuake is a modern engine inspired by the Quake engine that integrates with Trenchbroom",
+    "name": "nuake",
+    "url": "https://github.com/study-game-engines/nuake"
+  },
+  {
+    "description": "",
+    "name": ".github",
+    "url": "https://github.com/study-game-engines/.github"
+  },
+  {
+    "description": "3D and 2D game engine written in Rust",
+    "name": "fyrox",
+    "url": "https://github.com/study-game-engines/fyrox"
+  },
+  {
+    "description": "minimal cross-platform standalone C headers",
+    "name": "sokol",
+    "url": "https://github.com/study-game-engines/sokol"
+  },
+  {
+    "description": "Visualize Your Ideas With Code",
+    "name": "motion-canvas",
+    "url": "https://github.com/study-game-engines/motion-canvas"
+  },
+  {
+    "description": "Real-time Direct3D 12 path tracer",
+    "name": "zetaray",
+    "url": "https://github.com/study-game-engines/zetaray"
+  },
+  {
+    "description": "A multiplatform 2D game framework written in Kotlin. Build your own game engine on top.",
+    "name": "littlekt",
+    "url": "https://github.com/study-game-engines/littlekt"
+  },
+  {
+    "description": "",
+    "name": "three.js-roadmap",
+    "url": "https://github.com/study-game-engines/three.js-roadmap"
+  },
+  {
+    "description": "Dagor Engine and Tools source code from Gaijin Games KFT",
+    "name": "dagor",
+    "url": "https://github.com/study-game-engines/dagor"
+  },
+  {
+    "description": "A complete 3-D game development suite written in Java.",
+    "name": "jmonkeyengine",
+    "url": "https://github.com/study-game-engines/jmonkeyengine"
+  },
+  {
+    "description": "Java SVG renderer",
+    "name": "svg-java",
+    "url": "https://github.com/study-game-engines/svg-java"
+  },
+  {
+    "description": "Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.",
+    "name": "babylon.js",
+    "url": "https://github.com/study-game-engines/babylon.js"
+  },
+  {
+    "description": "Signed Distance Field Font Generator and Runtime Utility",
+    "name": "sdf-font",
+    "url": "https://github.com/study-game-engines/sdf-font"
+  },
+  {
+    "description": "Minimal & fast 2D rendering engine",
+    "name": "runara",
+    "url": "https://github.com/study-game-engines/runara"
+  },
+  {
+    "description": "",
+    "name": "hazel",
     "url": "https://github.com/study-game-engines/hazel"
+  },
+  {
+    "description": ":control_knobs: Compact GUI for fine-tuning parameters and monitoring value changes",
+    "name": "tweakpane",
+    "url": "https://github.com/study-game-engines/tweakpane"
+  },
+  {
+    "description": "Open-source, cross-platform 2D and 3D game engine built in C++",
+    "name": "u3d",
+    "url": "https://github.com/study-game-engines/u3d"
+  },
+  {
+    "description": "",
+    "name": "raylib-kotlin",
+    "url": "https://github.com/study-game-engines/raylib-kotlin"
+  },
+  {
+    "description": "Traktor Game Engine",
+    "name": "traktor",
+    "url": "https://github.com/study-game-engines/traktor"
+  },
+  {
+    "description": "MacOS Metal Tutorial code",
+    "name": "getIntoMetalDev",
+    "url": "https://github.com/study-game-engines/getIntoMetalDev"
+  },
+  {
+    "description": "RavEngine sample programs",
+    "name": "rave-examples",
+    "url": "https://github.com/study-game-engines/rave-examples"
+  },
+  {
+    "description": "Play with fluids in your browser (works even on mobile)",
+    "name": "webgl-fluid-simulation",
+    "url": "https://github.com/study-game-engines/webgl-fluid-simulation"
+  },
+  {
+    "description": "Fork of box2dlights by Kalle Hamalainen",
+    "name": "libgdx-lights",
+    "url": "https://github.com/study-game-engines/libgdx-lights"
+  },
+  {
+    "description": "",
+    "name": "mraid.js",
+    "url": "https://github.com/study-game-engines/mraid.js"
+  },
+  {
+    "description": "This is a library of basic shader functions",
+    "name": "pixezylib",
+    "url": "https://github.com/study-game-engines/pixezylib"
+  },
+  {
+    "description": "XAtlas + Three.js: Mesh parameterization / UV unwrapping module for three.js in wasm with webworkers.",
+    "name": "three.js-xatlas",
+    "url": "https://github.com/study-game-engines/three.js-xatlas"
+  },
+  {
+    "description": "Rogue Legacy Source Code",
+    "name": "rogue",
+    "url": "https://github.com/study-game-engines/rogue"
+  },
+  {
+    "description": "An easy to use 2D HTML5 game engine written in TypeScript",
+    "name": "excalibur",
+    "url": "https://github.com/study-game-engines/excalibur"
+  },
+  {
+    "description": "A particle system for PixiJS",
+    "name": "pixi.js-particles",
+    "url": "https://github.com/study-game-engines/pixi.js-particles"
+  },
+  {
+    "description": "Multi-channel signed distance field generator",
+    "name": "msdfgen",
+    "url": "https://github.com/study-game-engines/msdfgen"
+  },
+  {
+    "description": "PixiJS v8 port of the official spine runtime",
+    "name": "pixi.js-spine",
+    "url": "https://github.com/study-game-engines/pixi.js-spine"
+  },
+  {
+    "description": "The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.",
+    "name": "pixi.js",
+    "url": "https://github.com/study-game-engines/pixi.js"
+  },
+  {
+    "description": "Goxel: Free and Open Source 3D Voxel Editor ",
+    "name": "goxel",
+    "url": "https://github.com/study-game-engines/goxel"
+  },
+  {
+    "description": "",
+    "name": "ring",
+    "url": "https://github.com/study-game-engines/ring"
+  },
+  {
+    "description": "A Minecraft clone with many advanced features",
+    "name": "minecraft-shaders",
+    "url": "https://github.com/study-game-engines/minecraft-shaders"
+  },
+  {
+    "description": "A Vulkan game engine with a focus on data oriented design ",
+    "name": "fling",
+    "url": "https://github.com/study-game-engines/fling"
+  },
+  {
+    "description": "Rendergraph-based graphics engine written in C++ using DirectX12",
+    "name": "adria",
+    "url": "https://github.com/study-game-engines/adria"
+  },
+  {
+    "description": "Big & Little Endian utils for Kotlin Multiplatform",
+    "name": "endians",
+    "url": "https://github.com/study-game-engines/endians"
+  },
+  {
+    "description": "OPENRNDR. A Kotlin/JVM library for creative coding, real-time and interactive graphics",
+    "name": "openrndr",
+    "url": "https://github.com/study-game-engines/openrndr"
+  },
+  {
+    "description": "A simple game engine written in C++",
+    "name": "ferx",
+    "url": "https://github.com/study-game-engines/ferx"
+  },
+  {
+    "description": "A vector graphics renderer for bgfx, based on ideas from NanoVG and ImDrawList (Dear ImGUI)",
+    "name": "vg",
+    "url": "https://github.com/study-game-engines/vg"
+  },
+  {
+    "description": "Composable web framework for Kotlin/Wasm and Kotlin/JS",
+    "name": "kilua",
+    "url": "https://github.com/study-game-engines/kilua"
+  },
+  {
+    "description": "WebGPU binding for kotlin multi platform",
+    "name": "wgpu4k",
+    "url": "https://github.com/study-game-engines/wgpu4k"
+  },
+  {
+    "description": "A 2d game engine written in C",
+    "name": "impact",
+    "url": "https://github.com/study-game-engines/impact"
+  },
+  {
+    "description": "Compose Multiplatform Adobe After Effects Bodymovin (Lottie) animations rendering engine",
+    "name": "compottie",
+    "url": "https://github.com/study-game-engines/compottie"
+  },
+  {
+    "description": "A plugin for generating BuildConstants for any kind of Gradle projects: Java, Kotlin, Groovy, etc. Designed for KTS scripts.",
+    "name": "gradle-buildconfig-plugin",
+    "url": "https://github.com/study-game-engines/gradle-buildconfig-plugin"
+  },
+  {
+    "description": "Unity Graphics - Including Scriptable Render Pipeline",
+    "name": "unity-graphics",
+    "url": "https://github.com/study-game-engines/unity-graphics"
+  },
+  {
+    "description": "Babylon.js's documentation website",
+    "name": "babylon.js-docs",
+    "url": "https://github.com/study-game-engines/babylon.js-docs"
+  },
+  {
+    "description": "A nodejs and client-side library for (cubic) Bezier curve work",
+    "name": "bezier.js",
+    "url": "https://github.com/study-game-engines/bezier.js"
+  },
+  {
+    "description": "Java library to handle Lottie files",
+    "name": "lottie-java-latest",
+    "url": "https://github.com/study-game-engines/lottie-java-latest"
+  },
+  {
+    "description": "Hydra-enabled GPU path tracer that supports MaterialX and MDL",
+    "name": "gatling",
+    "url": "https://github.com/study-game-engines/gatling"
+  },
+  {
+    "description": "A game engine currently under development.",
+    "name": "delta",
+    "url": "https://github.com/study-game-engines/delta"
+  },
+  {
+    "description": "A Vulkan Raytracing framework for various bidirectional path tracing techniques",
+    "name": "lumen",
+    "url": "https://github.com/study-game-engines/lumen"
+  },
+  {
+    "description": "Unbiased & physically-based GPU HIPRT (C++/HIP) interactive path tracing rendering engine",
+    "name": "hiprt",
+    "url": "https://github.com/study-game-engines/hiprt"
+  },
+  {
+    "description": "minigdx monorepo refactored",
+    "name": "minigdx",
+    "url": "https://github.com/study-game-engines/minigdx"
+  },
+  {
+    "description": "",
+    "name": "korge-libraries",
+    "url": "https://github.com/study-game-engines/korge-libraries"
+  },
+  {
+    "description": "KorGE examples to display in a website",
+    "name": "korge-examples-website",
+    "url": "https://github.com/study-game-engines/korge-examples-website"
+  },
+  {
+    "description": "just simple godot 4 tutorials all in here",
+    "name": "godot-tutorials",
+    "url": "https://github.com/study-game-engines/godot-tutorials"
+  },
+  {
+    "description": "ECS-driven 2D and 3D physics engine for the Bevy game engine.",
+    "name": "bevy-physics",
+    "url": "https://github.com/study-game-engines/bevy-physics"
+  },
+  {
+    "description": "The really basics of the Vulkan API.",
+    "name": "vulkan-get-started",
+    "url": "https://github.com/study-game-engines/vulkan-get-started"
+  },
+  {
+    "description": "A Modern gkRenderer",
+    "name": "next-renderer",
+    "url": "https://github.com/study-game-engines/next-renderer"
+  },
+  {
+    "description": "2D/3D game engine from scratch",
+    "name": "elven",
+    "url": "https://github.com/study-game-engines/elven"
+  },
+  {
+    "description": "The source files for the official Bevy website",
+    "name": "bevy-website",
+    "url": "https://github.com/study-game-engines/bevy-website"
+  },
+  {
+    "description": "A template for the Agon Light C compiler toolchain",
+    "name": "agon",
+    "url": "https://github.com/study-game-engines/agon"
+  },
+  {
+    "description": "bevy prefab editor",
+    "name": "bevy-prefab-editor",
+    "url": "https://github.com/study-game-engines/bevy-prefab-editor"
+  },
+  {
+    "description": "An interactive environment to showcase, test, and benchmark a motion blur post process effect driven by the Jump Flood Algorithm in Godot 4.3 beta",
+    "name": "godot-motion-blur",
+    "url": "https://github.com/study-game-engines/godot-motion-blur"
+  },
+  {
+    "description": "OpenGL C++ Graphics Engine",
+    "name": "limitless",
+    "url": "https://github.com/study-game-engines/limitless"
+  },
+  {
+    "description": "A collection of tone mapping functions available both as ES modules strings and as GLSL files for use with glslify.",
+    "name": "glsl-tonemap",
+    "url": "https://github.com/study-game-engines/glsl-tonemap"
+  },
+  {
+    "description": "Simple Open-source Ray Tracer",
+    "name": "sort",
+    "url": "https://github.com/study-game-engines/sort"
+  },
+  {
+    "description": "Cross-platform, graphics API agnostic, \"Bring Your Own Engine/Framework\" style rendering library.",
+    "name": "bgfx",
+    "url": "https://github.com/study-game-engines/bgfx"
+  },
+  {
+    "description": "Pure C Game Engine",
+    "name": "corange",
+    "url": "https://github.com/study-game-engines/corange"
+  },
+  {
+    "description": "The multiplayer game engine",
+    "name": "ambient",
+    "url": "https://github.com/study-game-engines/ambient"
+  },
+  {
+    "description": "JavaScript 2D physics library",
+    "name": "p2.js",
+    "url": "https://github.com/study-game-engines/p2.js"
+  },
+  {
+    "description": "Flax Engine – multi-platform 3D game engine",
+    "name": "flax",
+    "url": "https://github.com/study-game-engines/flax"
+  },
+  {
+    "description": "A Java game development framework that deploys to JVM, HTML5, Android and iOS.",
+    "name": "playn",
+    "url": "https://github.com/study-game-engines/playn"
+  },
+  {
+    "description": "",
+    "name": "global-illumination-radiance-cascades",
+    "url": "https://github.com/study-game-engines/global-illumination-radiance-cascades"
+  },
+  {
+    "description": "A recreation of Winston's shield effect from overwatch using OpenGL",
+    "name": "shield-shader",
+    "url": "https://github.com/study-game-engines/shield-shader"
+  },
+  {
+    "description": "A suite of GShade shaders for Final Fantasy XIV",
+    "name": "acerola-shaders",
+    "url": "https://github.com/study-game-engines/acerola-shaders"
+  },
+  {
+    "description": "A comprehensive archive for Unity built-in shaders, dating back to Unity 3.4",
+    "name": "unity-shaders-builtin34",
+    "url": "https://github.com/study-game-engines/unity-shaders-builtin34"
+  },
+  {
+    "description": "My Unity post processing pipeline and shaders",
+    "name": "acerola-post-processing",
+    "url": "https://github.com/study-game-engines/acerola-post-processing"
+  },
+  {
+    "description": "Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations.",
+    "name": "o3de",
+    "url": "https://github.com/study-game-engines/o3de"
+  },
+  {
+    "description": "3D Racing Game Engine, Built with OpenGL, SDL & Bullet Physics ",
+    "name": "racing-demo",
+    "url": "https://github.com/study-game-engines/racing-demo"
+  },
+  {
+    "description": "Advanced glTF PBR features for the Bevy game engine (iridescence, etc.)",
+    "name": "bevy-gltf-pbr",
+    "url": "https://github.com/study-game-engines/bevy-gltf-pbr"
+  },
+  {
+    "description": "3D game engine with a Vulkan renderer backend",
+    "name": "magnolia",
+    "url": "https://github.com/study-game-engines/magnolia"
+  },
+  {
+    "description": "Ebitengine - A dead simple 2D game engine for Go",
+    "name": "ebiten",
+    "url": "https://github.com/study-game-engines/ebiten"
+  },
+  {
+    "description": "JavaScript navigation mesh construction, path-finding, and spatial reasoning toolkit. WebAssembly port of Recast Navigation.",
+    "name": "recast.js",
+    "url": "https://github.com/study-game-engines/recast.js"
+  },
+  {
+    "description": "Javascript Blender file parser",
+    "name": "blender-file-parser.js",
+    "url": "https://github.com/study-game-engines/blender-file-parser.js"
+  },
+  {
+    "description": "🌋🖖🏽 PBR, IBL, Clustered Forward Shading, Path Tracing, Shadow Mapping, and more!",
+    "name": "vulkan-demo",
+    "url": "https://github.com/study-game-engines/vulkan-demo"
+  },
+  {
+    "description": "A quick and easy to use drag and drop retro game creator for your favourite handheld video game system",
+    "name": "gbstudio",
+    "url": "https://github.com/study-game-engines/gbstudio"
+  },
+  {
+    "description": "2D Platform Game developed in Unity for Android, Windows, and Linux. Kailius is inspired by the early RPGs, featuring PixelArt aesthetics (8 Bits).",
+    "name": "kailius",
+    "url": "https://github.com/study-game-engines/kailius"
+  },
+  {
+    "description": "Sharp and simple graphics library",
+    "name": "blade",
+    "url": "https://github.com/study-game-engines/blade"
+  },
+  {
+    "description": "Experimental 3D / game engine",
+    "name": "turso",
+    "url": "https://github.com/study-game-engines/turso"
+  },
+  {
+    "description": "Render After Effects Animations Library - Compose Multiplatform |  Inspired by Airbnb/Lottie",
+    "name": "lottie-kotlin",
+    "url": "https://github.com/study-game-engines/lottie-kotlin"
+  },
+  {
+    "description": "Scripts to export from PhotoShop and other tools to Spine's JSON data format.",
+    "name": "spine-scripts",
+    "url": "https://github.com/study-game-engines/spine-scripts"
+  },
+  {
+    "description": "Game engine in Rust",
+    "name": "weaver",
+    "url": "https://github.com/study-game-engines/weaver"
+  },
+  {
+    "description": "Implementation of Peter Shirley's Ray Tracing In One Weekend book using Vulkan and NVIDIA's RTX extension.",
+    "name": "vulkan-raytracer",
+    "url": "https://github.com/study-game-engines/vulkan-raytracer"
+  },
+  {
+    "description": "",
+    "name": "three.js-depthPeeling",
+    "url": "https://github.com/study-game-engines/three.js-depthPeeling"
+  },
+  {
+    "description": "Modern 3D graphics made simple with C++17 cross-platform framework and rendering abstraction API on top of DirectX 12, Metal & Vulkan",
+    "name": "methane",
+    "url": "https://github.com/study-game-engines/methane"
+  },
+  {
+    "description": "(WIP) Small game engine made for fun and educational proposes. Might do something with it later, might not.",
+    "name": "carrot",
+    "url": "https://github.com/study-game-engines/carrot"
+  },
+  {
+    "description": "3D framework for Svelte",
+    "name": "threlte",
+    "url": "https://github.com/study-game-engines/threlte"
+  },
+  {
+    "description": "",
+    "name": "three.js-particles-showcase1",
+    "url": "https://github.com/study-game-engines/three.js-particles-showcase1"
+  },
+  {
+    "description": "Minify and obfuscate GLSL or HLSL code",
+    "name": "shader-minifier",
+    "url": "https://github.com/study-game-engines/shader-minifier"
+  },
+  {
+    "description": "Shaders and other small Bevy examples",
+    "name": "bevy-examples",
+    "url": "https://github.com/study-game-engines/bevy-examples"
+  },
+  {
+    "description": "LYGIA, it's a granular and multi-language (GLSL, HLSL, WGSL, MSL and CUDA) shader library designed for performance and flexibility",
+    "name": "lygia",
+    "url": "https://github.com/study-game-engines/lygia"
+  },
+  {
+    "description": "Highcharts JS, the JavaScript charting framework",
+    "name": "highcharts",
+    "url": "https://github.com/study-game-engines/highcharts"
+  },
+  {
+    "description": "Path tracing renderer and utilities for three.js built on top of three-mesh-bvh.",
+    "name": "three.js-pathtracer",
+    "url": "https://github.com/study-game-engines/three.js-pathtracer"
+  },
+  {
+    "description": "An implementation of Disney's principled BRDF",
+    "name": "disney-pbr",
+    "url": "https://github.com/study-game-engines/disney-pbr"
+  },
+  {
+    "description": "3D engine with modern graphics",
+    "name": "wicked",
+    "url": "https://github.com/study-game-engines/wicked"
+  },
+  {
+    "description": "Makes a floating panel for controllers on the web. Works as a drop-in replacement for dat.gui in most projects.",
+    "name": "lilgui.js",
+    "url": "https://github.com/study-game-engines/lilgui.js"
+  },
+  {
+    "description": "FernRP is a pipeline extension based on URP that implements more rendering effects",
+    "name": "unity-fern",
+    "url": "https://github.com/study-game-engines/unity-fern"
+  },
+  {
+    "description": "This project is the implementation of FernRP Package, Include NPR/PBR.",
+    "name": "unity-fern-demo",
+    "url": "https://github.com/study-game-engines/unity-fern-demo"
+  },
+  {
+    "description": "",
+    "name": "three.js-showcase1",
+    "url": "https://github.com/study-game-engines/three.js-showcase1"
+  },
+  {
+    "description": "MyBox is a set of attributes, tools and extensions for Unity ",
+    "name": "unity-mybox",
+    "url": "https://github.com/study-game-engines/unity-mybox"
+  },
+  {
+    "description": "OpenGL \"Engine\" with Wavefront Path Tracer and Rasterizer Pipeline with Voxel Cone Tracing/Global Illumination",
+    "name": "idk",
+    "url": "https://github.com/study-game-engines/idk"
+  },
+  {
+    "description": "A class-leading water system implemented in Unity",
+    "name": "unity-water",
+    "url": "https://github.com/study-game-engines/unity-water"
+  },
+  {
+    "description": "Scion is a tiny 2D game engine built on top of wgpu and winit, following the KISS principle.",
+    "name": "scion",
+    "url": "https://github.com/study-game-engines/scion"
+  },
+  {
+    "description": "2D Game Engine",
+    "name": "scionpp",
+    "url": "https://github.com/study-game-engines/scionpp"
+  },
+  {
+    "description": "Vulkan Game-Engine Project",
+    "name": "nexus",
+    "url": "https://github.com/study-game-engines/nexus"
+  },
+  {
+    "description": "Talos Particle Engine",
+    "name": "talos",
+    "url": "https://github.com/study-game-engines/talos"
+  },
+  {
+    "description": "libGDX post-processing visual effects",
+    "name": "postprocessing-effects-libgdx",
+    "url": "https://github.com/study-game-engines/postprocessing-effects-libgdx"
+  },
+  {
+    "description": "Path creation asset for Unity game development",
+    "name": "unity-path-editor",
+    "url": "https://github.com/study-game-engines/unity-path-editor"
+  },
+  {
+    "description": "Fast and lightweight JavaScript game engine built on WebGL and glTF",
+    "name": "playcanvas.js",
+    "url": "https://github.com/study-game-engines/playcanvas.js"
+  },
+  {
+    "description": "",
+    "name": "omniforce",
+    "url": "https://github.com/study-game-engines/omniforce"
+  },
+  {
+    "description": "Terrain rendering algorithm in less than 20 lines of code",
+    "name": "voxel-raytracer",
+    "url": "https://github.com/study-game-engines/voxel-raytracer"
+  },
+  {
+    "description": "Configure MiniGDX libs with a common set of configuration and tasks. The usage is mainly for MiniGDX contributors.",
+    "name": "minigdx-developer-plugin",
+    "url": "https://github.com/study-game-engines/minigdx-developer-plugin"
+  },
+  {
+    "description": "A pure Kotlin UI framework for the Web (and Desktop).",
+    "name": "doodle",
+    "url": "https://github.com/study-game-engines/doodle"
+  },
+  {
+    "description": "LDtk 2D level editor for KorGE Game Engine",
+    "name": "korge-ldtk",
+    "url": "https://github.com/study-game-engines/korge-ldtk"
+  },
+  {
+    "description": "Tiny is a lightweight 2D game engine that allows developers to easily create games using the Lua programming language.",
+    "name": "tinyn",
+    "url": "https://github.com/study-game-engines/tinyn"
+  },
+  {
+    "description": "A 2D Game Engine built on top of OpenGL and written in Kotlin",
+    "name": "mechanica",
+    "url": "https://github.com/study-game-engines/mechanica"
+  },
+  {
+    "description": "Korge 3D libraries",
+    "name": "korge3d",
+    "url": "https://github.com/study-game-engines/korge3d"
+  },
+  {
+    "description": "Kotlin plotting library.",
+    "name": "kandy",
+    "url": "https://github.com/study-game-engines/kandy"
+  },
+  {
+    "description": "OpenSource Kotlin/OpenGL/ECS based game engine",
+    "name": "rems",
+    "url": "https://github.com/study-game-engines/rems"
+  },
+  {
+    "description": "Lighthouse 2 framework for real-time ray tracing",
+    "name": "lighthouse",
+    "url": "https://github.com/study-game-engines/lighthouse"
+  },
+  {
+    "description": "Cerberus X - A cross platform game programming language.",
+    "name": "cerberus",
+    "url": "https://github.com/study-game-engines/cerberus"
+  },
+  {
+    "description": "C++ game engine project, for learning, practice and experiment.",
+    "name": "zx",
+    "url": "https://github.com/study-game-engines/zx"
+  },
+  {
+    "description": "",
+    "name": "gvox",
+    "url": "https://github.com/study-game-engines/gvox"
+  },
+  {
+    "description": "AnKi 3D Engine - Vulkan backend, modern renderer, scripting, physics and more",
+    "name": "anki",
+    "url": "https://github.com/study-game-engines/anki"
+  },
+  {
+    "description": "Examples for the Magnum C++11 graphics engine",
+    "name": "magnum-examples",
+    "url": "https://github.com/study-game-engines/magnum-examples"
+  },
+  {
+    "description": "ThingJS 3D Engine (t3d) is a lightweight, web-first, and extendable 3D rendering library.",
+    "name": "t3d.js",
+    "url": "https://github.com/study-game-engines/t3d.js"
+  },
+  {
+    "description": "The website for p5play.org",
+    "name": "p5play.js-website",
+    "url": "https://github.com/study-game-engines/p5play.js-website"
+  },
+  {
+    "description": "Generate BMFont texture and spec XML using msdfgen",
+    "name": "msdf-bmfont-xml",
+    "url": "https://github.com/study-game-engines/msdf-bmfont-xml"
+  },
+  {
+    "description": "Devtools for PixiJS",
+    "name": "pixi.js-inspector",
+    "url": "https://github.com/study-game-engines/pixi.js-inspector"
+  },
+  {
+    "description": "Notes of phaser3 engine",
+    "name": "phaser.js-demos",
+    "url": "https://github.com/study-game-engines/phaser.js-demos"
+  },
+  {
+    "description": "",
+    "name": "unity-text",
+    "url": "https://github.com/study-game-engines/unity-text"
+  },
+  {
+    "description": "PSX retro graphics plugin for URP with Shadergraph in Unity",
+    "name": "unity-retro",
+    "url": "https://github.com/study-game-engines/unity-retro"
+  },
+  {
+    "description": "Sponza OBJ Model",
+    "name": "sponza.obj",
+    "url": "https://github.com/study-game-engines/sponza.obj"
+  },
+  {
+    "description": "JavaScript game engine that uses p5.js for graphics and Box2D for physics.",
+    "name": "p5play.js",
+    "url": "https://github.com/study-game-engines/p5play.js"
+  },
+  {
+    "description": "",
+    "name": "source",
+    "url": "https://github.com/study-game-engines/source"
+  },
+  {
+    "description": "Set of gltf models to load in online demos and examples",
+    "name": "content-johnson",
+    "url": "https://github.com/study-game-engines/content-johnson"
+  },
+  {
+    "description": "",
+    "name": "qd",
+    "url": "https://github.com/study-game-engines/qd"
+  },
+  {
+    "description": "Lightweight SVG rendering to scalable Java2D shapes to use in UI Icons and other components.",
+    "name": "svg-weng",
+    "url": "https://github.com/study-game-engines/svg-weng"
+  },
+  {
+    "description": "🪱 Mesh replacement for THREE.Line",
+    "name": "three.js-meshline",
+    "url": "https://github.com/study-game-engines/three.js-meshline"
+  },
+  {
+    "description": "COLLADA for Java",
+    "name": "collada-java",
+    "url": "https://github.com/study-game-engines/collada-java"
+  },
+  {
+    "description": "A maintained collection of useful & free unity scripts / library's / plugins and extensions",
+    "name": "unity-utils",
+    "url": "https://github.com/study-game-engines/unity-utils"
+  },
+  {
+    "description": "Kotlin Multiplatform runtime infix expressions evaluator.",
+    "name": "kmp-expeval",
+    "url": "https://github.com/study-game-engines/kmp-expeval"
+  },
+  {
+    "description": "Visualization module for dataforge",
+    "name": "three.kt-externals3",
+    "url": "https://github.com/study-game-engines/three.kt-externals3"
+  },
+  {
+    "description": "Simple Java SVG renderer",
+    "name": "svg-kunz",
+    "url": "https://github.com/study-game-engines/svg-kunz"
+  },
+  {
+    "description": "A fully-featured deformer system for Unity that lets you stack effects to animate models in real-time",
+    "name": "unity-deform",
+    "url": "https://github.com/study-game-engines/unity-deform"
+  },
+  {
+    "description": "Shaders For People Who Don't Know How To Shader, a tutorial series for beginners!",
+    "name": "xibanya-shaders",
+    "url": "https://github.com/study-game-engines/xibanya-shaders"
+  },
+  {
+    "description": "CSG library for use with THREE.js",
+    "name": "three.js-csg",
+    "url": "https://github.com/study-game-engines/three.js-csg"
+  },
+  {
+    "description": "Cloud rendering test",
+    "name": "unity-clouds",
+    "url": "https://github.com/study-game-engines/unity-clouds"
+  },
+  {
+    "description": "Multi-threaded DirectX12 renderer w/ HDR, PBR & Multi-monitor support",
+    "name": "vq",
+    "url": "https://github.com/study-game-engines/vq"
+  },
+  {
+    "description": "Lightweight, multi-platform, data-oriented game engine.",
+    "name": "pmtech",
+    "url": "https://github.com/study-game-engines/pmtech"
+  },
+  {
+    "description": "A Toon Shader in Unity Universal Render Pipeline.",
+    "name": "unity-toon-shader",
+    "url": "https://github.com/study-game-engines/unity-toon-shader"
+  },
+  {
+    "description": "Stride Game Engine (formerly Xenko)",
+    "name": "stride",
+    "url": "https://github.com/study-game-engines/stride"
+  },
+  {
+    "description": "A fast simplex noise implementation in Javascript / Typescript.",
+    "name": "simplexnoise.js",
+    "url": "https://github.com/study-game-engines/simplexnoise.js"
+  },
+  {
+    "description": "Code repository of all OpenGL chapters from the book and its accompanying website https://learnopengl.com",
+    "name": "learnopengl",
+    "url": "https://github.com/study-game-engines/learnopengl"
+  },
+  {
+    "description": "Cross-platform 2D game engine focused on ultimate productivity built in .NET",
+    "name": "flatredball",
+    "url": "https://github.com/study-game-engines/flatredball"
+  },
+  {
+    "description": "Delver game engine and editor",
+    "name": "delver",
+    "url": "https://github.com/study-game-engines/delver"
+  },
+  {
+    "description": "The flexible game engine.",
+    "name": "crown",
+    "url": "https://github.com/study-game-engines/crown"
+  },
+  {
+    "description": "Tiny OBJ Loader in Rust",
+    "name": "obj-loader-rust",
+    "url": "https://github.com/study-game-engines/obj-loader-rust"
+  },
+  {
+    "description": "a Vulkan real-time rendering engine focused on PBR and Ray Tracing (Windows and Linux).",
+    "name": "luz",
+    "url": "https://github.com/study-game-engines/luz"
+  },
+  {
+    "description": "A game demo for Ant engine",
+    "name": "ant-demo",
+    "url": "https://github.com/study-game-engines/ant-demo"
+  },
+  {
+    "description": "Java Software Rendering Graphics Library",
+    "name": "software-renderer-java",
+    "url": "https://github.com/study-game-engines/software-renderer-java"
+  },
+  {
+    "description": "Orillusion is a pure Web3D rendering engine which is fully developed based on the WebGPU standard.",
+    "name": "orillusion",
+    "url": "https://github.com/study-game-engines/orillusion"
+  },
+  {
+    "description": "Luna SDK is a C++ software development framework for real-time rendering applications.",
+    "name": "luna",
+    "url": "https://github.com/study-game-engines/luna"
+  },
+  {
+    "description": "'Jet-Lagged Engine' is a work-in-progress C++/Lua game engine supporting Windows, Linux, Mac and browsers.",
+    "name": "jle",
+    "url": "https://github.com/study-game-engines/jle"
+  },
+  {
+    "description": "PainterEngine is a application/game engine with software renderer,PainterEngine can be transplanted to any platform that supports C",
+    "name": "software-renderer-painter",
+    "url": "https://github.com/study-game-engines/software-renderer-painter"
+  },
+  {
+    "description": "A Vulkan Render Engine",
+    "name": "vulkan-renderer",
+    "url": "https://github.com/study-game-engines/vulkan-renderer"
+  },
+  {
+    "description": "Lightweight and modular C++11 graphics middleware for games and data visualization",
+    "name": "magnum",
+    "url": "https://github.com/study-game-engines/magnum"
+  },
+  {
+    "description": "Simple solar system experiment",
+    "name": "unity-solarSystem",
+    "url": "https://github.com/study-game-engines/unity-solarSystem"
+  },
+  {
+    "description": "3D Renderer Engine builds with Vulkan and C++ 20  ",
+    "name": "zengine",
+    "url": "https://github.com/study-game-engines/zengine"
+  },
+  {
+    "description": "Source code of OpenGL tutorials on ogldev.org",
+    "name": "ogldev",
+    "url": "https://github.com/study-game-engines/ogldev"
+  },
+  {
+    "description": "WebGPU Samples",
+    "name": "webgpu-examples",
+    "url": "https://github.com/study-game-engines/webgpu-examples"
+  },
+  {
+    "description": "A JavaScript library aimed at visualizing graphs of thousands of nodes and edges",
+    "name": "sigma.js",
+    "url": "https://github.com/study-game-engines/sigma.js"
+  },
+  {
+    "description": "Collection of Vulkan samples",
+    "name": "nvidia-vulkan-examples",
+    "url": "https://github.com/study-game-engines/nvidia-vulkan-examples"
+  },
+  {
+    "description": "A game engine made as part of the Kohi Game Engine series on YouTube, where we make a game engine from the ground up using C and Vulkan.",
+    "name": "kohi",
+    "url": "https://github.com/study-game-engines/kohi"
+  },
+  {
+    "description": "Multiple graphics API target",
+    "name": "jengine",
+    "url": "https://github.com/study-game-engines/jengine"
+  },
+  {
+    "description": "A 3D world/level editor built with Java, Kotlin & libGDX.",
+    "name": "mundus",
+    "url": "https://github.com/study-game-engines/mundus"
+  },
+  {
+    "description": "A 2D rust game engine focused on portability.",
+    "name": "emerald",
+    "url": "https://github.com/study-game-engines/emerald"
+  },
+  {
+    "description": "A New Cross-Platform 2D 3D Game Engine",
+    "name": "echo",
+    "url": "https://github.com/study-game-engines/echo"
+  },
+  {
+    "description": "scene-oriented, flexible 3D engine (C++, Python, C#, Java)",
+    "name": "ogre",
+    "url": "https://github.com/study-game-engines/ogre"
+  },
+  {
+    "description": "Bloat-free Immediate Mode Graphical User interface for JVM with minimal dependencies (rewrite of dear imgui)",
+    "name": "imgui",
+    "url": "https://github.com/study-game-engines/imgui"
+  },
+  {
+    "description": "Game engine for 2D and 3D projects with entity component system (ECS) and data-oriented design",
+    "name": "supernova",
+    "url": "https://github.com/study-game-engines/supernova"
+  },
+  {
+    "description": "Cross-platform game engine in Rust. ",
+    "name": "macroquad",
+    "url": "https://github.com/study-game-engines/macroquad"
+  },
+  {
+    "description": "A highly flexible, voxel-powered game engine with an embedded editor. Create games using Lua, the native C/C++ API, and assets authored in voxel editors like MagicaVoxel or Avoyd.",
+    "name": "iolite",
+    "url": "https://github.com/study-game-engines/iolite"
+  },
+  {
+    "description": "Vision is a GPU physically based renderer",
+    "name": "vision",
+    "url": "https://github.com/study-game-engines/vision"
+  },
+  {
+    "description": "Defold is a completely free to use game engine for development of desktop, mobile and web games.",
+    "name": "defold",
+    "url": "https://github.com/study-game-engines/defold"
+  },
+  {
+    "description": "Korge libraries",
+    "name": "korge-librariesx",
+    "url": "https://github.com/study-game-engines/korge-librariesx"
+  },
+  {
+    "description": "OpenGL for beginners",
+    "name": "opengl-for-beginners",
+    "url": "https://github.com/study-game-engines/opengl-for-beginners"
+  },
+  {
+    "description": "Small DX12 render engine for educational purposes",
+    "name": "snow",
+    "url": "https://github.com/study-game-engines/snow"
+  },
+  {
+    "description": "DirectX11 graphics engine to learn the basics of graphics programming.",
+    "name": "dx11engine",
+    "url": "https://github.com/study-game-engines/dx11engine"
+  },
+  {
+    "description": "A Vulkan based render engine",
+    "name": "vienna",
+    "url": "https://github.com/study-game-engines/vienna"
+  },
+  {
+    "description": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2",
+    "name": "filament",
+    "url": "https://github.com/study-game-engines/filament"
+  },
+  {
+    "description": "The Abstract GPU is a cross platform low-level 3D graphics API.",
+    "name": "agpu",
+    "url": "https://github.com/study-game-engines/agpu"
+  },
+  {
+    "description": "Shading techniques and GLSL snippets",
+    "name": "graphics-snippets",
+    "url": "https://github.com/study-game-engines/graphics-snippets"
+  },
+  {
+    "description": "Collection of example applications built using the Donut framework.",
+    "name": "donut-examples",
+    "url": "https://github.com/study-game-engines/donut-examples"
+  },
+  {
+    "description": "Real-time rendering framework built by NVIDIA DevTech for use in various prototype renderers and code samples.",
+    "name": "donut",
+    "url": "https://github.com/study-game-engines/donut"
+  },
+  {
+    "description": "Unreal Tournament Engine Reimplementation",
+    "name": "surreal",
+    "url": "https://github.com/study-game-engines/surreal"
+  },
+  {
+    "description": "Cross-platform GPU-oriented C++ application/game framework",
+    "name": "neogfx",
+    "url": "https://github.com/study-game-engines/neogfx"
+  },
+  {
+    "description": "Game engine project in C++/DX11 to explore software infrastructure ideas",
+    "name": "chil",
+    "url": "https://github.com/study-game-engines/chil"
+  },
+  {
+    "description": "Ant game engine",
+    "name": "ant",
+    "url": "https://github.com/study-game-engines/ant"
+  },
+  {
+    "description": "optimized screen-space ambient occlusion, cache-aware hbao",
+    "name": "nvidia-ssao-demo",
+    "url": "https://github.com/study-game-engines/nvidia-ssao-demo"
+  },
+  {
+    "description": "OpenGL sample for shader-based occlusion culling",
+    "name": "nvidia-occlusion-culling-demo",
+    "url": "https://github.com/study-game-engines/nvidia-occlusion-culling-demo"
+  },
+  {
+    "description": "",
+    "name": "jfbx",
+    "url": "https://github.com/study-game-engines/jfbx"
+  },
+  {
+    "description": "First-Person Shooter as a tutorial based on the React + Three.js stack",
+    "name": "three.js-shooter",
+    "url": "https://github.com/study-game-engines/three.js-shooter"
+  },
+  {
+    "description": "Marlin is the FAST Java2D antialiasing rasterizer derived from OpenJDK Pisces (shape)",
+    "name": "marlin-rasterizer",
+    "url": "https://github.com/study-game-engines/marlin-rasterizer"
+  },
+  {
+    "description": "Render engine with Vulkan API backend and RTX support",
+    "name": "steel",
+    "url": "https://github.com/study-game-engines/steel"
+  },
+  {
+    "description": "Three.js-based implementation of 3D Gaussian splatting",
+    "name": "three.js-gaussianSplats",
+    "url": "https://github.com/study-game-engines/three.js-gaussianSplats"
+  },
+  {
+    "description": "Toon Shader with Unity Global Illumination",
+    "name": "unity-toongi-shader",
+    "url": "https://github.com/study-game-engines/unity-toongi-shader"
+  },
+  {
+    "description": "Tactical 2D shooter in fishy pixels style. Made with Rust-lang and Bevy",
+    "name": "bevy-shooter-demo",
+    "url": "https://github.com/study-game-engines/bevy-shooter-demo"
+  },
+  {
+    "description": "This repository is intended to be used as a code repository for learning DirectX 12.",
+    "name": "learndirectx",
+    "url": "https://github.com/study-game-engines/learndirectx"
+  },
+  {
+    "description": "",
+    "name": "fbx-viewer",
+    "url": "https://github.com/study-game-engines/fbx-viewer"
+  },
+  {
+    "description": "Improved version of the X-Ray Engine, the game engine used in the world-famous S.T.A.L.K.E.R.",
+    "name": "xray",
+    "url": "https://github.com/study-game-engines/xray"
+  },
+  {
+    "description": "Simple galaxy renderer/simulation written in C/C++ with Vulkan",
+    "name": "vulkan-galaxy-demo",
+    "url": "https://github.com/study-game-engines/vulkan-galaxy-demo"
+  },
+  {
+    "description": "Real-Time Rendering Framework",
+    "name": "falcor",
+    "url": "https://github.com/study-game-engines/falcor"
+  },
+  {
+    "description": "Addon for Blender to directly export to a Godot Scene",
+    "name": "godot-blender-exporter",
+    "url": "https://github.com/study-game-engines/godot-blender-exporter"
+  },
+  {
+    "description": "💣 A lightweight 3D physics engine written in JavaScript.",
+    "name": "cannon.js",
+    "url": "https://github.com/study-game-engines/cannon.js"
+  },
+  {
+    "description": "A C++-based, cross platform ray tracing library",
+    "name": "visionaray",
+    "url": "https://github.com/study-game-engines/visionaray"
+  },
+  {
+    "description": "Major overhaul of the Zero Engine and renaming to Welder.",
+    "name": "welder",
+    "url": "https://github.com/study-game-engines/welder"
+  },
+  {
+    "description": "",
+    "name": "unity-erosion",
+    "url": "https://github.com/study-game-engines/unity-erosion"
+  },
+  {
+    "description": "Logging library for Kotlin Multiplatform",
+    "name": "kmp-logger",
+    "url": "https://github.com/study-game-engines/kmp-logger"
+  },
+  {
+    "description": "Tiny C++ Software Renderer / Rasterizer, and implements OpenGL and Vulkan renderers for comparison",
+    "name": "softglrender",
+    "url": "https://github.com/study-game-engines/softglrender"
+  },
+  {
+    "description": "Documentation contents for Ultra Engine",
+    "name": "ultra-docs",
+    "url": "https://github.com/study-game-engines/ultra-docs"
+  },
+  {
+    "description": "This repository is a WIP cross-platform Game Engine developed in C#.",
+    "name": "final",
+    "url": "https://github.com/study-game-engines/final"
+  },
+  {
+    "description": "An implementation of OpenGL 3.x-ish in clean C",
+    "name": "winkler-opengl-software",
+    "url": "https://github.com/study-game-engines/winkler-opengl-software"
+  },
+  {
+    "description": "Sum of sines fluid simulation with a physically based water shader",
+    "name": "water",
+    "url": "https://github.com/study-game-engines/water"
+  },
+  {
+    "description": "Game engine for PlayStation 2™",
+    "name": "tyra",
+    "url": "https://github.com/study-game-engines/tyra"
+  },
+  {
+    "description": "Rendering engine in C#",
+    "name": "vapor",
+    "url": "https://github.com/study-game-engines/vapor"
+  },
+  {
+    "description": "Javascript Game Engine - 2d, top down game engine. Rendering primitives, images and datasets from Tiled Editor",
+    "name": "jsge",
+    "url": "https://github.com/study-game-engines/jsge"
+  },
+  {
+    "description": "A desktop application for node-based procedural terrain generation.",
+    "name": "hesiod",
+    "url": "https://github.com/study-game-engines/hesiod"
+  },
+  {
+    "description": "GlistEngine is a cross platform OpenGL game engine written in C++",
+    "name": "glist",
+    "url": "https://github.com/study-game-engines/glist"
+  },
+  {
+    "description": "TDEngine2 is a cross-platform game engine",
+    "name": "tde",
+    "url": "https://github.com/study-game-engines/tde"
+  },
+  {
+    "description": "Provides lightweight utilities to draw MSDF text on LibGDX",
+    "name": "libgdx-msdf",
+    "url": "https://github.com/study-game-engines/libgdx-msdf"
+  },
+  {
+    "description": "Example programs that test and illustrate how to use the VSG and optional add-on libraries",
+    "name": "vsg-examples",
+    "url": "https://github.com/study-game-engines/vsg-examples"
+  },
+  {
+    "description": "Game engine with a custom made software renderer (OpenGL-like rendering pipeline)",
+    "name": "simplex",
+    "url": "https://github.com/study-game-engines/simplex"
+  },
+  {
+    "description": "GPU Accelerated JavaScript",
+    "name": "gpu.js",
+    "url": "https://github.com/study-game-engines/gpu.js"
+  },
+  {
+    "description": "Three.js Ship demo project",
+    "name": "three.js-ship-demo",
+    "url": "https://github.com/study-game-engines/three.js-ship-demo"
+  },
+  {
+    "description": "",
+    "name": "paladin",
+    "url": "https://github.com/study-game-engines/paladin"
+  },
+  {
+    "description": "Template project for creating a new multi-platform application with kool.",
+    "name": "kool-templates",
+    "url": "https://github.com/study-game-engines/kool-templates"
+  },
+  {
+    "description": "☀️ Cascaded shadow maps (CSMs) implementation for Three.js",
+    "name": "three.js-shadowMaps",
+    "url": "https://github.com/study-game-engines/three.js-shadowMaps"
+  },
+  {
+    "description": "Game engine framework using DirectX 11, Direct2D, DirectWrite, Qt, FBX SDK, ImGui/ImGuizmo and PhysX",
+    "name": "vengine",
+    "url": "https://github.com/study-game-engines/vengine"
+  },
+  {
+    "description": "Nori: an educational ray tracer",
+    "name": "nori",
+    "url": "https://github.com/study-game-engines/nori"
+  },
+  {
+    "description": "This repo houses an in-progress submission for the 2023 GitHub Game Off.",
+    "name": "GO2023-GrapplePack",
+    "url": "https://github.com/study-game-engines/GO2023-GrapplePack"
+  },
+  {
+    "description": "",
+    "name": "unity-compute-shaders",
+    "url": "https://github.com/study-game-engines/unity-compute-shaders"
+  },
+  {
+    "description": "CSEngine is a cross-platform 3D game engine.",
+    "name": "cs",
+    "url": "https://github.com/study-game-engines/cs"
+  },
+  {
+    "description": "Anton's OpenGL 4 Tutorials book - Demo Code",
+    "name": "opengl-tutorials",
+    "url": "https://github.com/study-game-engines/opengl-tutorials"
+  },
+  {
+    "description": "Demo of a 3D glass portal card effect using R3F and Gaussian Splatting",
+    "name": "codrops",
+    "url": "https://github.com/study-game-engines/codrops"
+  },
+  {
+    "description": "Human-friendly hierarchy for Unity.",
+    "name": "unity-hierarchy",
+    "url": "https://github.com/study-game-engines/unity-hierarchy"
+  },
+  {
+    "description": "Simple 3D renderer in C++ and OpenGL with minimal dependencies",
+    "name": "sanz",
+    "url": "https://github.com/study-game-engines/sanz"
+  },
+  {
+    "description": "Nebula is an open-source and free-to-use modern C++ game engine.",
+    "name": "nebula",
+    "url": "https://github.com/study-game-engines/nebula"
+  },
+  {
+    "description": "Rendering glTF scenes with ray tracer and raster (Vulkan)",
+    "name": "vulkan-gltf",
+    "url": "https://github.com/study-game-engines/vulkan-gltf"
+  },
+  {
+    "description": "Web powered cross-platform 3D, WebXR game engine.",
+    "name": "nunu.js",
+    "url": "https://github.com/study-game-engines/nunu.js"
+  },
+  {
+    "description": "High Performance Game Engine for Production Pipeline",
+    "name": "razix",
+    "url": "https://github.com/study-game-engines/razix"
+  },
+  {
+    "description": "A sample app that demonstrates several techniques for rendering real-time shadow maps",
+    "name": "shadows",
+    "url": "https://github.com/study-game-engines/shadows"
+  },
+  {
+    "description": "Hanabi — a GPU particle system plugin for the Bevy game engine.",
+    "name": "bevy-particles",
+    "url": "https://github.com/study-game-engines/bevy-particles"
+  },
+  {
+    "description": "Extend Three.js standard materials with your own shaders!",
+    "name": "three.js-shaders",
+    "url": "https://github.com/study-game-engines/three.js-shaders"
+  },
+  {
+    "description": "",
+    "name": "ldl",
+    "url": "https://github.com/study-game-engines/ldl"
+  },
+  {
+    "description": "Browser platformer game about a builder who wants to reach the top of the building",
+    "name": "remiz-platformer-demo",
+    "url": "https://github.com/study-game-engines/remiz-platformer-demo"
+  },
+  {
+    "description": "GUI editor for Remiz game engine",
+    "name": "remiz-editor",
+    "url": "https://github.com/study-game-engines/remiz-editor"
+  },
+  {
+    "description": "It is a data-driven game engine for web browsers. It allows you to develop your own game using web technologies",
+    "name": "remiz",
+    "url": "https://github.com/study-game-engines/remiz"
+  },
+  {
+    "description": "A crate for loading glTF 2.0",
+    "name": "gltf-rust",
+    "url": "https://github.com/study-game-engines/gltf-rust"
+  },
+  {
+    "description": "c++ toolkit for rapid development of live graphical apps and games",
+    "name": "two",
+    "url": "https://github.com/study-game-engines/two"
+  },
+  {
+    "description": "Metal shaders for SwiftUI.",
+    "name": "inferno",
+    "url": "https://github.com/study-game-engines/inferno"
+  },
+  {
+    "description": "RTX Global Illumination (RTXGI)",
+    "name": "rtxgi",
+    "url": "https://github.com/study-game-engines/rtxgi"
+  },
+  {
+    "description": "Aether3D Game Engine",
+    "name": "aether",
+    "url": "https://github.com/study-game-engines/aether"
+  },
+  {
+    "description": "🌔 Toon shader for Unity's Universal Render Pipeline.",
+    "name": "unity-toon",
+    "url": "https://github.com/study-game-engines/unity-toon"
+  },
+  {
+    "description": "Flax Engine Documentation",
+    "name": "flax-docs",
+    "url": "https://github.com/study-game-engines/flax-docs"
+  },
+  {
+    "description": "An evented streaming XML parser in JavaScript",
+    "name": "saxes.js",
+    "url": "https://github.com/study-game-engines/saxes.js"
+  },
+  {
+    "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "name": "godot",
+    "url": "https://github.com/study-game-engines/godot"
+  },
+  {
+    "description": "A personal game engine project, with development focus towards 2D/2.5D games.",
+    "name": "iceshard",
+    "url": "https://github.com/study-game-engines/iceshard"
+  },
+  {
+    "description": "Game engine for EvanMMO's typescript games",
+    "name": "pigeon",
+    "url": "https://github.com/study-game-engines/pigeon"
+  },
+  {
+    "description": "2D and 3D physics engines focused on performance.",
+    "name": "rapier",
+    "url": "https://github.com/study-game-engines/rapier"
+  },
+  {
+    "description": "UPBGE, the best integrated game engine in Blender",
+    "name": "blender",
+    "url": "https://github.com/study-game-engines/blender"
+  },
+  {
+    "description": "Getting serious about Vulkan development with this modern C++ framework, battle-tested in rapid prototyping, research, and teaching. Includes support for real-time ray tracing (RTX), serialization, and meshlets.",
+    "name": "auto-vulkan",
+    "url": "https://github.com/study-game-engines/auto-vulkan"
+  },
+  {
+    "description": "A simple interactive ray-tracing renderer (OptiX)",
+    "name": "kiraray",
+    "url": "https://github.com/study-game-engines/kiraray"
+  },
+  {
+    "description": "vuk - A rendergraph-based abstraction for Vulkan",
+    "name": "vuk",
+    "url": "https://github.com/study-game-engines/vuk"
+  },
+  {
+    "description": "A shader pack for Minecraft: Java Edition",
+    "name": "minecraft-shaders-photon",
+    "url": "https://github.com/study-game-engines/minecraft-shaders-photon"
+  },
+  {
+    "description": "Hybrid GI solution, based on DDGI ( include  Ray-Tracing and SDF-Tracing )",
+    "name": "globalIllumination-hybrid",
+    "url": "https://github.com/study-game-engines/globalIllumination-hybrid"
+  },
+  {
+    "description": "A cross-platform Java game Engine (Framework) , support JavaFX / Android / IOS / HTML5 / Linux / MAC / Windows",
+    "name": "lgame",
+    "url": "https://github.com/study-game-engines/lgame"
+  },
+  {
+    "description": "Get into Game Development",
+    "name": "getIntoGameDev",
+    "url": "https://github.com/study-game-engines/getIntoGameDev"
+  },
+  {
+    "description": "Complete cel shader for Godot 4",
+    "name": "godot-cel-shader",
+    "url": "https://github.com/study-game-engines/godot-cel-shader"
+  },
+  {
+    "description": "glTF 2.0 model viewer",
+    "name": "playcanvas-model-viewer",
+    "url": "https://github.com/study-game-engines/playcanvas-model-viewer"
+  },
+  {
+    "description": "A little raytracer written in Processing",
+    "name": "notchrt",
+    "url": "https://github.com/study-game-engines/notchrt"
+  },
+  {
+    "description": "libGDX UI toolkit",
+    "name": "libgdx-ui",
+    "url": "https://github.com/study-game-engines/libgdx-ui"
+  },
+  {
+    "description": "Realtime GPU Path tracer based on OpenCL and OpenGL",
+    "name": "raytracer-veselov",
+    "url": "https://github.com/study-game-engines/raytracer-veselov"
+  },
+  {
+    "description": "A desktop image editor ",
+    "name": "pixelitor",
+    "url": "https://github.com/study-game-engines/pixelitor"
+  },
+  {
+    "description": "Volumetric rendering of fur",
+    "name": "fur",
+    "url": "https://github.com/study-game-engines/fur"
+  },
+  {
+    "description": "A software rendering crate that lets you write shaders with Rust",
+    "name": "euc",
+    "url": "https://github.com/study-game-engines/euc"
+  },
+  {
+    "description": "HTML5 multiplayer game engine",
+    "name": "moddio",
+    "url": "https://github.com/study-game-engines/moddio"
+  },
+  {
+    "description": "2D renderer written in C utilizing Vulkan",
+    "name": "vk2d",
+    "url": "https://github.com/study-game-engines/vk2d"
+  },
+  {
+    "description": "A deferred physically based 3D renderer into a simple to use header-only library.",
+    "name": "gl3d",
+    "url": "https://github.com/study-game-engines/gl3d"
+  },
+  {
+    "description": "Fast and minimalist 3D viewer.",
+    "name": "f3d",
+    "url": "https://github.com/study-game-engines/f3d"
+  },
+  {
+    "description": "A modern cross-platform game engine (WIP)",
+    "name": "explosion",
+    "url": "https://github.com/study-game-engines/explosion"
+  },
+  {
+    "description": "Three.js challenge 4 - Halloween",
+    "name": "three.js-halloween-demo",
+    "url": "https://github.com/study-game-engines/three.js-halloween-demo"
+  },
+  {
+    "description": "My personal dumping ground for misc three.js sketches.",
+    "name": "three.js-demos",
+    "url": "https://github.com/study-game-engines/three.js-demos"
+  },
+  {
+    "description": "Pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL.",
+    "name": "pygame",
+    "url": "https://github.com/study-game-engines/pygame"
+  },
+  {
+    "description": "A simple framework for rapid prototyping on Vulkan or Direct3D 12",
+    "name": "cauldron",
+    "url": "https://github.com/study-game-engines/cauldron"
+  },
+  {
+    "description": "A game engine powered by python and panda3d.",
+    "name": "ursina",
+    "url": "https://github.com/study-game-engines/ursina"
+  },
+  {
+    "description": "Comfy is a fun 2D game engine built in Rust. It's designed to be opinionated, productive, and easy to use.",
+    "name": "comfy",
+    "url": "https://github.com/study-game-engines/comfy"
+  },
+  {
+    "description": "3D City Builder without a grid",
+    "name": "egregoria",
+    "url": "https://github.com/study-game-engines/egregoria"
+  },
+  {
+    "description": "optimized screen-space ambient occlusion, cache-aware hbao",
+    "name": "nvidia-ssao",
+    "url": "https://github.com/study-game-engines/nvidia-ssao"
+  },
+  {
+    "description": "Javascript Matrix and Vector library for High Performance WebGL apps",
+    "name": "matrix.js",
+    "url": "https://github.com/study-game-engines/matrix.js"
+  },
+  {
+    "description": "Multi-OS 3D engine.",
+    "name": "castor",
+    "url": "https://github.com/study-game-engines/castor"
+  },
+  {
+    "description": "A Software Rendering Raycaster Engine written in C and SDL2.",
+    "name": "toment",
+    "url": "https://github.com/study-game-engines/toment"
+  },
+  {
+    "description": "curtains.js is a lightweight vanilla WebGL javascript library that turns HTML DOM elements into interactive textured planes.",
+    "name": "curtains.js",
+    "url": "https://github.com/study-game-engines/curtains.js"
+  },
+  {
+    "description": "Easy to use, customizable, efficient 3D renderer library built on wgpu.",
+    "name": "rend3",
+    "url": "https://github.com/study-game-engines/rend3"
+  },
+  {
+    "description": "Blazingly fast path based modular layout system built on top of Bevy ECS.",
+    "name": "bevy-layout",
+    "url": "https://github.com/study-game-engines/bevy-layout"
+  },
+  {
+    "description": "Game engine is a C++ powered 2D and 3D game engine that is designed to be straigt forward yet powerful for all users",
+    "name": "plasma",
+    "url": "https://github.com/study-game-engines/plasma"
+  },
+  {
+    "description": "DirectX 12 C# samples from Frank D. Luna's book \"Introduction to 3D Game Programming with Direct3D 12.0\"",
+    "name": "directx-examples",
+    "url": "https://github.com/study-game-engines/directx-examples"
+  },
+  {
+    "description": "Live: https://engine.needle.tools/samples - Needle Engine sample scenes - use as examples and as a reference for learning",
+    "name": "needle-examples",
+    "url": "https://github.com/study-game-engines/needle-examples"
+  },
+  {
+    "description": "Contains the website and all examples.",
+    "name": "enable3d.js-examples",
+    "url": "https://github.com/study-game-engines/enable3d.js-examples"
+  },
+  {
+    "description": "Standalone 3D Framework / Physics for three.js (using ammo.js) / 3D extension for Phaser 3",
+    "name": "enable3d.js",
+    "url": "https://github.com/study-game-engines/enable3d.js"
+  },
+  {
+    "description": "A terrain rendering plugin for the bevy game engine.",
+    "name": "bevy-terrain",
+    "url": "https://github.com/study-game-engines/bevy-terrain"
+  },
+  {
+    "description": "2D HTML5 rendering and layout engine for game development",
+    "name": "stage.js",
+    "url": "https://github.com/study-game-engines/stage.js"
+  },
+  {
+    "description": "",
+    "name": "libgdx-decals",
+    "url": "https://github.com/study-game-engines/libgdx-decals"
+  },
+  {
+    "description": "Try of running OpenGL on top of DirectX11, so I could use DLSS in the future; lots missing still",
+    "name": "dx4j",
+    "url": "https://github.com/study-game-engines/dx4j"
+  },
+  {
+    "description": "Repo to include showcases",
+    "name": "korge-demos",
+    "url": "https://github.com/study-game-engines/korge-demos"
+  },
+  {
+    "description": "Spine Runtime for KorGE Game Engine",
+    "name": "korge-spine",
+    "url": "https://github.com/study-game-engines/korge-spine"
+  },
+  {
+    "description": "Toy renderer to learn wgpu and computer graphics built with bevy",
+    "name": "glace",
+    "url": "https://github.com/study-game-engines/glace"
+  },
+  {
+    "description": "A PBR soft renderer pipeline in pure C++. A  complete render engine.",
+    "name": "software-renderer-silver",
+    "url": "https://github.com/study-game-engines/software-renderer-silver"
+  },
+  {
+    "description": "Allows custom effect shaders in JavaFX",
+    "name": "javafx-shader-support",
+    "url": "https://github.com/study-game-engines/javafx-shader-support"
+  },
+  {
+    "description": "Daxa is my opinionated gpu api library.",
+    "name": "daxa",
+    "url": "https://github.com/study-game-engines/daxa"
+  },
+  {
+    "description": "Nez is a free 2D focused framework that works with MonoGame and FNA",
+    "name": "nez",
+    "url": "https://github.com/study-game-engines/nez"
+  },
+  {
+    "description": "Game engine in C++",
+    "name": "mainkid",
+    "url": "https://github.com/study-game-engines/mainkid"
+  },
+  {
+    "description": "Samples and demos of various Nez features",
+    "name": "nez-examples",
+    "url": "https://github.com/study-game-engines/nez-examples"
+  },
+  {
+    "description": "Particle System for Three.js",
+    "name": "three.js-particle-system",
+    "url": "https://github.com/study-game-engines/three.js-particle-system"
+  },
+  {
+    "description": "Dx3d 포트폴리오",
+    "name": "dx3d",
+    "url": "https://github.com/study-game-engines/dx3d"
+  },
+  {
+    "description": "GO HERE FIRST: nvpro-samples overview",
+    "name": "nvidia-demos",
+    "url": "https://github.com/study-game-engines/nvidia-demos"
+  },
+  {
+    "description": "A lightweight render engine written purely in C#",
+    "name": "voltium",
+    "url": "https://github.com/study-game-engines/voltium"
+  },
+  {
+    "description": "Powerful Path Tracing Engine For Realistic Rendering",
+    "name": "lux",
+    "url": "https://github.com/study-game-engines/lux"
+  },
+  {
+    "description": "In this project, I wanted to show that creating a fancy design like this using #threejs is not as difficult as it looks. It has only 240 lines of code. The original design was created by Tom Bogner @dastom on Dribble: https://dribbble.com/shots/6767548-The-Three-Graces-Concept.",
+    "name": "threejs-demo-graces",
+    "url": "https://github.com/study-game-engines/threejs-demo-graces"
+  },
+  {
+    "description": "Cross-Platform C++ 2D/3D game engine",
+    "name": "lumos",
+    "url": "https://github.com/study-game-engines/lumos"
+  },
+  {
+    "description": "One framework for creating powerful cross-platform games.",
+    "name": "monogame",
+    "url": "https://github.com/study-game-engines/monogame"
+  },
+  {
+    "description": "A small C# game framework",
+    "name": "foster",
+    "url": "https://github.com/study-game-engines/foster"
+  },
+  {
+    "description": "A Java-based minimalistic game engine and software renderer.",
+    "name": "software-renderer-dwarf",
+    "url": "https://github.com/study-game-engines/software-renderer-dwarf"
+  },
+  {
+    "description": "HTML5 Game Engine",
+    "name": "impact.js",
+    "url": "https://github.com/study-game-engines/impact.js"
+  },
+  {
+    "description": "simple gltf loader",
+    "name": "gltf-loader-nanoserde",
+    "url": "https://github.com/study-game-engines/gltf-loader-nanoserde"
+  },
+  {
+    "description": "A 3-D software renderer written from scratch running in an HTML5 <canvas>",
+    "name": "tmp3d",
+    "url": "https://github.com/study-game-engines/tmp3d"
+  },
+  {
+    "description": "An open source C++ game engine.",
+    "name": "ez",
+    "url": "https://github.com/study-game-engines/ez"
+  },
+  {
+    "description": "a simple cross-platform game framework made in C# dotnet core",
+    "name": "fosterold",
+    "url": "https://github.com/study-game-engines/fosterold"
+  },
+  {
+    "description": "Realtime 3D rendering engine",
+    "name": "stratus",
+    "url": "https://github.com/study-game-engines/stratus"
+  },
+  {
+    "description": "Simple Java SVG parsing library",
+    "name": "svgl",
+    "url": "https://github.com/study-game-engines/svgl"
+  },
+  {
+    "description": "3D FPS game engine with full dynamic lighting and shadows",
+    "name": "limon",
+    "url": "https://github.com/study-game-engines/limon"
+  },
+  {
+    "description": "A cross-platform game engine/editor written by modern C++",
+    "name": "catdog",
+    "url": "https://github.com/study-game-engines/catdog"
+  },
+  {
+    "description": "Skylicht Engine is C++ Game Engine based on Irrlicht 3D. We have upgraded to more features. Cross-Platform Framework (Android, IOS, UWP, HTML5)",
+    "name": "skylicht",
+    "url": "https://github.com/study-game-engines/skylicht"
+  },
+  {
+    "description": "Korge plugin for IntelliJ, featuring project wizard and some actions",
+    "name": "korge-intellij-plugin",
+    "url": "https://github.com/study-game-engines/korge-intellij-plugin"
+  },
+  {
+    "description": "Game engine written in Java and Kotlin with OpenGl and LWJGL",
+    "name": "planet",
+    "url": "https://github.com/study-game-engines/planet"
+  },
+  {
+    "description": "Single-header, cross-platform libraries for game development",
+    "name": "pico",
+    "url": "https://github.com/study-game-engines/pico"
+  },
+  {
+    "description": "Hotham is a tool for creating incredible standalone VR games.",
+    "name": "hotham",
+    "url": "https://github.com/study-game-engines/hotham"
+  },
+  {
+    "description": "UI Library for MonoGame, FNA and Stride",
+    "name": "myra",
+    "url": "https://github.com/study-game-engines/myra"
+  },
+  {
+    "description": "A powerful multithreaded game engine using Vulkan with features like PBR, realtime global illumination, and more",
+    "name": "hyperion",
+    "url": "https://github.com/study-game-engines/hyperion"
+  },
+  {
+    "description": "Cross platform toy render engine supporting physically based rendering and software ray tracing",
+    "name": "atlas-raytracer",
+    "url": "https://github.com/study-game-engines/atlas-raytracer"
+  },
+  {
+    "description": "Vulkan based Renderer and Game Engine",
+    "name": "oxylus",
+    "url": "https://github.com/study-game-engines/oxylus"
+  },
+  {
+    "description": "Demonstration and Template Projects",
+    "name": "godot-demos",
+    "url": "https://github.com/study-game-engines/godot-demos"
+  },
+  {
+    "description": "C++ open source 3D game engine",
+    "name": "mxengine",
+    "url": "https://github.com/study-game-engines/mxengine"
+  },
+  {
+    "description": "Tutorials from the following playlist: https://www.youtube.com/playlist?list=PLPaoO-vpZnumdcb4tZc4x5Q-v7CkrQ6M-",
+    "name": "opengl-examples-gordan",
+    "url": "https://github.com/study-game-engines/opengl-examples-gordan"
+  },
+  {
+    "description": "OpenGL/Vulkan Java 3D Engine",
+    "name": "oreon-java",
+    "url": "https://github.com/study-game-engines/oreon-java"
+  },
+  {
+    "description": "Tutorials for OpenGL 3.3 and later",
+    "name": "opengl-tutorial",
+    "url": "https://github.com/study-game-engines/opengl-tutorial"
+  },
+  {
+    "description": "A beginner-friendly Vulkan path tracing tutorial in under 300 lines of C++.",
+    "name": "pathtracer-vulkan-nvidia",
+    "url": "https://github.com/study-game-engines/pathtracer-vulkan-nvidia"
+  },
+  {
+    "description": "An experimental GPU compute-centric 2D renderer.",
+    "name": "vello",
+    "url": "https://github.com/study-game-engines/vello"
+  },
+  {
+    "description": "An implementation of the Jump Flooding Algorithm for the Bevy engine.",
+    "name": "bevy-jfa",
+    "url": "https://github.com/study-game-engines/bevy-jfa"
+  },
+  {
+    "description": "HARFANG 3D source code public repository",
+    "name": "harfang",
+    "url": "https://github.com/study-game-engines/harfang"
+  },
+  {
+    "description": "The Most Powerful Open Source Game Engine in the World",
+    "name": "esenthel",
+    "url": "https://github.com/study-game-engines/esenthel"
+  },
+  {
+    "description": "Single-file glTF 2.0 loader and writer written in C99",
+    "name": "kuhlmann-gltf-loader",
+    "url": "https://github.com/study-game-engines/kuhlmann-gltf-loader"
+  },
+  {
+    "description": "For learning purposes I took Software Renderer in Java and converted it to Kotlin",
+    "name": "bennybox-software-renderer",
+    "url": "https://github.com/study-game-engines/bennybox-software-renderer"
+  },
+  {
+    "description": "realtime ray tracing",
+    "name": "raytracing-opengl",
+    "url": "https://github.com/study-game-engines/raytracing-opengl"
+  },
+  {
+    "description": "A case study in effective WebGPU patterns for rendering glTF models",
+    "name": "webgpu-gltf-study",
+    "url": "https://github.com/study-game-engines/webgpu-gltf-study"
+  },
+  {
+    "description": "A simple C++ framework for implementing graphics technique samples using OpenGL and Vulkan.",
+    "name": "dwsample",
+    "url": "https://github.com/study-game-engines/dwsample"
+  },
+  {
+    "description": "A simple realtime graphics playground for experimentations.",
+    "name": "rendu",
+    "url": "https://github.com/study-game-engines/rendu"
+  },
+  {
+    "description": "Vulkan 2D graphics library",
+    "name": "vkvg",
+    "url": "https://github.com/study-game-engines/vkvg"
+  },
+  {
+    "description": "Simple 3D voxel engine built in Java",
+    "name": "jvoxel",
+    "url": "https://github.com/study-game-engines/jvoxel"
+  },
+  {
+    "description": "",
+    "name": "three.js-fluid",
+    "url": "https://github.com/study-game-engines/three.js-fluid"
+  },
+  {
+    "description": "Java libraries related to glTF",
+    "name": "gltf4j",
+    "url": "https://github.com/study-game-engines/gltf4j"
+  },
+  {
+    "description": "Ct.js is a desktop game engine that makes learning programming fun and game development easy by its visual editors and well-documented code library",
+    "name": "ct.js",
+    "url": "https://github.com/study-game-engines/ct.js"
+  },
+  {
+    "description": "YouTube ray tracing series",
+    "name": "chernort",
+    "url": "https://github.com/study-game-engines/chernort"
+  },
+  {
+    "description": "LuxCore source repository",
+    "name": "luxcore",
+    "url": "https://github.com/study-game-engines/luxcore"
+  },
+  {
+    "description": "Experimental voxel game engine.",
+    "name": "noa",
+    "url": "https://github.com/study-game-engines/noa"
+  },
+  {
+    "description": "An experimental Rust native UI framework",
+    "name": "xilem",
+    "url": "https://github.com/study-game-engines/xilem"
+  },
+  {
+    "description": "A (very) simple path tracer implemented using DirectX Ray Tracing (DXR)",
+    "name": "dxrpathtracer",
+    "url": "https://github.com/study-game-engines/dxrpathtracer"
+  },
+  {
+    "description": "",
+    "name": "raymarching-python",
+    "url": "https://github.com/study-game-engines/raymarching-python"
+  },
+  {
+    "description": "based on Khronos Vulkan-Samples",
+    "name": "vulkan-examples",
+    "url": "https://github.com/study-game-engines/vulkan-examples"
+  },
+  {
+    "description": "A basic 3D scene implemented with various engines, frameworks or APIs.",
+    "name": "herebedragons",
+    "url": "https://github.com/study-game-engines/herebedragons"
+  },
+  {
+    "description": "An abstraction for 2D graphics.",
+    "name": "piet",
+    "url": "https://github.com/study-game-engines/piet"
+  },
+  {
+    "description": "Set of experiments and extensions to THREE.js.",
+    "name": "three.js-sandbox",
+    "url": "https://github.com/study-game-engines/three.js-sandbox"
+  },
+  {
+    "description": "An open source version of a game engine developed by Croteam for the classic Serious Sam games.",
+    "name": "serious",
+    "url": "https://github.com/study-game-engines/serious"
+  },
+  {
+    "description": "An efficient and visually pleasing implementation of SSAO with an emphasis on temporal stability and artist control.",
+    "name": "three.js-ssao",
+    "url": "https://github.com/study-game-engines/three.js-ssao"
+  },
+  {
+    "description": "Free, open source game engine online",
+    "name": "microstudio.js",
+    "url": "https://github.com/study-game-engines/microstudio.js"
+  },
+  {
+    "description": "An open source render engine",
+    "name": "osre",
+    "url": "https://github.com/study-game-engines/osre"
+  },
+  {
+    "description": "DirectX12 Graphics renderer used for implementing rendering techniques such as PBR / IBL, Deferred Shading, SSAO, Bloom, Shadow Mapping, etc",
+    "name": "helios",
+    "url": "https://github.com/study-game-engines/helios"
+  },
+  {
+    "description": "3D Game Engine/Renderer",
+    "name": "syndra",
+    "url": "https://github.com/study-game-engines/syndra"
+  },
+  {
+    "description": "",
+    "name": "korge-store",
+    "url": "https://github.com/study-game-engines/korge-store"
+  },
+  {
+    "description": "My toy engine, mainly for rendering experiment and prototyping. ",
+    "name": "real",
+    "url": "https://github.com/study-game-engines/real"
+  },
+  {
+    "description": "Official Uniday Engine Documentation Website",
+    "name": "cave",
+    "url": "https://github.com/study-game-engines/cave"
+  },
+  {
+    "description": "Particle effect editing tool",
+    "name": "effekseer",
+    "url": "https://github.com/study-game-engines/effekseer"
+  },
+  {
+    "description": "Sponza",
+    "name": "bevy-sponza-example",
+    "url": "https://github.com/study-game-engines/bevy-sponza-example"
+  },
+  {
+    "description": "A Data-Oriented, C++20 Game Engine",
+    "name": "polos",
+    "url": "https://github.com/study-game-engines/polos"
+  },
+  {
+    "description": "NanoRT, single header only modern ray tracing kernel.",
+    "name": "nanort",
+    "url": "https://github.com/study-game-engines/nanort"
+  },
+  {
+    "description": "My path tracer",
+    "name": "atrc",
+    "url": "https://github.com/study-game-engines/atrc"
+  },
+  {
+    "description": "Blueshift is a cross-platform 3D game engine implemented in C++. it's free, open-source, and works on Windows, macOS, iOS, and Android. The project is currently in an early stage of development.",
+    "name": "blueshift",
+    "url": "https://github.com/study-game-engines/blueshift"
+  },
+  {
+    "description": "",
+    "name": "bevy-blurredOutline-shader",
+    "url": "https://github.com/study-game-engines/bevy-blurredOutline-shader"
+  },
+  {
+    "description": "Dozens of free and open source demos for the Godot game engine, version 3. Head to the link below for newer demos for Godot 4+",
+    "name": "gdquest",
+    "url": "https://github.com/study-game-engines/gdquest"
+  },
+  {
+    "description": "Powerful, mature open-source cross-platform game engine for Python and C++, developed by Disney and CMU",
+    "name": "panda",
+    "url": "https://github.com/study-game-engines/panda"
+  },
+  {
+    "description": "An example path tracer that runs on multiple ray tracing backends (Embree/DXR/OptiX/Vulkan/Metal/OSPRay)",
+    "name": "chameleon",
+    "url": "https://github.com/study-game-engines/chameleon"
+  },
+  {
+    "description": "SOIL2 is a tiny C library used primarily for uploading textures into OpenGL.",
+    "name": "soil",
+    "url": "https://github.com/study-game-engines/soil"
+  },
+  {
+    "description": "A fast, easy to use C++20 3D game engine for modern computers",
+    "name": "rave",
+    "url": "https://github.com/study-game-engines/rave"
+  },
+  {
+    "description": "Rust library to create a Good Game Easily",
+    "name": "ggez",
+    "url": "https://github.com/study-game-engines/ggez"
+  },
+  {
+    "description": "Volume rendering",
+    "name": "volumeRender",
+    "url": "https://github.com/study-game-engines/volumeRender"
+  },
+  {
+    "description": "The perfect place to learn gamedev no matter what your current programming level is",
+    "name": "lowlevel",
+    "url": "https://github.com/study-game-engines/lowlevel"
+  },
+  {
+    "description": "Esoterica Engine",
+    "name": "esoterica",
+    "url": "https://github.com/study-game-engines/esoterica"
+  },
+  {
+    "description": "Dead Simple OpenGL",
+    "name": "glitter",
+    "url": "https://github.com/study-game-engines/glitter"
+  },
+  {
+    "description": "",
+    "name": "teachable-glsl-shaders-from-scratch",
+    "url": "https://github.com/study-game-engines/teachable-glsl-shaders-from-scratch"
+  },
+  {
+    "description": "Physically-Based Rendering in glTF 2.0 using WebGL",
+    "name": "gltf-viewer.js",
+    "url": "https://github.com/study-game-engines/gltf-viewer.js"
+  },
+  {
+    "description": "A simple and easy-to-use library to enjoy videogames programming",
+    "name": "raylib",
+    "url": "https://github.com/study-game-engines/raylib"
+  },
+  {
+    "description": "Here's the raytracer I made in Python. ",
+    "name": "popcornrt",
+    "url": "https://github.com/study-game-engines/popcornrt"
+  },
+  {
+    "description": "Renderer which almost matches Path Tracing in quality, while generating noiseless images hundreds times faster",
+    "name": "raytracer-krakowiak",
+    "url": "https://github.com/study-game-engines/raytracer-krakowiak"
+  },
+  {
+    "description": "My recreation of CS2's responsive smoke grenades in Unity",
+    "name": "unity-smoke-demo",
+    "url": "https://github.com/study-game-engines/unity-smoke-demo"
+  },
+  {
+    "description": "The Tiny JavaScript Game Engine That Can!",
+    "name": "little.js",
+    "url": "https://github.com/study-game-engines/little.js"
+  },
+  {
+    "description": "The Isogenic Game Engine",
+    "name": "ige.js",
+    "url": "https://github.com/study-game-engines/ige.js"
+  },
+  {
+    "description": "A cross-platform game engine written in Kotlin, supporting 2D and 3D graphics",
+    "name": "kotar",
+    "url": "https://github.com/study-game-engines/kotar"
+  },
+  {
+    "description": "A command-line tool for the conversion of 3D model assets on the FBX file format to the glTF file format.",
+    "name": "fbx2gltf",
+    "url": "https://github.com/study-game-engines/fbx2gltf"
+  },
+  {
+    "description": "Fixed wing aircraft physics for Unity",
+    "name": "unity-aircraft",
+    "url": "https://github.com/study-game-engines/unity-aircraft"
+  },
+  {
+    "description": "To store all models and other assets related to glTF",
+    "name": "gltf-samples-khronos",
+    "url": "https://github.com/study-game-engines/gltf-samples-khronos"
+  },
+  {
+    "description": "Lina Engine is an open-source , modular, tiny and fast C++ game engine, aimed to develop 3D desktop games.",
+    "name": "lina",
+    "url": "https://github.com/study-game-engines/lina"
+  },
+  {
+    "description": "Example worlds built on the `noa` voxel engine",
+    "name": "noa-examples",
+    "url": "https://github.com/study-game-engines/noa-examples"
+  },
+  {
+    "description": "This repo is for glsl shaders converted by hand from libretro's common-shaders repo, since some don't play nicely with the cg2glsl script.",
+    "name": "libretro-shaders",
+    "url": "https://github.com/study-game-engines/libretro-shaders"
+  },
+  {
+    "description": "A fast, header-only, C++17 library for parsing Wavefront .obj files.",
+    "name": "rapidobj",
+    "url": "https://github.com/study-game-engines/rapidobj"
+  },
+  {
+    "description": "Piccolo (formerly Pilot) – mini game engine for games104",
+    "name": "piccolo",
+    "url": "https://github.com/study-game-engines/piccolo"
+  },
+  {
+    "description": "",
+    "name": "three.js-sketches",
+    "url": "https://github.com/study-game-engines/three.js-sketches"
+  },
+  {
+    "description": "Русский игровой движок",
+    "name": "dviglo",
+    "url": "https://github.com/study-game-engines/dviglo"
+  },
+  {
+    "description": "2D OpenGL krossplatform - library (+ full OpenGL)",
+    "name": "zengl",
+    "url": "https://github.com/study-game-engines/zengl"
+  },
+  {
+    "description": "A practical tool developed using JavaFX; Software development for PC or mobile; Image tools,Color tools,Svg Tools, Font tools, Library and so on....",
+    "name": "javafx-tools",
+    "url": "https://github.com/study-game-engines/javafx-tools"
+  },
+  {
+    "description": "Basic WebGPU samples from Orillusion",
+    "name": "orillusion-examples",
+    "url": "https://github.com/study-game-engines/orillusion-examples"
+  },
+  {
+    "description": "A spare-time C# .NET 7 game engine project. Cross-platform, multi-threaded.",
+    "name": "molten",
+    "url": "https://github.com/study-game-engines/molten"
+  },
+  {
+    "description": "AMD ARR team rendering framework",
+    "name": "capsaicin",
+    "url": "https://github.com/study-game-engines/capsaicin"
+  },
+  {
+    "description": "Nothing special, just a harness so I can live edit shaders with glslify, and use the Shadertoy uniforms",
+    "name": "shaders-hooper",
+    "url": "https://github.com/study-game-engines/shaders-hooper"
+  },
+  {
+    "description": "KlayGE is a cross-platform open source game engine with plugin-based architecture.",
+    "name": "klay",
+    "url": "https://github.com/study-game-engines/klay"
+  },
+  {
+    "description": "a voxel path-tracer",
+    "name": "doon",
+    "url": "https://github.com/study-game-engines/doon"
+  },
+  {
+    "description": "Mengine is an multiple platforms engine for creating and running graphical games",
+    "name": "mengine",
+    "url": "https://github.com/study-game-engines/mengine"
+  },
+  {
+    "description": "Various shaders. ",
+    "name": "zaworski-shaders",
+    "url": "https://github.com/study-game-engines/zaworski-shaders"
+  },
+  {
+    "description": "A Java API for 3d and 2d charts",
+    "name": "jzy",
+    "url": "https://github.com/study-game-engines/jzy"
+  },
+  {
+    "description": "Extension of Unity Toolbar with custom play buttons for playing a particular scene without switching scene.",
+    "name": "unity-play-button",
+    "url": "https://github.com/study-game-engines/unity-play-button"
+  },
+  {
+    "description": "A small 2d c++ game framework",
+    "name": "blah",
+    "url": "https://github.com/study-game-engines/blah"
+  },
+  {
+    "description": "Color space conversion math made simple",
+    "name": "colorConverter",
+    "url": "https://github.com/study-game-engines/colorConverter"
+  },
+  {
+    "description": "Axolotl Engine is a game development tool built by Horizons Games, a game studio comprised of a group of students at the UPC School.",
+    "name": "axolotl",
+    "url": "https://github.com/study-game-engines/axolotl"
+  },
+  {
+    "description": "Header only C++11 tiny glTF 2.0 library",
+    "name": "tinygltf",
+    "url": "https://github.com/study-game-engines/tinygltf"
+  },
+  {
+    "description": "Outline Image Effect for Unity",
+    "name": "unity-outline",
+    "url": "https://github.com/study-game-engines/unity-outline"
+  },
+  {
+    "description": "Demo suite for LWJGL 3",
+    "name": "lwjgl-demos",
+    "url": "https://github.com/study-game-engines/lwjgl-demos"
+  },
+  {
+    "description": "A hand-crafted 2D game library in Go",
+    "name": "pixel",
+    "url": "https://github.com/study-game-engines/pixel"
+  },
+  {
+    "description": "3D Game engine building from Gameplay3D codebase",
+    "name": "mgp",
+    "url": "https://github.com/study-game-engines/mgp"
+  },
+  {
+    "description": "Complementary Reimagined by EminGT, with voxelisation, ray traced occlusion checks and coloured flood fill block light by gri573",
+    "name": "gri-shaders",
+    "url": "https://github.com/study-game-engines/gri-shaders"
+  },
+  {
+    "description": "A Minecraft shaderpack that enhances one's experience with the help of good-looking graphics and light simulations.",
+    "name": "noble-shaders",
+    "url": "https://github.com/study-game-engines/noble-shaders"
+  },
+  {
+    "description": "Vulkan, OptiX and CUDA Interoperation Modular Rendering Library and Framework for PC/Linux/Android",
+    "name": "nabla",
+    "url": "https://github.com/study-game-engines/nabla"
+  },
+  {
+    "description": "All-in-One Godot Engine runtime debugging tool.",
+    "name": "godot-debugger",
+    "url": "https://github.com/study-game-engines/godot-debugger"
+  },
+  {
+    "description": "A good performing fantasy stylised shaderpack with fancy visuals!",
+    "name": "septonious-shaders",
+    "url": "https://github.com/study-game-engines/septonious-shaders"
+  },
+  {
+    "description": "A C++ binding for the OpenGL API, generated using the gl.xml specification. ",
+    "name": "glbinding",
+    "url": "https://github.com/study-game-engines/glbinding"
+  },
+  {
+    "description": "A shader pack created to convey the style of the cancelled Super Duper Graphics Pack and other popular Minecraft titles.",
+    "name": "eldeston-shaders",
+    "url": "https://github.com/study-game-engines/eldeston-shaders"
+  },
+  {
+    "description": "Complete cel shader for Godot 4",
+    "name": "shaders-godot-cel",
+    "url": "https://github.com/study-game-engines/shaders-godot-cel"
+  },
+  {
+    "description": "A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.",
+    "name": "beginner-shaders",
+    "url": "https://github.com/study-game-engines/beginner-shaders"
+  },
+  {
+    "description": "Cyclone 1985 clone made in Oxylus Engine",
+    "name": "oxylus-cyclone-demo",
+    "url": "https://github.com/study-game-engines/oxylus-cyclone-demo"
+  },
+  {
+    "description": "Vulkan Kotlin 3D Engine",
+    "name": "oreon",
+    "url": "https://github.com/study-game-engines/oreon"
+  },
+  {
+    "description": "A collection of heavily commented WebGL shaders created with p5.js and GLSL",
+    "name": "p5.js-shaders",
+    "url": "https://github.com/study-game-engines/p5.js-shaders"
+  },
+  {
+    "description": "High performance software rendering in c#",
+    "name": "software-renderer-gorski",
+    "url": "https://github.com/study-game-engines/software-renderer-gorski"
+  },
+  {
+    "description": "GLTF loader plugin for Lumix Engine",
+    "name": "lumix-gltf-loader",
+    "url": "https://github.com/study-game-engines/lumix-gltf-loader"
+  },
+  {
+    "description": "CMake scripts to build nCine dependency libraries for Android",
+    "name": "ncine-android",
+    "url": "https://github.com/study-game-engines/ncine-android"
+  },
+  {
+    "description": "Miniquad game engine examples",
+    "name": "miniquad-examples",
+    "url": "https://github.com/study-game-engines/miniquad-examples"
+  },
+  {
+    "description": "基于Unity的简易版现代俄罗斯方块。资源更新、代码热更、ecs实现。",
+    "name": "unity-tetris-demo",
+    "url": "https://github.com/study-game-engines/unity-tetris-demo"
+  },
+  {
+    "description": "A top-down vehicle shooter in Rust - a FOSS clone of RecWar",
+    "name": "bevy-recwars-demo",
+    "url": "https://github.com/study-game-engines/bevy-recwars-demo"
+  },
+  {
+    "description": "Simple software rasterizer with OpenGL-like interface",
+    "name": "software-renderer-yablokov",
+    "url": "https://github.com/study-game-engines/software-renderer-yablokov"
+  },
+  {
+    "description": "A simple game engine in C",
+    "name": "binocle",
+    "url": "https://github.com/study-game-engines/binocle"
+  },
+  {
+    "description": "Texture tool for graphics programmers",
+    "name": "playcanvas.js-texture-tool",
+    "url": "https://github.com/study-game-engines/playcanvas.js-texture-tool"
+  },
+  {
+    "description": "A 3D software renderer with a simple API.",
+    "name": "bootleg-software-renderer",
+    "url": "https://github.com/study-game-engines/bootleg-software-renderer"
+  },
+  {
+    "description": "jvm glm",
+    "name": "glm-kotlin",
+    "url": "https://github.com/study-game-engines/glm-kotlin"
+  },
+  {
+    "description": "A base template starter project for creating games with the LittleKt game framework.",
+    "name": "littlekt-project-template",
+    "url": "https://github.com/study-game-engines/littlekt-project-template"
+  },
+  {
+    "description": "Autodesk Filmbox (*.fbx) loader for Bevy Engine",
+    "name": "bevy-fbx-loader",
+    "url": "https://github.com/study-game-engines/bevy-fbx-loader"
+  },
+  {
+    "description": "Tweening animation plugin for the Bevy game engine.",
+    "name": "bevy-tween",
+    "url": "https://github.com/study-game-engines/bevy-tween"
+  },
+  {
+    "description": "Ray tracing glTF scene with Vulkan",
+    "name": "raytracer-vulkan-nvidia",
+    "url": "https://github.com/study-game-engines/raytracer-vulkan-nvidia"
+  },
+  {
+    "description": "RmlUi plugin for Lumix Engine",
+    "name": "lumix-rmlui",
+    "url": "https://github.com/study-game-engines/lumix-rmlui"
+  },
+  {
+    "description": "A Glium 2D back-end for the Piston game engine",
+    "name": "piston-glium",
+    "url": "https://github.com/study-game-engines/piston-glium"
+  },
+  {
+    "description": "A collection of examples using the Piston game engine",
+    "name": "piston-examples",
+    "url": "https://github.com/study-game-engines/piston-examples"
+  },
+  {
+    "description": "The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. Created by @lehni & @puckey",
+    "name": "paper.js",
+    "url": "https://github.com/study-game-engines/paper.js"
+  },
+  {
+    "description": "Modern and easy-to-use library for Vulkan",
+    "name": "liblava",
+    "url": "https://github.com/study-game-engines/liblava"
+  },
+  {
+    "description": "A Tiny WebGL helper Library",
+    "name": "twgl.js",
+    "url": "https://github.com/study-game-engines/twgl.js"
+  },
+  {
+    "description": "2D Game Engine with Lua Scripting made on top of SFML !",
+    "name": "obengine",
+    "url": "https://github.com/study-game-engines/obengine"
+  },
+  {
+    "description": "High-level rendering components",
+    "name": "diligent-graphics",
+    "url": "https://github.com/study-game-engines/diligent-graphics"
+  },
+  {
+    "description": "Sample projects demonstrating the usage of Diligent Engine",
+    "name": "diligent-examples",
+    "url": "https://github.com/study-game-engines/diligent-examples"
+  },
+  {
+    "description": "OpenGL 4.6 on Metal",
+    "name": "openglonmetal",
+    "url": "https://github.com/study-game-engines/openglonmetal"
+  },
+  {
+    "description": "Simple header-only C++ software renderer",
+    "name": "software-renderer-strazdins",
+    "url": "https://github.com/study-game-engines/software-renderer-strazdins"
+  },
+  {
+    "description": "Visual shader editor for Lumix Engine",
+    "name": "lumix-shader-editor",
+    "url": "https://github.com/study-game-engines/lumix-shader-editor"
+  },
+  {
+    "description": "3D C++ Game Engine - yet another open source game engine",
+    "name": "lumix",
+    "url": "https://github.com/study-game-engines/lumix"
+  },
+  {
+    "description": "a 2D rigid body physics engine for the web",
+    "name": "matter.js",
+    "url": "https://github.com/study-game-engines/matter.js"
+  },
+  {
+    "description": "examples of echo game engine",
+    "name": "echo-examples",
+    "url": "https://github.com/study-game-engines/echo-examples"
+  },
+  {
+    "description": "A minimalist and easy to use graphics API.",
+    "name": "gfx",
+    "url": "https://github.com/study-game-engines/gfx"
+  },
+  {
+    "description": "A cross-platform 2D game engine",
+    "name": "ncine",
+    "url": "https://github.com/study-game-engines/ncine"
+  },
+  {
+    "description": "Experimental real-time global illumination renderer",
+    "name": "kajiya",
+    "url": "https://github.com/study-game-engines/kajiya"
+  },
+  {
+    "description": "Cross platform rendering in Rust",
+    "name": "miniquad",
+    "url": "https://github.com/study-game-engines/miniquad"
+  },
+  {
+    "description": "Sample projects using Supernova Engine",
+    "name": "supernova-examples",
+    "url": "https://github.com/study-game-engines/supernova-examples"
+  },
+  {
+    "description": "配合我的知乎专栏写的项目",
+    "name": "wenli",
+    "url": "https://github.com/study-game-engines/wenli"
+  },
+  {
+    "description": "Website for Supernova Samples",
+    "name": "supernova-examples-website",
+    "url": "https://github.com/study-game-engines/supernova-examples-website"
+  },
+  {
+    "description": "GLTF 2.0 3D format support and PBR shader implementation for LibGDX",
+    "name": "libgdx-gltf-loader",
+    "url": "https://github.com/study-game-engines/libgdx-gltf-loader"
+  },
+  {
+    "description": "Utilities built on top of core module",
+    "name": "diligent-tools",
+    "url": "https://github.com/study-game-engines/diligent-tools"
+  },
+  {
+    "description": "2D Game Engine with visual WYSIWYG editor and JS scripting",
+    "name": "o2",
+    "url": "https://github.com/study-game-engines/o2"
+  },
+  {
+    "description": "A low-level, portable graphics library for .NET.",
+    "name": "veldrid",
+    "url": "https://github.com/study-game-engines/veldrid"
+  },
+  {
+    "description": "Source code to pbrt, the ray tracer described in the forthcoming 4th edition of the \"Physically Based Rendering: From Theory to Implementation\" book.",
+    "name": "pbrt-v4",
+    "url": "https://github.com/study-game-engines/pbrt-v4"
+  },
+  {
+    "description": "Live examples of the PlayCanvas Engine",
+    "name": "playcanvas.js-examples",
+    "url": "https://github.com/study-game-engines/playcanvas.js-examples"
+  },
+  {
+    "description": "Android app to create GLSL shaders and use them as live wallpaper",
+    "name": "shader-editor-android",
+    "url": "https://github.com/study-game-engines/shader-editor-android"
+  },
+  {
+    "description": "Unity3D to Urho3D assets converter",
+    "name": "urho-unity-converter",
+    "url": "https://github.com/study-game-engines/urho-unity-converter"
+  },
+  {
+    "description": "Arcan - [Display Server, Multimedia Framework, Game Engine] -> \"Desktop Engine\"",
+    "name": "arcan",
+    "url": "https://github.com/study-game-engines/arcan"
+  },
+  {
+    "description": "Collection of example projects for Flax Engine",
+    "name": "flax-examples",
+    "url": "https://github.com/study-game-engines/flax-examples"
+  },
+  {
+    "description": "A sky simulation library for jMonkeyEngine (code has New BSD license)",
+    "name": "jmonkeyengine-sky",
+    "url": "https://github.com/study-game-engines/jmonkeyengine-sky"
+  },
+  {
+    "description": "twigl.app is an online editor for One tweet shader, with gif generator and sound shader, and broadcast live coding.",
+    "name": "twigl.js",
+    "url": "https://github.com/study-game-engines/twigl.js"
+  },
+  {
+    "description": "A modern cross-platform low-level graphics API",
+    "name": "diligent-core",
+    "url": "https://github.com/study-game-engines/diligent-core"
+  },
+  {
+    "description": "3D Software Rendering library in C",
+    "name": "software-renderer-dougan",
+    "url": "https://github.com/study-game-engines/software-renderer-dougan"
+  },
+  {
+    "description": "Explore and Troubleshoot your WebGL scenes with ease.",
+    "name": "spector.js",
+    "url": "https://github.com/study-game-engines/spector.js"
+  },
+  {
+    "description": "",
+    "name": "hazel-dichotomy-demo",
+    "url": "https://github.com/study-game-engines/hazel-dichotomy-demo"
+  },
+  {
+    "description": "Trikot is a framework that helps building Kotlin Multiplatform apps. iOS, Android and Web are the primary targets.",
+    "name": "trikot",
+    "url": "https://github.com/study-game-engines/trikot"
+  },
+  {
+    "description": "Real-time PathTracing with global illumination and progressive rendering, all on top of the Three.js WebGL framework. Click here for Live Demo: https://erichlof.github.io/THREE.js-PathTracing-Renderer/Geometry_Showcase.html",
+    "name": "three.js-pathtracing",
+    "url": "https://github.com/study-game-engines/three.js-pathtracing"
+  },
+  {
+    "description": "Bring data to life with SVG, Canvas and HTML",
+    "name": "d3.js",
+    "url": "https://github.com/study-game-engines/d3.js"
+  },
+  {
+    "description": "Cross-platform .NET 7.0 game engine.",
+    "name": "vortice",
+    "url": "https://github.com/study-game-engines/vortice"
+  },
+  {
+    "description": "A typescript interactive engine, support 2D, 3D, animation, physics, built on WebGL and glTF.",
+    "name": "oasis",
+    "url": "https://github.com/study-game-engines/oasis"
+  },
+  {
+    "description": "A renderer agnostic two-dimensional drawing api for the web.",
+    "name": "two.js",
+    "url": "https://github.com/study-game-engines/two.js"
+  },
+  {
+    "description": "Create 3D web applications with HTML. Bring a new depth to your DOM!",
+    "name": "lume",
+    "url": "https://github.com/study-game-engines/lume"
+  },
+  {
+    "description": "A shader-based Software Renderer Using The LightSky Framework.",
+    "name": "software-renderer-lacey",
+    "url": "https://github.com/study-game-engines/software-renderer-lacey"
+  },
+  {
+    "description": "Keep it simple, stupid 3d graphics engine for Rust.",
+    "name": "kiss",
+    "url": "https://github.com/study-game-engines/kiss"
+  },
+  {
+    "description": "p5.js website built using Node.js, Grunt, YAML and Assemble",
+    "name": "p5.js-examples",
+    "url": "https://github.com/study-game-engines/p5.js-examples"
+  },
+  {
+    "description": "Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.",
+    "name": "konva.js",
+    "url": "https://github.com/study-game-engines/konva.js"
+  },
+  {
+    "description": "Game engine",
+    "name": "urho",
+    "url": "https://github.com/study-game-engines/urho"
+  },
+  {
+    "description": "p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs —",
+    "name": "p5.js",
+    "url": "https://github.com/study-game-engines/p5.js"
+  },
+  {
+    "description": "Automatically generated site with all macroquad examples",
+    "name": "macroquad-examples",
+    "url": "https://github.com/study-game-engines/macroquad-examples"
+  },
+  {
+    "description": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.",
+    "name": "lvgl",
+    "url": "https://github.com/study-game-engines/lvgl"
+  },
+  {
+    "description": "Examples and demos for the new Vulkan API",
+    "name": "willems-vulkan-examples",
+    "url": "https://github.com/study-game-engines/willems-vulkan-examples"
+  },
+  {
+    "description": "2D/3D renderer - makes it simple to draw stuff across platforms (including web)",
+    "name": "threed",
+    "url": "https://github.com/study-game-engines/threed"
+  },
+  {
+    "description": "This is the Official source code repository of the Synfig project",
+    "name": "synfig",
+    "url": "https://github.com/study-game-engines/synfig"
+  },
+  {
+    "description": "A C++ game engine powered by Vulkan",
+    "name": "dynamo",
+    "url": "https://github.com/study-game-engines/dynamo"
+  },
+  {
+    "description": "Nazara Engine is a cross-platform framework aimed at (but not limited to) real-time applications requiring audio, 2D and 3D real-time rendering, network and more.",
+    "name": "nazara",
+    "url": "https://github.com/study-game-engines/nazara"
+  },
+  {
+    "description": "AGE: Arc Game Engine is an open-source engine for building 2D & 3D real-time rendering and interactive contents, especially video games with C# scripting support.",
+    "name": "arc",
+    "url": "https://github.com/study-game-engines/arc"
+  },
+  {
+    "description": "My project to learn how to make a software rasterizer.",
+    "name": "vanoosten-software-renderer",
+    "url": "https://github.com/study-game-engines/vanoosten-software-renderer"
+  },
+  {
+    "description": "RmlUi - The HTML/CSS User Interface library evolved",
+    "name": "rmlui",
+    "url": "https://github.com/study-game-engines/rmlui"
+  },
+  {
+    "description": "ORX: Portable Game Engine",
+    "name": "orx",
+    "url": "https://github.com/study-game-engines/orx"
+  },
+  {
+    "description": "Verus Engine is a modern 3D game engine.",
+    "name": "verus",
+    "url": "https://github.com/study-game-engines/verus"
+  },
+  {
+    "description": "A JavaScript library for creating node-based graphs",
+    "name": "playcanvas.js-node-editor",
+    "url": "https://github.com/study-game-engines/playcanvas.js-node-editor"
+  },
+  {
+    "description": "JavaScript game library",
+    "name": "kaboom",
+    "url": "https://github.com/study-game-engines/kaboom"
+  },
+  {
+    "description": "Simple HTML5 Charts using the <canvas> tag",
+    "name": "chart.js",
+    "url": "https://github.com/study-game-engines/chart.js"
+  },
+  {
+    "description": "Low Level Graphics Library (LLGL) is a thin abstraction layer for the modern graphics APIs OpenGL, Direct3D, Vulkan, and Metal",
+    "name": "llgl",
+    "url": "https://github.com/study-game-engines/llgl"
+  },
+  {
+    "description": "GL on Whatever: a set of bindings to run GL anywhere and avoid target-specific code",
+    "name": "glow",
+    "url": "https://github.com/study-game-engines/glow"
+  },
+  {
+    "description": "Game engine behind Sea Dogs, Pirates of the Caribbean and Age of Pirates games.",
+    "name": "storm",
+    "url": "https://github.com/study-game-engines/storm"
+  },
+  {
+    "description": "One stop solution for all Vulkan samples",
+    "name": "khronos-vulkan-examples",
+    "url": "https://github.com/study-game-engines/khronos-vulkan-examples"
+  },
+  {
+    "description": "Cross-platform and thread-friendly graphics engine primarily focused on Vulkan, built in C.",
+    "name": "groufix",
+    "url": "https://github.com/study-game-engines/groufix"
+  },
+  {
+    "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "name": "solid.js",
+    "url": "https://github.com/study-game-engines/solid.js"
+  },
+  {
+    "description": "UI component library for the web",
+    "name": "playcanvas.js-ui",
+    "url": "https://github.com/study-game-engines/playcanvas.js-ui"
+  },
+  {
+    "description": "A modern cross-platform low-level graphics library and rendering framework",
+    "name": "diligent",
+    "url": "https://github.com/study-game-engines/diligent"
+  },
+  {
+    "description": "Small pathtracing library with GPU  and CPU backends",
+    "name": "pathtracing-yablokov",
+    "url": "https://github.com/study-game-engines/pathtracing-yablokov"
+  },
+  {
+    "description": "Test application for a Ray library",
+    "name": "pathtracing-yablokov-demos",
+    "url": "https://github.com/study-game-engines/pathtracing-yablokov-demos"
+  },
+  {
+    "description": "Rust Game engine integrated in Blender",
+    "name": "inox",
+    "url": "https://github.com/study-game-engines/inox"
+  },
+  {
+    "description": "glTF Sample Models",
+    "name": "gltf-samples",
+    "url": "https://github.com/study-game-engines/gltf-samples"
+  },
+  {
+    "description": "The pure 2D java game engine.",
+    "name": "litiengine",
+    "url": "https://github.com/study-game-engines/litiengine"
+  },
+  {
+    "description": "A W.I.P Modern C++20 Cross-Platform Game Engine with C# Scripting.",
+    "name": "nuclear",
+    "url": "https://github.com/study-game-engines/nuclear"
+  },
+  {
+    "description": "Tiny little game engine",
+    "name": "over",
+    "url": "https://github.com/study-game-engines/over"
+  },
+  {
+    "description": "A simple Wavefront OBJ file loader",
+    "name": "obj-loader-java",
+    "url": "https://github.com/study-game-engines/obj-loader-java"
+  },
+  {
+    "description": "Tiny but powerful single file wavefront obj loader",
+    "name": "obj-loader-tiny",
+    "url": "https://github.com/study-game-engines/obj-loader-tiny"
+  },
+  {
+    "description": "Custom renderer and physics engine written from scratch in C++/Direct3D 12.",
+    "name": "directx-renderer-kurth",
+    "url": "https://github.com/study-game-engines/directx-renderer-kurth"
+  },
+  {
+    "description": "Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.",
+    "name": "phaser.js",
+    "url": "https://github.com/study-game-engines/phaser.js"
+  },
+  {
+    "description": "Phaser 3 Examples",
+    "name": "phaser.js-examples",
+    "url": "https://github.com/study-game-engines/phaser.js-examples"
+  },
+  {
+    "description": "A 3D WebGL Rendering Engine developed by Alibaba Group",
+    "name": "hilo.js",
+    "url": "https://github.com/study-game-engines/hilo.js"
+  },
+  {
+    "description": "Minimal WebGL Library",
+    "name": "ogl.js",
+    "url": "https://github.com/study-game-engines/ogl.js"
+  },
+  {
+    "description": "3rd person shooter in the very early development phase",
+    "name": "fyrox-stationIapetus-demo",
+    "url": "https://github.com/study-game-engines/fyrox-stationIapetus-demo"
+  },
+  {
+    "description": "A high-level cross-platform 2D game development API",
+    "name": "mini2dx",
+    "url": "https://github.com/study-game-engines/mini2dx"
+  },
+  {
+    "description": "Game engine with an emphasis on architectural quality and performance",
+    "name": "spartan",
+    "url": "https://github.com/study-game-engines/spartan"
+  },
+  {
+    "description": "A versatile real-time platform for making 3D, 2D games and apps.",
+    "name": "neoaxis",
+    "url": "https://github.com/study-game-engines/neoaxis"
+  },
+  {
+    "description": "C++ Coding Framework for Windows, Linux, macOS and Browser games",
+    "name": "core",
+    "url": "https://github.com/study-game-engines/core"
+  },
+  {
+    "description": "Game engine project written in pure rust for learning about rust and game tech",
+    "name": "ikari",
+    "url": "https://github.com/study-game-engines/ikari"
+  },
+  {
+    "description": "In-App editor tools for bevy applications",
+    "name": "bevy-editor",
+    "url": "https://github.com/study-game-engines/bevy-editor"
+  },
+  {
+    "description": "Collection of examples for OpenGL: Perlin noise, ambient occlusion, shadow mapping, water reflection and others",
+    "name": "opengl-examples-doy",
+    "url": "https://github.com/study-game-engines/opengl-examples-doy"
+  },
+  {
+    "description": "Tiny OpenGL Wrapper / 3D Engine in C++",
+    "name": "tiny",
+    "url": "https://github.com/study-game-engines/tiny"
+  },
+  {
+    "description": "TDME2 - ThreeDeeMiniEngine2 is a lightweight, multi-platform 3D engine including tools suited for 3D game/application development using C++, MiniScript, GLSL, ...",
+    "name": "tdme",
+    "url": "https://github.com/study-game-engines/tdme"
+  },
+  {
+    "description": "Iris is a cross-platform game engine written in modern C++",
+    "name": "iris",
+    "url": "https://github.com/study-game-engines/iris"
+  },
+  {
+    "description": "GitHub websites",
+    "name": "stratus-docs",
+    "url": "https://github.com/study-game-engines/stratus-docs"
+  },
+  {
+    "description": "A C# port of CSG.js by Evan W (http://evanw.github.io/csg.js/).",
+    "name": "csg.csharp",
+    "url": "https://github.com/study-game-engines/csg.csharp"
+  },
+  {
+    "description": "A Game-Engine written in Rust using WGPU with the Goal to be very Fast & User Friendly",
+    "name": "vent",
+    "url": "https://github.com/study-game-engines/vent"
+  },
+  {
+    "description": "An open-source JavaScript library for world-class 3D globes and maps",
+    "name": "cesium.js",
+    "url": "https://github.com/study-game-engines/cesium.js"
+  },
+  {
+    "description": "Solar2D Game Engine main repository (ex Corona SDK)",
+    "name": "corona",
+    "url": "https://github.com/study-game-engines/corona"
+  },
+  {
+    "description": "Bevy Visual Effects Bag",
+    "name": "bevy-vfx",
+    "url": "https://github.com/study-game-engines/bevy-vfx"
+  },
+  {
+    "description": "Nau - OpenGL + Optix 3D Engine",
+    "name": "nau",
+    "url": "https://github.com/study-game-engines/nau"
+  },
+  {
+    "description": "Community managed visual editor for Babylon.js",
+    "name": "babylon.js-editor",
+    "url": "https://github.com/study-game-engines/babylon.js-editor"
+  },
+  {
+    "description": "Release and issue tracker for SEUS PTGI GeForceLegend's Modified Edition, a deeply modified version SEUS PTGI",
+    "name": "seusptgi",
+    "url": "https://github.com/study-game-engines/seusptgi"
+  },
+  {
+    "description": "A WGSL playground inspired by Shadertoy.",
+    "name": "wgshadertoy",
+    "url": "https://github.com/study-game-engines/wgshadertoy"
+  },
+  {
+    "description": "Godot Third Person Shooter with high quality assets and lighting",
+    "name": "godot-tps-demo",
+    "url": "https://github.com/study-game-engines/godot-tps-demo"
+  },
+  {
+    "description": "Lightweight open source FBX importer",
+    "name": "lumix-fbx-importer",
+    "url": "https://github.com/study-game-engines/lumix-fbx-importer"
+  },
+  {
+    "description": "A C/C++ single-file library for drop-in lightmap baking. Just use your existing OpenGL renderer to bounce light!",
+    "name": "lightmapper-cpp",
+    "url": "https://github.com/study-game-engines/lightmapper-cpp"
+  },
+  {
+    "description": "Inspector plugin for the bevy game engine",
+    "name": "bevy-inspector",
+    "url": "https://github.com/study-game-engines/bevy-inspector"
+  },
+  {
+    "description": " Lightweight Physically-Based Renderer designed for ease of use and fast prototyping",
+    "name": "easypbr",
+    "url": "https://github.com/study-game-engines/easypbr"
+  },
+  {
+    "description": "Rubik's cube made with bevy engine.",
+    "name": "bevy-rubiksCube-example",
+    "url": "https://github.com/study-game-engines/bevy-rubiksCube-example"
+  },
+  {
+    "description": "Procedural Hydrology / River / Lake Simulation",
+    "name": "simulation-hydrology",
+    "url": "https://github.com/study-game-engines/simulation-hydrology"
+  },
+  {
+    "description": "Procedural Hydrology / River / Lake Simulation",
+    "name": "hydrology",
+    "url": "https://github.com/study-game-engines/hydrology"
+  },
+  {
+    "description": "2D outline materials for the bevy game engine.",
+    "name": "bevy-outline-shader",
+    "url": "https://github.com/study-game-engines/bevy-outline-shader"
+  },
+  {
+    "description": "An extension of LittleKt that adds a bunch of goodies. ",
+    "name": "littlekt-extras",
+    "url": "https://github.com/study-game-engines/littlekt-extras"
+  },
+  {
+    "description": "A Minecraft: Java Edition shaderpack that aims to look and feel \"natural\"",
+    "name": "eriksson-shaders",
+    "url": "https://github.com/study-game-engines/eriksson-shaders"
+  },
+  {
+    "description": "DreamWorks’ open-source, award-winning, state-of-the-art production MCRT renderer",
+    "name": "moonray",
+    "url": "https://github.com/study-game-engines/moonray"
+  },
+  {
+    "description": "Lightweight Game Engine/Framework in C++17 with WYSIWYG Editor. Experimental C# bindings.",
+    "name": "rbfx",
+    "url": "https://github.com/study-game-engines/rbfx"
+  },
+  {
+    "description": "Single-file library for calculating 2D UI layouts using stacking boxes. Compiles as C99 or C++.",
+    "name": "layoutc",
+    "url": "https://github.com/study-game-engines/layoutc"
+  },
+  {
+    "description": "A graphics engine created in DirectX 11.",
+    "name": "directxen",
+    "url": "https://github.com/study-game-engines/directxen"
+  },
+  {
+    "description": "Demo showcasing blend modes and fog in Bevy 0.10",
+    "name": "bevy-ruins-demo",
+    "url": "https://github.com/study-game-engines/bevy-ruins-demo"
+  },
+  {
+    "description": "Demo showcasing blend modes and fog in Bevy 0.10",
+    "name": "bevy-ruins-example",
+    "url": "https://github.com/study-game-engines/bevy-ruins-example"
+  },
+  {
+    "description": "Web site of Fyrox Game Engine",
+    "name": "fyrox-website",
+    "url": "https://github.com/study-game-engines/fyrox-website"
+  },
+  {
+    "description": "An open-source, Java-based 2D game engine.",
+    "name": "fast",
+    "url": "https://github.com/study-game-engines/fast"
+  },
+  {
+    "description": "The jMonkeyEngine3 SDK based on netbeans",
+    "name": "jmonkeyengine-sdk",
+    "url": "https://github.com/study-game-engines/jmonkeyengine-sdk"
+  },
+  {
+    "description": "This is an engine that I initially started building after taking a game coding class in high school to learn how the underlying systems of Unity / game engines in general worked.",
+    "name": "Iwengine",
+    "url": "https://github.com/study-game-engines/Iwengine"
+  },
+  {
+    "description": "Global illumination with Voxel Cone Tracing in fully dynamic scenes using a 3D clipmap to support huge areas around the camera while maintaining a low memory footprint.",
+    "name": "VoxelConeTracingGI",
+    "url": "https://github.com/study-game-engines/VoxelConeTracingGI"
+  },
+  {
+    "description": "Global illumination with Voxel Cone Tracing in fully dynamic scenes using a 3D clipmap to support huge areas around the camera while maintaining a low memory footprint.",
+    "name": "gi-voxelConeTracing",
+    "url": "https://github.com/study-game-engines/gi-voxelConeTracing"
+  },
+  {
+    "description": "",
+    "name": "raycaster-cpp",
+    "url": "https://github.com/study-game-engines/raycaster-cpp"
+  },
+  {
+    "description": "Habbo rendering engine made with HTML5 canvas using PixiJS and TypeScript",
+    "name": "scuti",
+    "url": "https://github.com/study-game-engines/scuti"
+  },
+  {
+    "description": "Samples of various features of LittleKt ",
+    "name": "littlekt-examples",
+    "url": "https://github.com/study-game-engines/littlekt-examples"
+  },
+  {
+    "description": "Android OpenGL ES 2.0/3.0 Engine",
+    "name": "rajawali",
+    "url": "https://github.com/study-game-engines/rajawali"
+  },
+  {
+    "description": "Experiment with computing 2D shading, lighting and shadows with Bevy Engine",
+    "name": "bevy-gi-2d",
+    "url": "https://github.com/study-game-engines/bevy-gi-2d"
+  },
+  {
+    "description": "Ghibli-styled Shader Example for Three.js",
+    "name": "three.js-tree",
+    "url": "https://github.com/study-game-engines/three.js-tree"
+  },
+  {
+    "description": "C# OpenGL Particle Simulation, GPU accelerated",
+    "name": "newtonian-particle-simulator",
+    "url": "https://github.com/study-game-engines/newtonian-particle-simulator"
+  },
+  {
+    "description": "A small, lightweight 2D video game engine based on MonoGame. Currently not under development.",
+    "name": "monolith",
+    "url": "https://github.com/study-game-engines/monolith"
+  },
+  {
+    "description": "Korlibs Documentation Website",
+    "name": "korge-docs",
+    "url": "https://github.com/study-game-engines/korge-docs"
+  },
+  {
+    "description": "Arcade racing game made in Oxylus Engine",
+    "name": "oxylus-kart-demo",
+    "url": "https://github.com/study-game-engines/oxylus-kart-demo"
+  },
+  {
+    "description": "Type-safe, type-level and stateless Rust graphics framework",
+    "name": "luminance",
+    "url": "https://github.com/study-game-engines/luminance"
+  },
+  {
+    "description": "2d - 3d game and interactive application develepment kit",
+    "name": "toolkit",
+    "url": "https://github.com/study-game-engines/toolkit"
+  },
+  {
+    "description": "Real-time Voxel Cone Tracing",
+    "name": "vct",
+    "url": "https://github.com/study-game-engines/vct"
+  },
+  {
+    "description": "An extension of LittleKt that adds a bunch of goodies.",
+    "name": "littlekt-extensions",
+    "url": "https://github.com/study-game-engines/littlekt-extensions"
+  },
+  {
+    "description": "Experimental Game Engine",
+    "name": "xacor",
+    "url": "https://github.com/study-game-engines/xacor"
+  },
+  {
+    "description": "Kotlin port of the tutorial of Learn OpenGL by Joey De Vries",
+    "name": "learnopengl-kotlin",
+    "url": "https://github.com/study-game-engines/learnopengl-kotlin"
+  },
+  {
+    "description": "A lightweight 3D game engine for the web.",
+    "name": "taro.js",
+    "url": "https://github.com/study-game-engines/taro.js"
+  },
+  {
+    "description": "A C++ OBJ Model Loader that will parse .obj & .mtl Files into Indices, Vertices, Materials, and Mesh Structures.",
+    "name": "obj-loader",
+    "url": "https://github.com/study-game-engines/obj-loader"
+  },
+  {
+    "description": "A UI layout engine written in Rust",
+    "name": "morphorm",
+    "url": "https://github.com/study-game-engines/morphorm"
+  },
+  {
+    "description": "MSDF font atlas generator",
+    "name": "msdf-font-generator",
+    "url": "https://github.com/study-game-engines/msdf-font-generator"
+  },
+  {
+    "description": "Graphics API wrapper is written in C++ on top of Directx 12, Vulkan and Metal. Provides main features including ray tracing.",
+    "name": "flycube-api",
+    "url": "https://github.com/study-game-engines/flycube-api"
+  },
+  {
+    "description": "Functional WebGL",
+    "name": "regl.js",
+    "url": "https://github.com/study-game-engines/regl.js"
+  },
+  {
+    "description": "Godot 4 beta 10",
+    "name": "godot-water",
+    "url": "https://github.com/study-game-engines/godot-water"
+  },
+  {
+    "description": "Issue tracker for the PlayCanvas Editor",
+    "name": "playcanvas-editor",
+    "url": "https://github.com/study-game-engines/playcanvas-editor"
+  },
+  {
+    "description": "Walnut is a simple application framework for Vulkan and Dear ImGui apps",
+    "name": "walnut",
+    "url": "https://github.com/study-game-engines/walnut"
+  },
+  {
+    "description": "Very simple endless-runner inspired by the 70s disco era",
+    "name": "core-discoRock-example",
+    "url": "https://github.com/study-game-engines/core-discoRock-example"
+  },
+  {
+    "description": "",
+    "name": "metal-kotlin",
+    "url": "https://github.com/study-game-engines/metal-kotlin"
+  },
+  {
+    "description": "A little game engine made in Kotlin on top of LWJGL.",
+    "name": "yakge",
+    "url": "https://github.com/study-game-engines/yakge"
+  },
+  {
+    "description": "3D game framework in C, with Luajit bindings now.",
+    "name": "fwk",
+    "url": "https://github.com/study-game-engines/fwk"
+  },
+  {
+    "description": "A Rust Webassembly raycaster for BabylonJS",
+    "name": "raycaster-rust",
+    "url": "https://github.com/study-game-engines/raycaster-rust"
+  },
+  {
+    "description": "Modern, lightweight and efficient 2D level editor",
+    "name": "ldtk",
+    "url": "https://github.com/study-game-engines/ldtk"
+  },
+  {
+    "description": "",
+    "name": "hazel-fragile-demo",
+    "url": "https://github.com/study-game-engines/hazel-fragile-demo"
+  },
+  {
+    "description": "",
+    "name": "hazel-forest-demo",
+    "url": "https://github.com/study-game-engines/hazel-forest-demo"
+  },
+  {
+    "description": "2D game engine for learning Rust",
+    "name": "rusty",
+    "url": "https://github.com/study-game-engines/rusty"
+  },
+  {
+    "description": "",
+    "name": "unity-grass2",
+    "url": "https://github.com/study-game-engines/unity-grass2"
+  },
+  {
+    "description": "",
+    "name": "water-unity2",
+    "url": "https://github.com/study-game-engines/water-unity2"
+  },
+  {
+    "description": "A modular game engine written in Rust",
+    "name": "piston",
+    "url": "https://github.com/study-game-engines/piston"
+  },
+  {
+    "description": "Apex Game Engine",
+    "name": "apex",
+    "url": "https://github.com/study-game-engines/apex"
+  },
+  {
+    "description": "Cocos2d-x is a suite of open-source, cross-platform, game-development tools used by millions of developers all over the world.",
+    "name": "cocos",
+    "url": "https://github.com/study-game-engines/cocos"
+  },
+  {
+    "description": "",
+    "name": "source-externals",
+    "url": "https://github.com/study-game-engines/source-externals"
+  },
+  {
+    "description": "A minimalistic C++ framework for making simple 2D games.",
+    "name": "tmpl8",
+    "url": "https://github.com/study-game-engines/tmpl8"
+  },
+  {
+    "description": "Artificial Intelligence framework for games based on libGDX or not. Features: Steering Behaviors, Formation Motion, Pathfinding, Behavior Trees and Finite State Machines",
+    "name": "libgdx-ai",
+    "url": "https://github.com/study-game-engines/libgdx-ai"
+  },
+  {
+    "description": "A deferred renderer in TypeScript and WebGL 2.0",
+    "name": "webgl-deferred-lighting",
+    "url": "https://github.com/study-game-engines/webgl-deferred-lighting"
+  },
+  {
+    "description": "An exploration of various grass rendering techniques",
+    "name": "gunnell-grass",
+    "url": "https://github.com/study-game-engines/gunnell-grass"
+  },
+  {
+    "description": "Water surface simulation in Untiy3d",
+    "name": "water-unity",
+    "url": "https://github.com/study-game-engines/water-unity"
+  },
+  {
+    "description": "A sandbox that provides all basic features to understand the render and physics engine of Minecraft.",
+    "name": "minecraft",
+    "url": "https://github.com/study-game-engines/minecraft"
+  },
+  {
+    "description": "Robust real-time rendering engine on DX11, DX12 with many advanced graphical features for quick prototyping",
+    "name": "everyray",
+    "url": "https://github.com/study-game-engines/everyray"
+  },
+  {
+    "description": "Tutorials and examples for the Doodle framework. ",
+    "name": "doodle-examples",
+    "url": "https://github.com/study-game-engines/doodle-examples"
+  },
+  {
+    "description": "Super-fast 3D framework for Web Applications & Games. Based on Three.js",
+    "name": "whs.js",
+    "url": "https://github.com/study-game-engines/whs.js"
+  },
+  {
+    "description": "Packages your JAR, assets and a JVM for distribution on Windows, Linux and Mac OS X",
+    "name": "libgdx-packager",
+    "url": "https://github.com/study-game-engines/libgdx-packager"
+  },
+  {
+    "description": "Lottie library for Java and JavaFX",
+    "name": "lottie-java",
+    "url": "https://github.com/study-game-engines/lottie-java"
+  },
+  {
+    "description": "A Kotlin OpenGL 2d game engine (built from all of my attempts over the years) for fun!",
+    "name": "misasi",
+    "url": "https://github.com/study-game-engines/misasi"
+  },
+  {
+    "description": "Source code of tutorials for Fyrox Game Engine (formerly known as rg3d)",
+    "name": "fyrox-examples",
+    "url": "https://github.com/study-game-engines/fyrox-examples"
+  },
+  {
+    "description": "A minimal WebGL 2 rendering library",
+    "name": "picogl.js",
+    "url": "https://github.com/study-game-engines/picogl.js"
+  },
+  {
+    "description": "A plugin for path-finding in JS using navmeshes, with wrappers for Phaser 3 and Phaser 2",
+    "name": "navmesh.js",
+    "url": "https://github.com/study-game-engines/navmesh.js"
+  },
+  {
+    "description": "A brief computer graphics / rendering course",
+    "name": "tiny-software-renderer",
+    "url": "https://github.com/study-game-engines/tiny-software-renderer"
+  },
+  {
+    "description": "Multiplayer platform shooter made on Mi'pu'mi day",
+    "name": "core-partyRaider-example",
+    "url": "https://github.com/study-game-engines/core-partyRaider-example"
+  },
+  {
+    "description": "Tricky arcade puzzler made for Ludum Dare 49",
+    "name": "core-lastFall-example",
+    "url": "https://github.com/study-game-engines/core-lastFall-example"
+  },
+  {
+    "description": "Spiritual arcade climber made on Mi'pu'mi day",
+    "name": "core-endlessJorney-example",
+    "url": "https://github.com/study-game-engines/core-endlessJorney-example"
+  },
+  {
+    "description": "Fur shader implementation for URP",
+    "name": "unity-fur2",
+    "url": "https://github.com/study-game-engines/unity-fur2"
+  },
+  {
+    "description": "JavaScript animation engine",
+    "name": "anime.js",
+    "url": "https://github.com/study-game-engines/anime.js"
+  },
+  {
+    "description": "Eva.js is a front-end game engine specifically for creating interactive game projects.",
+    "name": "eva.js",
+    "url": "https://github.com/study-game-engines/eva.js"
+  },
+  {
+    "description": "Modular 2D Web Game Engine ",
+    "name": "mist.js",
+    "url": "https://github.com/study-game-engines/mist.js"
+  },
+  {
+    "description": "WebGL Water Demo",
+    "name": "water-wallace",
+    "url": "https://github.com/study-game-engines/water-wallace"
+  },
+  {
+    "description": "Kiwi.js is a blazingly fast mobile & desktop browser based HTML5 game framework. It uses CocoonJS for publishing to the AppStore.",
+    "name": "kiwi.js",
+    "url": "https://github.com/study-game-engines/kiwi.js"
+  },
+  {
+    "description": "Main Web Site (Online Books)",
+    "name": "raytracing-oneweekend",
+    "url": "https://github.com/study-game-engines/raytracing-oneweekend"
+  },
+  {
+    "description": "FallGuys-like 3D platformer based on Fyrox Game Engine.",
+    "name": "fyrox-fallguys-demo",
+    "url": "https://github.com/study-game-engines/fyrox-fallguys-demo"
+  },
+  {
+    "description": "A very fast and simple software renderer using only integers and fixed point math. PiSHi LE (PL) is a subset of the 3D software graphics library used in King's Crook.",
+    "name": "plsr",
+    "url": "https://github.com/study-game-engines/plsr"
+  },
+  {
+    "description": "Wolfenstein 3D-style raycasting implementation",
+    "name": "wolfenstein-raycaster",
+    "url": "https://github.com/study-game-engines/wolfenstein-raycaster"
+  },
+  {
+    "description": "3D samples projects for HARFANG 3D and HARFANG Studio",
+    "name": "harfang-demos",
+    "url": "https://github.com/study-game-engines/harfang-demos"
+  },
+  {
+    "description": "Absolutely 100% unsupported, and full of infuriating bugs.",
+    "name": "three.js-mmorpg-demo",
+    "url": "https://github.com/study-game-engines/three.js-mmorpg-demo"
+  },
+  {
+    "description": "",
+    "name": "olsen-shaders",
+    "url": "https://github.com/study-game-engines/olsen-shaders"
+  },
+  {
+    "description": "Thelema - 3D graphics engine, written in Kotlin. Based on sources of libGDX.",
+    "name": "thelema",
+    "url": "https://github.com/study-game-engines/thelema"
+  },
+  {
+    "description": "An easy to use, Open-Source, 3D game engine for iOS/macOS game development.",
+    "name": "untold",
+    "url": "https://github.com/study-game-engines/untold"
+  },
+  {
+    "description": "a CPU/GPU physically based renderer",
+    "name": "lumi",
+    "url": "https://github.com/study-game-engines/lumi"
+  },
+  {
+    "description": "C# plugin for Lumix Engine",
+    "name": "lumix-csharp-plugin",
+    "url": "https://github.com/study-game-engines/lumix-csharp-plugin"
+  },
+  {
+    "description": "Software renderer for video games, that uses power of modern CPUs",
+    "name": "software-renderer-panzerschrek",
+    "url": "https://github.com/study-game-engines/software-renderer-panzerschrek"
+  },
+  {
+    "description": "3D Game Engine",
+    "name": "warp",
+    "url": "https://github.com/study-game-engines/warp"
+  },
+  {
+    "description": "A C99 Cross Platform 2D Game Library",
+    "name": "astera",
+    "url": "https://github.com/study-game-engines/astera"
+  },
+  {
+    "description": "An advanced ray-caster engine written in JavaScript from scratch, with zero dependencies",
+    "name": "raycast.js",
+    "url": "https://github.com/study-game-engines/raycast.js"
+  },
+  {
+    "description": "Real-Time Rendering 4th (RTR4) 参考文献合集典藏 | Collection of <Real-Time Rendering 4th (RTR4)> Bibliography / Reference",
+    "name": "realtimerendering-books",
+    "url": "https://github.com/study-game-engines/realtimerendering-books"
+  },
+  {
+    "description": "A particle editor made with the nCine",
+    "name": "ncine-particle-editor",
+    "url": "https://github.com/study-game-engines/ncine-particle-editor"
+  },
+  {
+    "description": "",
+    "name": "software-renderer-seichberg",
+    "url": "https://github.com/study-game-engines/software-renderer-seichberg"
+  },
+  {
+    "description": "Orx - Large World Sample",
+    "name": "orx-example",
+    "url": "https://github.com/study-game-engines/orx-example"
+  },
+  {
+    "description": "Platformer demo game for Lumix Engine",
+    "name": "lumix-platformer-demo",
+    "url": "https://github.com/study-game-engines/lumix-platformer-demo"
+  },
+  {
+    "description": "VK², Kotlin Wrapper for Vulkan: code expressiveness and safety meet graphic power",
+    "name": "vkk",
+    "url": "https://github.com/study-game-engines/vkk"
+  },
+  {
+    "description": "Full source code of engine for Captain Blood game - hack and slash/action-adventure game",
+    "name": "captainblood",
+    "url": "https://github.com/study-game-engines/captainblood"
+  },
+  {
+    "description": "DX11 & DX 12 renderer for Lumix Engine",
+    "name": "lumix-dx",
+    "url": "https://github.com/study-game-engines/lumix-dx"
+  },
+  {
+    "description": "3D model viewer for design sharing and product exhibition.",
+    "name": "software-renderer.js",
+    "url": "https://github.com/study-game-engines/software-renderer.js"
+  },
+  {
+    "description": "3D model viewer for design sharing and product exhibition.",
+    "name": "jsc",
+    "url": "https://github.com/study-game-engines/jsc"
+  },
+  {
+    "description": "JavaFX Raycaster",
+    "name": "javafx-raycast",
+    "url": "https://github.com/study-game-engines/javafx-raycast"
+  },
+  {
+    "description": "A Gfx 2D back-end for the Piston game engine",
+    "name": "piston-gfx",
+    "url": "https://github.com/study-game-engines/piston-gfx"
+  },
+  {
+    "description": "An OpenGL 2D back-end for the Piston game engine",
+    "name": "piston-opengl",
+    "url": "https://github.com/study-game-engines/piston-opengl"
+  },
+  {
+    "description": "A library for 2D graphics, written in Rust, that works with multiple back-ends",
+    "name": "piston-graphics",
+    "url": "https://github.com/study-game-engines/piston-graphics"
+  },
+  {
+    "description": "tools for creating, testing and debugging matter.js worlds",
+    "name": "matter.js-tools",
+    "url": "https://github.com/study-game-engines/matter.js-tools"
+  },
+  {
+    "description": "Non-euclidean GPU Raytraced Game",
+    "name": "raytracer-noeuclid",
+    "url": "https://github.com/study-game-engines/raytracer-noeuclid"
+  },
+  {
+    "description": "A Set of examples for using OpenGL on C++ (For Educational Purposes)",
+    "name": "yahiaetman-opengl-examples",
+    "url": "https://github.com/study-game-engines/yahiaetman-opengl-examples"
+  },
+  {
+    "description": "Sample code for Corona SDK.",
+    "name": "corona-examples",
+    "url": "https://github.com/study-game-engines/corona-examples"
+  },
+  {
+    "description": "WebGL2.0 3D Engine - Global Illumination - RayTracing",
+    "name": "ashes-raytracer",
+    "url": "https://github.com/study-game-engines/ashes-raytracer"
+  },
+  {
+    "description": "Android launcher for source engine",
+    "name": "source-launcher-android",
+    "url": "https://github.com/study-game-engines/source-launcher-android"
+  },
+  {
+    "description": "Modern AS3 Game Engine",
+    "name": "citrus",
+    "url": "https://github.com/study-game-engines/citrus"
+  },
+  {
+    "description": "Sample projects for Veldrid",
+    "name": "veldrid-examples",
+    "url": "https://github.com/study-game-engines/veldrid-examples"
+  },
+  {
+    "description": "",
+    "name": "three.js-examples",
+    "url": "https://github.com/study-game-engines/three.js-examples"
+  },
+  {
+    "description": "Korge samples using kproject",
+    "name": "korge-examplesx",
+    "url": "https://github.com/study-game-engines/korge-examplesx"
+  },
+  {
+    "description": "A GLSL type checker, code formatter, and minifier for WebGL",
+    "name": "glslx",
+    "url": "https://github.com/study-game-engines/glslx"
+  },
+  {
+    "description": "Post Processing Stack",
+    "name": "unity-post-processing",
+    "url": "https://github.com/study-game-engines/unity-post-processing"
+  },
+  {
+    "description": "Small C game development framework",
+    "name": "rizz",
+    "url": "https://github.com/study-game-engines/rizz"
+  },
+  {
+    "description": "Space station simulation game made in Lumix Engine",
+    "name": "lumix-space-demo",
+    "url": "https://github.com/study-game-engines/lumix-space-demo"
+  },
+  {
+    "description": "A cross-platform, open-source, pure C  game engine for mobile game.",
+    "name": "mojoc",
+    "url": "https://github.com/study-game-engines/mojoc"
+  },
+  {
+    "description": "[suspended] 3d shooter written in Rust using rg3d",
+    "name": "fyrox-shooter-demo",
+    "url": "https://github.com/study-game-engines/fyrox-shooter-demo"
+  },
+  {
+    "description": "A template project for applications and games made with the nCine",
+    "name": "ncine-template",
+    "url": "https://github.com/study-game-engines/ncine-template"
+  },
+  {
+    "description": "The nCine command line tool",
+    "name": "ncine-cli",
+    "url": "https://github.com/study-game-engines/ncine-cli"
+  },
+  {
+    "description": "Open-source, cross-platform, C++ game engine for creating 2D/3D games.",
+    "name": "gameplay",
+    "url": "https://github.com/study-game-engines/gameplay"
+  },
+  {
+    "description": "minigdx showcases",
+    "name": "minigdx-examples",
+    "url": "https://github.com/study-game-engines/minigdx-examples"
+  },
+  {
+    "description": "OpenGl Global Illumination real-time rendering study project",
+    "name": "opengl-vxgi",
+    "url": "https://github.com/study-game-engines/opengl-vxgi"
+  },
+  {
+    "description": "Unity remaster of the classic Sponza scene. ",
+    "name": "unity-sponza",
+    "url": "https://github.com/study-game-engines/unity-sponza"
+  },
+  {
+    "description": "An experimental raytracer using OpenGL for GPU acceleration",
+    "name": "raytracing-bonin",
+    "url": "https://github.com/study-game-engines/raytracing-bonin"
+  },
+  {
+    "description": "A simple demo to show off the capabilities of the Cauldron framework",
+    "name": "gpuopen-gltf-example",
+    "url": "https://github.com/study-game-engines/gpuopen-gltf-example"
+  },
+  {
+    "description": "MiniGDX GLTF Parser",
+    "name": "minigdx-gltf-parser",
+    "url": "https://github.com/study-game-engines/minigdx-gltf-parser"
+  },
+  {
+    "description": "Light Immediate Mode GUI implementation",
+    "name": "minigdx-imgui",
+    "url": "https://github.com/study-game-engines/minigdx-imgui"
+  },
+  {
+    "description": "A cross-platform, multi-platform 2D game library",
+    "name": "kross",
+    "url": "https://github.com/study-game-engines/kross"
+  },
+  {
+    "description": "Advance Post-Processing framework for OpenGL",
+    "name": "mazhen-post-processing",
+    "url": "https://github.com/study-game-engines/mazhen-post-processing"
+  },
+  {
+    "description": "MiniGDX gradle plugin",
+    "name": "minigdx-gradle-plugin",
+    "url": "https://github.com/study-game-engines/minigdx-gradle-plugin"
+  },
+  {
+    "description": "Loader for glTF2.0 files",
+    "name": "minigdx-gltf-loader",
+    "url": "https://github.com/study-game-engines/minigdx-gltf-loader"
+  },
+  {
+    "description": "The Atomic Game Engine is a multi-platform 2D and 3D engine with a consistent API in C++, C#, JavaScript, and TypeScript",
+    "name": "atomic",
+    "url": "https://github.com/study-game-engines/atomic"
+  },
+  {
+    "description": "Final code files written in WebGL 2 series on YouTube",
+    "name": "webgl-tutorial",
+    "url": "https://github.com/study-game-engines/webgl-tutorial"
+  },
+  {
+    "description": "GPU font rendering from vector outlines demonstration",
+    "name": "gpu-font-rendering",
+    "url": "https://github.com/study-game-engines/gpu-font-rendering"
+  },
+  {
+    "description": "Realtime 3D Game-Engine with a focus on space sim. Written in C++ 14",
+    "name": "et",
+    "url": "https://github.com/study-game-engines/et"
+  },
+  {
+    "description": "Mobile optimised shader for Unity 3D",
+    "name": "unity-shader-mobile",
+    "url": "https://github.com/study-game-engines/unity-shader-mobile"
+  },
+  {
+    "description": "Progressive web 3D game engine.",
+    "name": "sein.js",
+    "url": "https://github.com/study-game-engines/sein.js"
+  },
+  {
+    "description": "A libGDX cross platform game controllers extension",
+    "name": "libgdx-controllers",
+    "url": "https://github.com/study-game-engines/libgdx-controllers"
+  },
+  {
+    "description": "A set of utilities for taking the pain out of Vulkan in header only modern C++",
+    "name": "vookoo",
+    "url": "https://github.com/study-game-engines/vookoo"
+  },
+  {
+    "description": "An example game made with the nCine",
+    "name": "ncine-pong",
+    "url": "https://github.com/study-game-engines/ncine-pong"
+  },
+  {
+    "description": "A simple ImGui component for rendering profiling data",
+    "name": "imgui-profiler",
+    "url": "https://github.com/study-game-engines/imgui-profiler"
+  },
+  {
+    "description": "Fast C OBJ parser",
+    "name": "obj-parser-c",
+    "url": "https://github.com/study-game-engines/obj-parser-c"
+  },
+  {
+    "description": "C Matrix library for OpenGL apps. A port of the gl-matrix JavaScript library.",
+    "name": "matrix.c",
+    "url": "https://github.com/study-game-engines/matrix.c"
+  },
+  {
+    "description": "A scripting library for Java-based games",
+    "name": "mini2dx-script",
+    "url": "https://github.com/study-game-engines/mini2dx-script"
+  },
+  {
+    "description": "A Multiplatform Kotlin SVG image DSL.",
+    "name": "ksvg",
+    "url": "https://github.com/study-game-engines/ksvg"
+  },
+  {
+    "description": "A rendergraph-based graphical framework for Vulkan",
+    "name": "legit",
+    "url": "https://github.com/study-game-engines/legit"
+  },
+  {
+    "description": "A lightweight WebGL library",
+    "name": "lightgl.js",
+    "url": "https://github.com/study-game-engines/lightgl.js"
+  },
+  {
+    "description": "Hazel Tools for Visual Studio",
+    "name": "hazel-tools",
+    "url": "https://github.com/study-game-engines/hazel-tools"
+  },
+  {
+    "description": "Learning Modern 3D Graphics Programming ",
+    "name": "gltut",
+    "url": "https://github.com/study-game-engines/gltut"
+  },
+  {
+    "description": "Source code of the chapters of the book 3D Game Development with LWJGL 3",
+    "name": "lwjgl-book-examples",
+    "url": "https://github.com/study-game-engines/lwjgl-book-examples"
+  },
+  {
+    "description": "Korge Multiplayer Demo",
+    "name": "korge-multiplayer-demo",
+    "url": "https://github.com/study-game-engines/korge-multiplayer-demo"
+  },
+  {
+    "description": "An overview of glTF, the GL Transmission Format",
+    "name": "gltf-docs",
+    "url": "https://github.com/study-game-engines/gltf-docs"
+  },
+  {
+    "description": "PacMan clone made in Oxylus Engine.",
+    "name": "oxylus-pacman-demo",
+    "url": "https://github.com/study-game-engines/oxylus-pacman-demo"
+  },
+  {
+    "description": "Based on the game engine tutorial by TheCherno (http://thecherno.com/engine), but written in Kotlin. The Hazel project can be found at https://github.com/thecherno/Hazel",
+    "name": "hazel.kt",
+    "url": "https://github.com/study-game-engines/hazel.kt"
+  },
+  {
+    "description": "",
+    "name": "urho-examples",
+    "url": "https://github.com/study-game-engines/urho-examples"
+  },
+  {
+    "description": "A very simple 3D and 2D game engine written in Kotlin",
+    "name": "silva",
+    "url": "https://github.com/study-game-engines/silva"
+  },
+  {
+    "description": "Korge Samples",
+    "name": "korge-examples",
+    "url": "https://github.com/study-game-engines/korge-examples"
+  },
+  {
+    "description": "A high speed C++17 Vulkan game engine",
+    "name": "acid",
+    "url": "https://github.com/study-game-engines/acid"
+  },
+  {
+    "description": "C# OpenGL Path Tracer, Real-Time GPU accelerated",
+    "name": "pathtracer-opentk",
+    "url": "https://github.com/study-game-engines/pathtracer-opentk"
+  },
+  {
+    "description": "A tiny software renderer implemented from scratch without the use of graphics API, used to understand how GPUs work.",
+    "name": "foolrenderer",
+    "url": "https://github.com/study-game-engines/foolrenderer"
+  },
+  {
+    "description": "Free in the Dark",
+    "name": "fitd",
+    "url": "https://github.com/study-game-engines/fitd"
+  },
+  {
+    "description": "",
+    "name": "tiny-software-renderer-wiki",
+    "url": "https://github.com/study-game-engines/tiny-software-renderer-wiki"
+  },
+  {
+    "description": "Hilo3d GLTFExporter",
+    "name": "hilo-gltf-exporter",
+    "url": "https://github.com/study-game-engines/hilo-gltf-exporter"
+  },
+  {
+    "description": "Code repo for video tutorial series teaching Vulkan and computer graphics",
+    "name": "lve",
+    "url": "https://github.com/study-game-engines/lve"
+  },
+  {
+    "description": "Fully custom made raytracer with js canvas",
+    "name": "raytracer.js",
+    "url": "https://github.com/study-game-engines/raytracer.js"
+  },
+  {
+    "description": "A brief computer graphics / rendering course",
+    "name": "tiny-raytracer",
+    "url": "https://github.com/study-game-engines/tiny-raytracer"
+  },
+  {
+    "description": "A minimalistic immediate gui for jmonkeyengine",
+    "name": "jmonkeyengine-imgui",
+    "url": "https://github.com/study-game-engines/jmonkeyengine-imgui"
+  },
+  {
+    "description": "Space audio system for Sein.js.",
+    "name": "sein.js-audio",
+    "url": "https://github.com/study-game-engines/sein.js-audio"
+  },
+  {
+    "description": "CRYENGINE source code.",
+    "name": "cryengine",
+    "url": "https://github.com/study-game-engines/cryengine"
+  },
+  {
+    "description": "GPU Raytracer from scratch in C++/CUDA",
+    "name": "cuda-raytracer",
+    "url": "https://github.com/study-game-engines/cuda-raytracer"
+  },
+  {
+    "description": "Data files for the nCine project",
+    "name": "ncine-data",
+    "url": "https://github.com/study-game-engines/ncine-data"
+  },
+  {
+    "description": "Create graphics with a hand-drawn, sketchy, appearance",
+    "name": "rough",
+    "url": "https://github.com/study-game-engines/rough"
+  },
+  {
+    "description": "DragonBones TypeScript / JavaScript Runtime",
+    "name": "dragonBones.js",
+    "url": "https://github.com/study-game-engines/dragonBones.js"
+  },
+  {
+    "description": "Work in progress.",
+    "name": "oneiro",
+    "url": "https://github.com/study-game-engines/oneiro"
+  },
+  {
+    "description": "Horde3D is a small 3D rendering and animation engine. It is written in an effort to create an engine being as lightweight and conceptually clean as possible.",
+    "name": "horde",
+    "url": "https://github.com/study-game-engines/horde"
+  },
+  {
+    "description": "一个玩具游戏引擎，参考UE4部分实现",
+    "name": "visreal",
+    "url": "https://github.com/study-game-engines/visreal"
+  },
+  {
+    "description": "An FPS demo made with jMonkeyEngine",
+    "name": "jmonkeyengine-fps-demo",
+    "url": "https://github.com/study-game-engines/jmonkeyengine-fps-demo"
+  },
+  {
+    "description": "Nika Engine",
+    "name": "nika",
+    "url": "https://github.com/study-game-engines/nika"
+  },
+  {
+    "description": "A large library of free and open-source shaders for the Godot game engine. Here, you'll get 2D and 3D shaders with playable demos.",
+    "name": "godot-shaders",
+    "url": "https://github.com/study-game-engines/godot-shaders"
+  },
+  {
+    "description": "Experimental GPU renderer using two-stage programming",
+    "name": "btrc",
+    "url": "https://github.com/study-game-engines/btrc"
+  },
+  {
+    "description": "RealTime-ish Caustics in the Godot Game Engine",
+    "name": "godot-caustics",
+    "url": "https://github.com/study-game-engines/godot-caustics"
+  },
+  {
+    "description": "A set of game examples made with ÖbEngine !",
+    "name": "obengine-examples",
+    "url": "https://github.com/study-game-engines/obengine-examples"
+  },
+  {
+    "description": "",
+    "name": "pygamestein",
+    "url": "https://github.com/study-game-engines/pygamestein"
+  },
+  {
+    "description": "Scripts and configs for Sea Dogs: To Each His Own",
+    "name": "storm-seadogs-example",
+    "url": "https://github.com/study-game-engines/storm-seadogs-example"
+  },
+  {
+    "description": "An image effects library for JavaScript using WebGL",
+    "name": "glfx.js",
+    "url": "https://github.com/study-game-engines/glfx.js"
+  },
+  {
+    "description": "Material Graph Editor for Urho3D engine",
+    "name": "urho-material-editor",
+    "url": "https://github.com/study-game-engines/urho-material-editor"
+  },
+  {
+    "description": "The source code and content of Open.GL.",
+    "name": "open.gl",
+    "url": "https://github.com/study-game-engines/open.gl"
+  },
+  {
+    "description": "Planar reflections for Unity's Universal Render Pipeline.",
+    "name": "unity-reflections",
+    "url": "https://github.com/study-game-engines/unity-reflections"
+  },
+  {
+    "description": "Bricks game engine, API and web server",
+    "name": "bricks",
+    "url": "https://github.com/study-game-engines/bricks"
+  },
+  {
+    "description": "Contains example fragment(pixel) shader for my lecture on shader programming",
+    "name": "scherzer-shaders",
+    "url": "https://github.com/study-game-engines/scherzer-shaders"
+  },
+  {
+    "description": "Clustered Forward/Deferred renderer with Physically Based Shading, Image Based Lighting and a whole lot of OpenGL.",
+    "name": "hre",
+    "url": "https://github.com/study-game-engines/hre"
+  },
+  {
+    "description": "Clustered Forward/Deferred renderer with Physically Based Shading, Image Based Lighting and a whole lot of OpenGL. ",
+    "name": "hrecs",
+    "url": "https://github.com/study-game-engines/hrecs"
+  },
+  {
+    "description": "This project provides a new implementation of our EGSR 2008 paper \"Precomputed Atmospheric Scattering\".",
+    "name": "atmospheric-scattering",
+    "url": "https://github.com/study-game-engines/atmospheric-scattering"
+  },
+  {
+    "description": "phina.js is game library",
+    "name": "phina.js",
+    "url": "https://github.com/study-game-engines/phina.js"
+  },
+  {
+    "description": "OpenGL 3 and 4 with GLSL",
+    "name": "opengl-examples-nopper",
+    "url": "https://github.com/study-game-engines/opengl-examples-nopper"
+  },
+  {
+    "description": "Post processing in Unity",
+    "name": "gunnell-post-processing-unity",
+    "url": "https://github.com/study-game-engines/gunnell-post-processing-unity"
+  },
+  {
+    "description": "Thin multiplatform wrappers for graphics.",
+    "name": "kgl",
+    "url": "https://github.com/study-game-engines/kgl"
+  },
+  {
+    "description": "My own 3D engine & editor in order to learn graphics algorithms and game engine architecture.",
+    "name": "bear",
+    "url": "https://github.com/study-game-engines/bear"
+  },
+  {
+    "description": "My current hobby game engine written in C++ and using Vulkan and D3D12",
+    "name": "vengine2",
+    "url": "https://github.com/study-game-engines/vengine2"
+  },
+  {
+    "description": "A pure Java implementation of OpenGL",
+    "name": "opengl-software-pernollet",
+    "url": "https://github.com/study-game-engines/opengl-software-pernollet"
+  },
+  {
+    "description": "Walker Engine is a real-time rendering engine. It is written in C++ and currently uses OpenGL as its primary graphics API. Its purpose is primarily for my own education to learn computer graphics and to use it as a platform for experimentation.",
+    "name": "walker",
+    "url": "https://github.com/study-game-engines/walker"
+  },
+  {
+    "description": "A minimalist library with basic facilities for developing interactive real-time 3D applications, with a strong emphasis on simplicity and ease of use.",
+    "name": "slim",
+    "url": "https://github.com/study-game-engines/slim"
+  },
+  {
+    "description": "Examples using latest version of PixiJS",
+    "name": "pixi.js-examples",
+    "url": "https://github.com/study-game-engines/pixi.js-examples"
+  },
+  {
+    "description": "OpenGL support library so you can just dive in and write OpenGL code",
+    "name": "cherno-opengl",
+    "url": "https://github.com/study-game-engines/cherno-opengl"
+  },
+  {
+    "description": "Repository to follow my development of \"The Raytracer Challenge\" book by Jamis Buck in the language Rust",
+    "name": "raytracer-rust",
+    "url": "https://github.com/study-game-engines/raytracer-rust"
+  },
+  {
+    "description": "Source code for pbrt, the renderer described in the third edition of \"Physically Based Rendering: From Theory To Implementation\", by Matt Pharr, Wenzel Jakob, and Greg Humphreys.",
+    "name": "pbrt-v3",
+    "url": "https://github.com/study-game-engines/pbrt-v3"
+  },
+  {
+    "description": "An ultra-minimalist game engine",
+    "name": "24a2",
+    "url": "https://github.com/study-game-engines/24a2"
+  },
+  {
+    "description": "Software ray tracer written from scratch in C that can run on CPU or GPU with emphasis on ease of use and trivial setup",
+    "name": "slim-raytracer",
+    "url": "https://github.com/study-game-engines/slim-raytracer"
+  },
+  {
+    "description": "Platform game concept made with the Delta engine.",
+    "name": "delta-platformer-demo",
+    "url": "https://github.com/study-game-engines/delta-platformer-demo"
+  },
+  {
+    "description": "cocos2d command line tool",
+    "name": "cocos-cli",
+    "url": "https://github.com/study-game-engines/cocos-cli"
+  },
+  {
+    "description": "Unity Built in Shaders",
+    "name": "unity-shaders-builtin",
+    "url": "https://github.com/study-game-engines/unity-shaders-builtin"
+  },
+  {
+    "description": "3D Software Renderer in 700 Lines !!",
+    "name": "software-renderer-skywind",
+    "url": "https://github.com/study-game-engines/software-renderer-skywind"
+  },
+  {
+    "description": "A  3D Game Engine by creatorlxd.Use DirectX",
+    "name": "space",
+    "url": "https://github.com/study-game-engines/space"
+  },
+  {
+    "description": "Turbulenz is a modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices.",
+    "name": "turbulenz",
+    "url": "https://github.com/study-game-engines/turbulenz"
+  },
+  {
+    "description": "An example project made with Rogue Engine",
+    "name": "rogue.js-shooter",
+    "url": "https://github.com/study-game-engines/rogue.js-shooter"
+  },
+  {
+    "description": "Game engine for making 2d games on iOS, macOS and tvOS, with practical examples and tutorials",
+    "name": "glide",
+    "url": "https://github.com/study-game-engines/glide"
+  },
+  {
+    "description": "BRDF Explorer",
+    "name": "brdf",
+    "url": "https://github.com/study-game-engines/brdf"
+  },
+  {
+    "description": "Vulkan port of the D3D12 Procedural Geometry Demo using VK_KHR_ray_tracing_pipeline and VK_KHR_acceleration_structure [WIP]",
+    "name": "raytracer-derm",
+    "url": "https://github.com/study-game-engines/raytracer-derm"
+  },
+  {
+    "description": "Lightweight game engine.",
+    "name": "mos",
+    "url": "https://github.com/study-game-engines/mos"
+  },
+  {
+    "description": "A raylib extension to load and draw glTF 2.0 models",
+    "name": "raylib-gltf-loader",
+    "url": "https://github.com/study-game-engines/raylib-gltf-loader"
+  },
+  {
+    "description": "OpenGL 3D graphics engine",
+    "name": "mist",
+    "url": "https://github.com/study-game-engines/mist"
+  },
+  {
+    "description": "A list of some interesting papers (computer graphics) that I read",
+    "name": "papers-veselov",
+    "url": "https://github.com/study-game-engines/papers-veselov"
+  },
+  {
+    "description": "An image editor in WebGL",
+    "name": "filters.js",
+    "url": "https://github.com/study-game-engines/filters.js"
+  },
+  {
+    "description": "A very simple real-time Vulkan 3D game engine",
+    "name": "scrap",
+    "url": "https://github.com/study-game-engines/scrap"
+  },
+  {
+    "description": "VAT (Vertex Animation Texture) with Unity Shader Graph and Visual Effect Graph",
+    "name": "unity-vat",
+    "url": "https://github.com/study-game-engines/unity-vat"
+  },
+  {
+    "description": "A minimal, engine-agnostic JavaScript glTF Loader.",
+    "name": "gltf-loader-shao",
+    "url": "https://github.com/study-game-engines/gltf-loader-shao"
+  },
+  {
+    "description": "Data-oriented and data-driven game engine written in Rust",
+    "name": "amethyst",
+    "url": "https://github.com/study-game-engines/amethyst"
+  },
+  {
+    "description": "A real-time rendering engine based on C++ and OpenGL",
+    "name": "carbon",
+    "url": "https://github.com/study-game-engines/carbon"
+  },
+  {
+    "description": "Overlap2D Game development toolkit for UI and Level design",
+    "name": "overlap",
+    "url": "https://github.com/study-game-engines/overlap"
+  },
+  {
+    "description": "Bare-bones software renderer written in Rust",
+    "name": "ovcharenko-software-renderer",
+    "url": "https://github.com/study-game-engines/ovcharenko-software-renderer"
+  },
+  {
+    "description": "Cocos2d for Web Browsers. Built using JavaScript.",
+    "name": "cocos.js",
+    "url": "https://github.com/study-game-engines/cocos.js"
+  },
+  {
+    "description": "Learn computer graphics by writing GPU shaders!",
+    "name": "zhang-shaders",
+    "url": "https://github.com/study-game-engines/zhang-shaders"
+  },
+  {
+    "description": "An open source physically based renderer.",
+    "name": "mantaray",
+    "url": "https://github.com/study-game-engines/mantaray"
+  },
+  {
+    "description": "3D game engine using Kotlin and LWJGL",
+    "name": "neko",
+    "url": "https://github.com/study-game-engines/neko"
+  },
+  {
+    "description": "WebGL2 renderer plugin for Bevy game engine",
+    "name": "bevy-webgl",
+    "url": "https://github.com/study-game-engines/bevy-webgl"
+  },
+  {
+    "description": "Editors to be usable in the intellij plugin and standalone",
+    "name": "korge-editor",
+    "url": "https://github.com/study-game-engines/korge-editor"
+  },
+  {
+    "description": "A project that covers modern OpenGL",
+    "name": "antaires",
+    "url": "https://github.com/study-game-engines/antaires"
+  },
+  {
+    "description": "",
+    "name": "benny",
+    "url": "https://github.com/study-game-engines/benny"
+  },
+  {
+    "description": "A pseudo-3D raycast-rendering game engine made with Kotlin and LWJGL. Think Wolfenstein 3D!",
+    "name": "raycaster-kotlin",
+    "url": "https://github.com/study-game-engines/raycaster-kotlin"
+  },
+  {
+    "description": "Cloth and Rope (vertlet) simulation test + FABRIK test",
+    "name": "cloth",
+    "url": "https://github.com/study-game-engines/cloth"
+  },
+  {
+    "description": "Binary FBX loading and saving",
+    "name": "fbx4j",
+    "url": "https://github.com/study-game-engines/fbx4j"
+  },
+  {
+    "description": "Java Raycasting Game Engine",
+    "name": "swinger",
+    "url": "https://github.com/study-game-engines/swinger"
+  },
+  {
+    "description": "Spline editor extension for Unity.",
+    "name": "unity-spline-editor",
+    "url": "https://github.com/study-game-engines/unity-spline-editor"
+  },
+  {
+    "description": "cocos2d-x for JS",
+    "name": "cocos-js",
+    "url": "https://github.com/study-game-engines/cocos-js"
+  },
+  {
+    "description": "This is a very basic soft renderer based on computer graphics related theories, by Alexander Ezharjan.",
+    "name": "software-renderer-ezharjan",
+    "url": "https://github.com/study-game-engines/software-renderer-ezharjan"
+  },
+  {
+    "description": "The world's tiniest, cutest and funnest game engine",
+    "name": "ga",
+    "url": "https://github.com/study-game-engines/ga"
+  },
+  {
+    "description": "An experimental Ray tracer I made completely from scratch, without any external libraries",
+    "name": "raytracing-bonin-java",
+    "url": "https://github.com/study-game-engines/raytracing-bonin-java"
+  },
+  {
+    "description": "Shaders for Minecraft",
+    "name": "minecraft-shaders-acerolla",
+    "url": "https://github.com/study-game-engines/minecraft-shaders-acerolla"
+  },
+  {
+    "description": " Unreal Engine Example projects. Includes UE4 and UE5 examples.",
+    "name": "unreal-examples",
+    "url": "https://github.com/study-game-engines/unreal-examples"
+  },
+  {
+    "description": "A game engine written in kotlin",
+    "name": "marx",
+    "url": "https://github.com/study-game-engines/marx"
+  },
+  {
+    "description": "unity shader tutorials",
+    "name": "ronja-shaders",
+    "url": "https://github.com/study-game-engines/ronja-shaders"
+  },
+  {
+    "description": "Modern OpenGL (fixed pipeline free) examples based on http://open.gl",
+    "name": "bertoldi-opengl-examples",
+    "url": "https://github.com/study-game-engines/bertoldi-opengl-examples"
+  },
+  {
+    "description": "A collection of simple single file OpenGL examples",
+    "name": "progsch-opengl-examples",
+    "url": "https://github.com/study-game-engines/progsch-opengl-examples"
+  },
+  {
+    "description": "OpenGL 4.3 / DirectX 11 3D Graphics Engine",
+    "name": "falcon",
+    "url": "https://github.com/study-game-engines/falcon"
+  },
+  {
+    "description": "Fracture any mesh at runtime",
+    "name": "unity-fracture",
+    "url": "https://github.com/study-game-engines/unity-fracture"
+  },
+  {
+    "description": "An OpenGL RTS game engine written in C",
+    "name": "permafrost",
+    "url": "https://github.com/study-game-engines/permafrost"
+  },
+  {
+    "description": "Basic template to create a game using minigdx",
+    "name": "minigdx-project-template",
+    "url": "https://github.com/study-game-engines/minigdx-project-template"
+  },
+  {
+    "description": "A 3D Third Pirson Shooter with musical zombies #MadeWithStride",
+    "name": "stride-shooter-demo",
+    "url": "https://github.com/study-game-engines/stride-shooter-demo"
+  },
+  {
+    "description": "Basic implementation of a raycaster engine in Javascript using Canvas API",
+    "name": "raycaster.js",
+    "url": "https://github.com/study-game-engines/raycaster.js"
+  },
+  {
+    "description": "the thin c++ game engine",
+    "name": "toy",
+    "url": "https://github.com/study-game-engines/toy"
+  },
+  {
+    "description": "Playground project for the Jetpack Compose APIs",
+    "name": "compose-examples",
+    "url": "https://github.com/study-game-engines/compose-examples"
+  },
+  {
+    "description": "3D Game Engine for Java & lua",
+    "name": "anarchy",
+    "url": "https://github.com/study-game-engines/anarchy"
+  },
+  {
+    "description": "Free 3D Modeling Tool",
+    "name": "modeler-kotlin",
+    "url": "https://github.com/study-game-engines/modeler-kotlin"
+  },
+  {
+    "description": "o2 engine template project",
+    "name": "o2-template",
+    "url": "https://github.com/study-game-engines/o2-template"
+  },
+  {
+    "description": "A real-time interactive progressive path tracer on the GPU.",
+    "name": "cray",
+    "url": "https://github.com/study-game-engines/cray"
+  },
+  {
+    "description": "A stylized water shader (and material presets) for Unity. ",
+    "name": "unity-water-shervheim",
+    "url": "https://github.com/study-game-engines/unity-water-shervheim"
+  },
+  {
+    "description": "A shader-based software renderer written from scratch in C89",
+    "name": "zauonlok-software-renderer",
+    "url": "https://github.com/study-game-engines/zauonlok-software-renderer"
+  },
+  {
+    "description": "Kotlin multiplatform game engine",
+    "name": "weesner",
+    "url": "https://github.com/study-game-engines/weesner"
+  },
+  {
+    "description": "A Minecraft shaderspack. Offers high performance with high quality at the same time.",
+    "name": "cao-shaders",
+    "url": "https://github.com/study-game-engines/cao-shaders"
+  },
+  {
+    "description": "OpenGL project for educational purposes",
+    "name": "pinktrees",
+    "url": "https://github.com/study-game-engines/pinktrees"
+  },
+  {
+    "description": "Godot shaders experiments",
+    "name": "godot-shaders-jospic",
+    "url": "https://github.com/study-game-engines/godot-shaders-jospic"
+  },
+  {
+    "description": "Convert ShaderToy to Unity  HLSL/CG",
+    "name": "shadertoy-unity-converter",
+    "url": "https://github.com/study-game-engines/shadertoy-unity-converter"
+  },
+  {
+    "description": "GLSLX support in Visual Studio Code",
+    "name": "glslx-vscode-plugin",
+    "url": "https://github.com/study-game-engines/glslx-vscode-plugin"
+  },
+  {
+    "description": "Implementation of Ray Tracing in One Weekend written in Rust",
+    "name": "rust-ray-tracing-in-one-weekend",
+    "url": "https://github.com/study-game-engines/rust-ray-tracing-in-one-weekend"
+  },
+  {
+    "description": "Software rendering engine with PBR. Built from scratch on C++.",
+    "name": "ortiz-software-renderer",
+    "url": "https://github.com/study-game-engines/ortiz-software-renderer"
+  },
+  {
+    "description": "C++ tutorials with ChiliTomatoNoodle. Simple games made using his graphics engine. ",
+    "name": "chili",
+    "url": "https://github.com/study-game-engines/chili"
+  },
+  {
+    "description": "An experimental real-time render engine",
+    "name": "xengine",
+    "url": "https://github.com/study-game-engines/xengine"
+  },
+  {
+    "description": "Source code for Outline Shader tutorial for Unity. Detects edges in a scene using the depth and normals buffers.",
+    "name": "unity-outline2",
+    "url": "https://github.com/study-game-engines/unity-outline2"
+  },
+  {
+    "description": "Argochamber's internal game engine. Built with Kotlin/Native and C++",
+    "name": "horizon",
+    "url": "https://github.com/study-game-engines/horizon"
+  },
+  {
+    "description": "Source code for OpenGL SupeBible 6th Edition examples",
+    "name": "opengl-superbible-examples",
+    "url": "https://github.com/study-game-engines/opengl-superbible-examples"
+  },
+  {
+    "description": "Sand box project containing example shaders and assets compatible with Unity Universal Render Pipeline. ",
+    "name": "unity-shaders",
+    "url": "https://github.com/study-game-engines/unity-shaders"
+  },
+  {
+    "description": "Source code for Game Physics Cookbook",
+    "name": "gamePhysicsCookbook",
+    "url": "https://github.com/study-game-engines/gamePhysicsCookbook"
+  },
+  {
+    "description": "Android application with a 3D engine that can load Wavefront OBJ,",
+    "name": "fbx-viewer-android",
+    "url": "https://github.com/study-game-engines/fbx-viewer-android"
+  },
+  {
+    "description": "A Minecraft shaderpack that recreates the looks and feel of the game Dying Light. It replicates the graphics effects and gameplay features of the original game!",
+    "name": "ferreras-shaders",
+    "url": "https://github.com/study-game-engines/ferreras-shaders"
+  },
+  {
+    "description": "Example project to draw 1million grass instances on mobile",
+    "name": "unity-grass",
+    "url": "https://github.com/study-game-engines/unity-grass"
+  },
+  {
+    "description": "A collection of custom post processing effects for Unity",
+    "name": "unity-kino",
+    "url": "https://github.com/study-game-engines/unity-kino"
+  },
+  {
+    "description": "C++ 3D graphics engine under Direct3D 11. Developed in a Planet Chili video tutorial series that can be found on YouTube. https://youtu.be/_4FArgOX1I4",
+    "name": "hw3d",
+    "url": "https://github.com/study-game-engines/hw3d"
+  },
+  {
+    "description": "Generate BMFont texture and spec using msdfgen",
+    "name": "msdf-bmfont",
+    "url": "https://github.com/study-game-engines/msdf-bmfont"
+  },
+  {
+    "description": "A 3D PacMan implementation using Kotlin/JS.",
+    "name": "three.kt-externals2",
+    "url": "https://github.com/study-game-engines/three.kt-externals2"
+  },
+  {
+    "description": "A command line utility and Gradle task for packing individual images into tilesets",
+    "name": "mini2dx-tilepacker",
+    "url": "https://github.com/study-game-engines/mini2dx-tilepacker"
+  },
+  {
+    "description": "Record all WebGL calls from any app for playback later",
+    "name": "webgl-recorder",
+    "url": "https://github.com/study-game-engines/webgl-recorder"
+  },
+  {
+    "description": "OpenType Font Library for Java",
+    "name": "ttf-schweinsberg",
+    "url": "https://github.com/study-game-engines/ttf-schweinsberg"
+  },
+  {
+    "description": "Java library for OpenType font file parsing, support converting to an image",
+    "name": "ttf-java",
+    "url": "https://github.com/study-game-engines/ttf-java"
+  },
+  {
+    "description": "Kotlin Multiplatform App to test KhronosGroup glTF Sample Models",
+    "name": "filament-gltf-demo",
+    "url": "https://github.com/study-game-engines/filament-gltf-demo"
+  },
+  {
+    "description": "",
+    "name": "hazel.rs",
+    "url": "https://github.com/study-game-engines/hazel.rs"
+  },
+  {
+    "description": "Demonstration of a water ripple post-processing screen-space effect implemented in Unity.",
+    "name": "water-unity-ben",
+    "url": "https://github.com/study-game-engines/water-unity-ben"
+  },
+  {
+    "description": "Implementation agnostic rendering API",
+    "name": "krender",
+    "url": "https://github.com/study-game-engines/krender"
+  },
+  {
+    "description": "A WebGL Cel Shading Test",
+    "name": "cel-shader-demo",
+    "url": "https://github.com/study-game-engines/cel-shader-demo"
+  },
+  {
+    "description": "A WebGL-based 3D engine for technical visualization. Not actively maintained.",
+    "name": "xeogl.js",
+    "url": "https://github.com/study-game-engines/xeogl.js"
+  },
+  {
+    "description": "Stores here is the project for converting FBX file into GLTF file format.",
+    "name": "fbx-to-gltf-converter",
+    "url": "https://github.com/study-game-engines/fbx-to-gltf-converter"
+  },
+  {
+    "description": "Caustics computation using ThreeJS",
+    "name": "three.js-caustics",
+    "url": "https://github.com/study-game-engines/three.js-caustics"
+  },
+  {
+    "description": "A starter Kotlin/JS project with generated Kotlin externals for three.js",
+    "name": "kotlin-three.js-starter",
+    "url": "https://github.com/study-game-engines/kotlin-three.js-starter"
+  },
+  {
+    "description": "Gonkee's shaders - I'd prefer if you gave credit if you use these shaders. My channel: https://www.youtube.com/c/Gonkee",
+    "name": "gonkee-shaders",
+    "url": "https://github.com/study-game-engines/gonkee-shaders"
+  },
+  {
+    "description": "Vulkan Render Engine",
+    "name": "ion",
+    "url": "https://github.com/study-game-engines/ion"
+  },
+  {
+    "description": "A collection of my weekly shaders for 2020.",
+    "name": "angel-shaders",
+    "url": "https://github.com/study-game-engines/angel-shaders"
+  },
+  {
+    "description": "A loader for gltf/glb files for Sein.js.",
+    "name": "sein.js-gltf-loader",
+    "url": "https://github.com/study-game-engines/sein.js-gltf-loader"
+  },
+  {
+    "description": "Font utilities on Android",
+    "name": "fontutil",
+    "url": "https://github.com/study-game-engines/fontutil"
+  },
+  {
+    "description": "Volume cloud for Unity3D",
+    "name": "unity-volumetric-clouds",
+    "url": "https://github.com/study-game-engines/unity-volumetric-clouds"
+  },
+  {
+    "description": "Panda Engine - HTML5 Game Engine",
+    "name": "panda.js",
+    "url": "https://github.com/study-game-engines/panda.js"
+  },
+  {
+    "description": "Realtime editor for creating webgl shaders",
+    "name": "glsl-editor",
+    "url": "https://github.com/study-game-engines/glsl-editor"
+  },
+  {
+    "description": "a project using the C++ \"Chili Framework\" for learning C++ with graphics (CoderSchool) ",
+    "name": "chili2",
+    "url": "https://github.com/study-game-engines/chili2"
+  },
+  {
+    "description": "React-like, 2D game engine in Kotlin",
+    "name": "uranium-kotlin-js",
+    "url": "https://github.com/study-game-engines/uranium-kotlin-js"
+  },
+  {
+    "description": "glTF animation viewer",
+    "name": "zhanghao-gltf-viewer",
+    "url": "https://github.com/study-game-engines/zhanghao-gltf-viewer"
+  },
+  {
+    "description": "a real-time SDF pathtracer",
+    "name": "spectra",
+    "url": "https://github.com/study-game-engines/spectra"
+  },
+  {
+    "description": "LumixEngine plugin for loading FBX using FBX SDK",
+    "name": "lumix-fbx-loader",
+    "url": "https://github.com/study-game-engines/lumix-fbx-loader"
+  },
+  {
+    "description": "Little game framework I made with OpenGL and LWJGL in kotlin,",
+    "name": "toaster",
+    "url": "https://github.com/study-game-engines/toaster"
+  },
+  {
+    "description": "NHGlib - Game Development Library based on LibGDX",
+    "name": "nhglib",
+    "url": "https://github.com/study-game-engines/nhglib"
+  },
+  {
+    "description": "Samples for the Urho bindings",
+    "name": "urhosharp-examples",
+    "url": "https://github.com/study-game-engines/urhosharp-examples"
+  },
+  {
+    "description": "Simple tetris made in Unity(2019.2.5f1).",
+    "name": "unity-tetris-demo-mawasi",
+    "url": "https://github.com/study-game-engines/unity-tetris-demo-mawasi"
+  },
+  {
+    "description": "Game engine written in C++ with ease of use and next-gen parallel computing in focus.",
+    "name": "inline",
+    "url": "https://github.com/study-game-engines/inline"
+  },
+  {
+    "description": "A software portal rendering game engine",
+    "name": "floersch-raycaster",
+    "url": "https://github.com/study-game-engines/floersch-raycaster"
+  },
+  {
+    "description": "Cross-Platform High Performance 2D/3D game engine for people like me who like to write code.",
+    "name": "sparky",
+    "url": "https://github.com/study-game-engines/sparky"
+  },
+  {
+    "description": "Modern C++14 library for the development of real-time graphical applications",
+    "name": "bsf",
+    "url": "https://github.com/study-game-engines/bsf"
+  },
+  {
+    "description": "A simple Software Renderer written in rust.",
+    "name": "software-renderer-uhlig",
+    "url": "https://github.com/study-game-engines/software-renderer-uhlig"
+  },
+  {
+    "description": "Examples for the OpenGL Red Book",
+    "name": "opengl-redbook-examples",
+    "url": "https://github.com/study-game-engines/opengl-redbook-examples"
+  },
+  {
+    "description": "KGL OpenGL samples",
+    "name": "kgl-opengl-examples",
+    "url": "https://github.com/study-game-engines/kgl-opengl-examples"
+  },
+  {
+    "description": "Old nenuzhno engine code",
+    "name": "nenuzhno",
+    "url": "https://github.com/study-game-engines/nenuzhno"
+  },
+  {
+    "description": "A pure C# library for loading FBX files",
+    "name": "unity-fbx-loader",
+    "url": "https://github.com/study-game-engines/unity-fbx-loader"
+  },
+  {
+    "description": "Lighting effects implemented for the Adam demo: volumetric fog, area lights and tube lights",
+    "name": "unity-volumetricLighting",
+    "url": "https://github.com/study-game-engines/unity-volumetricLighting"
+  },
+  {
+    "description": "Matrix is game engine based on JWJGL .",
+    "name": "matrix",
+    "url": "https://github.com/study-game-engines/matrix"
+  },
+  {
+    "description": "An implementation of Blenders .blend file format in Java.",
+    "name": "blender-file-parser",
+    "url": "https://github.com/study-game-engines/blender-file-parser"
+  },
+  {
+    "description": "Examples for vulkan using kgl.",
+    "name": "kgl-vulkan-examples",
+    "url": "https://github.com/study-game-engines/kgl-vulkan-examples"
+  },
+  {
+    "description": "Physically based renderer and simulation engine for real-time applications.",
+    "name": "soul",
+    "url": "https://github.com/study-game-engines/soul"
+  },
+  {
+    "description": "Examples and demos for the new Vulkan API ",
+    "name": "vkk-examples",
+    "url": "https://github.com/study-game-engines/vkk-examples"
+  },
+  {
+    "description": "An open source Unity-Octane render pipeline",
+    "name": "salvo",
+    "url": "https://github.com/study-game-engines/salvo"
+  },
+  {
+    "description": "Just a java implementation of https://github.com/ssloy/tinyrenderer/wiki",
+    "name": "tiny-software-renderer-java",
+    "url": "https://github.com/study-game-engines/tiny-software-renderer-java"
+  },
+  {
+    "description": "Constructive solid geometry on meshes using BSP trees in JavaScript",
+    "name": "csg.js",
+    "url": "https://github.com/study-game-engines/csg.js"
+  },
+  {
+    "description": "",
+    "name": "lague-planets-demo",
+    "url": "https://github.com/study-game-engines/lague-planets-demo"
+  },
+  {
+    "description": "Implemented several OpenGL framebuffer processing and post effect",
+    "name": "postprocessing-effects-lee",
+    "url": "https://github.com/study-game-engines/postprocessing-effects-lee"
+  },
+  {
+    "description": "Open specialized game engine inspired by EU4's Clausewitz engine, written in kotlin",
+    "name": "berchtold",
+    "url": "https://github.com/study-game-engines/berchtold"
+  },
+  {
+    "description": "Converts FBX files into a format that can be loaded at runtime in Unity",
+    "name": "fbx-to-unity-converter",
+    "url": "https://github.com/study-game-engines/fbx-to-unity-converter"
+  },
+  {
+    "description": "This project is a WaveEngine project to render the Sponza glTF model",
+    "name": "wave-sponza-demo",
+    "url": "https://github.com/study-game-engines/wave-sponza-demo"
+  },
+  {
+    "description": "Kotlin wrappers for Three.js ",
+    "name": "three.js-kotlin",
+    "url": "https://github.com/study-game-engines/three.js-kotlin"
+  },
+  {
+    "description": "Various simple PlayN demos and examples.",
+    "name": "playn-examples",
+    "url": "https://github.com/study-game-engines/playn-examples"
+  },
+  {
+    "description": "[abandoned] C99 cross-platform 3D game engine with absolute minimum of external dependencies",
+    "name": "dmitrys",
+    "url": "https://github.com/study-game-engines/dmitrys"
+  },
+  {
+    "description": "3D shooter based on DmitrysEngine",
+    "name": "dmitrys-shooter-demo",
+    "url": "https://github.com/study-game-engines/dmitrys-shooter-demo"
+  },
+  {
+    "description": "Attempt at recreating the rendering techniques used in the original 'Doom' (Python/Pygame) - May 2017",
+    "name": "renderer-doom-python",
+    "url": "https://github.com/study-game-engines/renderer-doom-python"
+  },
+  {
+    "description": "some shaders for cocos creator",
+    "name": "cocos-shaders",
+    "url": "https://github.com/study-game-engines/cocos-shaders"
+  },
+  {
+    "description": "Example code and libraries for the book \"Essential Mathematics for Games and Interactive Applications.\"",
+    "name": "math-examples",
+    "url": "https://github.com/study-game-engines/math-examples"
+  },
+  {
+    "description": "Demo of hydraulic erosion",
+    "name": "erosion-demo",
+    "url": "https://github.com/study-game-engines/erosion-demo"
+  },
+  {
+    "description": "glide engine tutorial where you can learn how to make touch control buttons and know more about input management in general",
+    "name": "glide-input-example",
+    "url": "https://github.com/study-game-engines/glide-input-example"
+  },
+  {
+    "description": "glide engine tutorial where you can create a walking and jumping character on a platform",
+    "name": "glide-platformer-demo",
+    "url": "https://github.com/study-game-engines/glide-platformer-demo"
+  },
+  {
+    "description": "A curated list of famous 3d meshes",
+    "name": "model-samples",
+    "url": "https://github.com/study-game-engines/model-samples"
+  },
+  {
+    "description": "Cross-platform OS detection and native library loading for Java",
+    "name": "mini2dx-natives-loader",
+    "url": "https://github.com/study-game-engines/mini2dx-natives-loader"
+  },
+  {
+    "description": "Tutorial - SoftRenderer & OpenGLRenderer",
+    "name": "software-renderer-myway",
+    "url": "https://github.com/study-game-engines/software-renderer-myway"
+  },
+  {
+    "description": "A modular, extendable, and easy-to-use physics engine for javascript",
+    "name": "physics.js",
+    "url": "https://github.com/study-game-engines/physics.js"
+  },
+  {
+    "description": "Collection of glsl shaders",
+    "name": "manceau-shaders",
+    "url": "https://github.com/study-game-engines/manceau-shaders"
+  },
+  {
+    "description": "Simple C++ OpenGL engine",
+    "name": "mini",
+    "url": "https://github.com/study-game-engines/mini"
+  },
+  {
+    "description": "C# console rendering engine",
+    "name": "console",
+    "url": "https://github.com/study-game-engines/console"
+  },
+  {
+    "description": "",
+    "name": "scapes",
+    "url": "https://github.com/study-game-engines/scapes"
+  },
+  {
+    "description": "An iOS Render Engine (working in progress)",
+    "name": "cube",
+    "url": "https://github.com/study-game-engines/cube"
+  },
+  {
+    "description": "486 lines of C++: old-school FPS in a weekend",
+    "name": "tiny-raycaster",
+    "url": "https://github.com/study-game-engines/tiny-raycaster"
+  },
+  {
+    "description": "A little C# Console Raycaster",
+    "name": "csharprt",
+    "url": "https://github.com/study-game-engines/csharprt"
+  },
+  {
+    "description": "milk is a simple, 2d game engine that i am working on.",
+    "name": "milk",
+    "url": "https://github.com/study-game-engines/milk"
+  },
+  {
+    "description": "Path tracing in GLSL using WebGL",
+    "name": "pathtracer.js",
+    "url": "https://github.com/study-game-engines/pathtracer.js"
+  },
+  {
+    "description": "Source code for the version of pbrt described in the second edition of \"Physically Based Rendering\"",
+    "name": "pbrt-v2",
+    "url": "https://github.com/study-game-engines/pbrt-v2"
+  },
+  {
+    "description": "Simple GLFW OpenGL/C++ framework made for educational purposes: Assimp, ImGUI, Deferred/Forward+ Shading, Compute/Geometry Shaders and etc.",
+    "name": "sweetgl",
+    "url": "https://github.com/study-game-engines/sweetgl"
+  },
+  {
+    "description": "Deferred Vulkan rendering playground using Crytek's Sponza scene",
+    "name": "vulkan-sponza",
+    "url": "https://github.com/study-game-engines/vulkan-sponza"
+  },
+  {
+    "description": "JavaScript Game Engine",
+    "name": "crafty.js",
+    "url": "https://github.com/study-game-engines/crafty.js"
+  },
+  {
+    "description": "Display fbx files with OpenGL",
+    "name": "fbx-parser-yeliieshvili",
+    "url": "https://github.com/study-game-engines/fbx-parser-yeliieshvili"
+  },
+  {
+    "description": "3D software renderer",
+    "name": "lamorna",
+    "url": "https://github.com/study-game-engines/lamorna"
+  },
+  {
+    "description": "Free Android 2D OpenGL Game Engine",
+    "name": "andengine",
+    "url": "https://github.com/study-game-engines/andengine"
+  },
+  {
+    "description": "Simple examples of Unity shader graphs.",
+    "name": "unity-shadergraph-examples",
+    "url": "https://github.com/study-game-engines/unity-shadergraph-examples"
+  },
+  {
+    "description": "OpenGL C++ game framework and stuff",
+    "name": "aelto",
+    "url": "https://github.com/study-game-engines/aelto"
+  },
+  {
+    "description": "A GPU Particle System for Unity ✨capable of simulating and rendering millions of particles at once 💥",
+    "name": "unity-particles",
+    "url": "https://github.com/study-game-engines/unity-particles"
+  },
+  {
+    "description": "Real-Time Strategy game 3D engine coded in pure java",
+    "name": "openrts",
+    "url": "https://github.com/study-game-engines/openrts"
+  },
+  {
+    "description": "Physically-Based Rendering addon for openFrameworks",
+    "name": "ofx-pbr",
+    "url": "https://github.com/study-game-engines/ofx-pbr"
+  },
+  {
+    "description": "thebennybox 3D Engine Tutorial Files",
+    "name": "bennybox",
+    "url": "https://github.com/study-game-engines/bennybox"
+  },
+  {
+    "description": "Small C++14 render engine",
+    "name": "simple",
+    "url": "https://github.com/study-game-engines/simple"
+  },
+  {
+    "description": " A live GLSL programming environment on windows",
+    "name": "shaderian",
+    "url": "https://github.com/study-game-engines/shaderian"
+  },
+  {
+    "description": "A tiny WebGL terrain rendering experiment",
+    "name": "terrain.js",
+    "url": "https://github.com/study-game-engines/terrain.js"
+  },
+  {
+    "description": "C++ Vulkan 3D Game Engine",
+    "name": "oreon-cpp",
+    "url": "https://github.com/study-game-engines/oreon-cpp"
+  },
+  {
+    "description": "To learn OpenGL, Implement basic graphics by OpenGL and SoftRender at the same time.",
+    "name": "kunkasr",
+    "url": "https://github.com/study-game-engines/kunkasr"
+  },
+  {
+    "description": "Volumetric Lights for Unity",
+    "name": "unity-volumetric-lights",
+    "url": "https://github.com/study-game-engines/unity-volumetric-lights"
+  },
+  {
+    "description": "An OpenGL render engine.",
+    "name": "asny",
+    "url": "https://github.com/study-game-engines/asny"
+  },
+  {
+    "description": "Fur Shader",
+    "name": "unity-fur",
+    "url": "https://github.com/study-game-engines/unity-fur"
+  },
+  {
+    "description": "This is a basic 2d game engine I am learning to make in java.",
+    "name": "maj",
+    "url": "https://github.com/study-game-engines/maj"
+  },
+  {
+    "description": "A fully-dynamic voxel-based global illumination system for Unity",
+    "name": "unity-gi",
+    "url": "https://github.com/study-game-engines/unity-gi"
+  },
+  {
+    "description": "Unity3d Helper library - Components, math, threading and much more useful stuff!",
+    "name": "halp",
+    "url": "https://github.com/study-game-engines/halp"
+  },
+  {
+    "description": "Unity shader and scripts for rendering solid clipped geometry",
+    "name": "unity-clip-shader",
+    "url": "https://github.com/study-game-engines/unity-clip-shader"
+  },
+  {
+    "description": "Example project related to my grass tutorial video",
+    "name": "grass-godot",
+    "url": "https://github.com/study-game-engines/grass-godot"
+  },
+  {
+    "description": "A basic 3D ray tracer in Rust.",
+    "name": "nrays-raytracer",
+    "url": "https://github.com/study-game-engines/nrays-raytracer"
+  },
+  {
+    "description": "A simple software 3D renderer in Visual C++/GDI.",
+    "name": "software-renderer-thenanisore",
+    "url": "https://github.com/study-game-engines/software-renderer-thenanisore"
+  },
+  {
+    "description": "A small software graphics renderer",
+    "name": "ptah-software-renderer",
+    "url": "https://github.com/study-game-engines/ptah-software-renderer"
+  },
+  {
+    "description": "使用 Java Script  实现的简易软件渲染器",
+    "name": "ksgin-software-renderer",
+    "url": "https://github.com/study-game-engines/ksgin-software-renderer"
+  },
+  {
+    "description": "A C++ game engine",
+    "name": "merlin",
+    "url": "https://github.com/study-game-engines/merlin"
+  },
+  {
+    "description": "a tiny software raster renderer ",
+    "name": "zrenderer",
+    "url": "https://github.com/study-game-engines/zrenderer"
+  },
+  {
+    "description": "A real-time global illumination implementation using voxel cone tracing. Implemented in C++ and GLSL.",
+    "name": "voxel-cone-tracing",
+    "url": "https://github.com/study-game-engines/voxel-cone-tracing"
+  },
+  {
+    "description": "CD Content ( Source Code )  Collection  of Book <GPU Gems > 1~ 3",
+    "name": "gpu-gems",
+    "url": "https://github.com/study-game-engines/gpu-gems"
+  },
+  {
+    "description": "JSL (Java Shading Language) is a Java Library which consist in writing shaders in Java and converting it in some others shading languages like GLSL (OpenGL Shading Language)",
+    "name": "jshaderlang",
+    "url": "https://github.com/study-game-engines/jshaderlang"
+  },
+  {
+    "description": "export meshes to .fbx or .obj from Unity",
+    "name": "unity-fbx-exporter",
+    "url": "https://github.com/study-game-engines/unity-fbx-exporter"
+  },
+  {
+    "description": "OpenGL C++ Graphics Engine ",
+    "name": "cell",
+    "url": "https://github.com/study-game-engines/cell"
+  },
+  {
+    "description": "Procedural 3D mesh generation tool",
+    "name": "meshgen",
+    "url": "https://github.com/study-game-engines/meshgen"
+  },
+  {
+    "description": "This is the project related to the OpenGL Game Engine Programming Series",
+    "name": "oreon-java-tutorials",
+    "url": "https://github.com/study-game-engines/oreon-java-tutorials"
+  },
+  {
+    "description": "Software 3D renderer & rasteriser written in WASM/C & TypeScript to test / showcase WebAssembly and compare performance",
+    "name": "macleod-software-renderer",
+    "url": "https://github.com/study-game-engines/macleod-software-renderer"
+  },
+  {
+    "description": "",
+    "name": "curve-editor",
+    "url": "https://github.com/study-game-engines/curve-editor"
+  },
+  {
+    "description": "Samples for the Obj library",
+    "name": "obj-samples",
+    "url": "https://github.com/study-game-engines/obj-samples"
+  },
+  {
+    "description": "A voxel engine (like Minecraft) written in Kotlin",
+    "name": "voxel-renderer-kotlin",
+    "url": "https://github.com/study-game-engines/voxel-renderer-kotlin"
+  },
+  {
+    "description": "TDME - ThreeDeeMiniEngine is a small 3d engine suited for small 3d games written in JAVA. PLEASE note that this project is being discontinued. Consider https://github.com/andreasdr/tdme2 instead.",
+    "name": "tdme-java",
+    "url": "https://github.com/study-game-engines/tdme-java"
+  },
+  {
+    "description": "Unity experiment using geometry, domain, and hull shaders to render bezier curves",
+    "name": "unity-bezier-shader",
+    "url": "https://github.com/study-game-engines/unity-bezier-shader"
+  },
+  {
+    "description": "WebGL demos and samples",
+    "name": "willems-webgl-demos",
+    "url": "https://github.com/study-game-engines/willems-webgl-demos"
+  },
+  {
+    "description": "WebGL Examples",
+    "name": "angel-webgl-examples",
+    "url": "https://github.com/study-game-engines/angel-webgl-examples"
+  },
+  {
+    "description": "Examples ported in JOGL from \"Learning Modern 3D Graphic Programming\" by J.L.McKesson",
+    "name": "jogl-examples",
+    "url": "https://github.com/study-game-engines/jogl-examples"
+  },
+  {
+    "description": "Simple render engine for OpenGL",
+    "name": "rendere",
+    "url": "https://github.com/study-game-engines/rendere"
+  },
+  {
+    "description": "Software implement OpenGL 1.1 version.",
+    "name": "opengl-software-huang",
+    "url": "https://github.com/study-game-engines/opengl-software-huang"
+  },
+  {
+    "description": "OpenGL Tutorial",
+    "name": "thinmatrix",
+    "url": "https://github.com/study-game-engines/thinmatrix"
+  },
+  {
+    "description": "Excessive Engine - A Game Engine With Excessive Power For Indies & Professionals",
+    "name": "excessive",
+    "url": "https://github.com/study-game-engines/excessive"
+  },
+  {
+    "description": "Path tracing render engine for the web. Both ray tracing for conventional 3d models and ray marching for fractals implemented. Built with WebGL 2 and Angular 2.",
+    "name": "pathtracer-kantedal",
+    "url": "https://github.com/study-game-engines/pathtracer-kantedal"
+  },
+  {
+    "description": "Basic skybox extensions for Unity",
+    "name": "unity-skybox",
+    "url": "https://github.com/study-game-engines/unity-skybox"
+  },
+  {
+    "description": "Bloom effect for Unity",
+    "name": "unity-bloom-kino",
+    "url": "https://github.com/study-game-engines/unity-bloom-kino"
+  },
+  {
+    "description": "1993 Wolfenstein 3D clone written in C++.",
+    "name": "wolfenstein-raytracer-cpp",
+    "url": "https://github.com/study-game-engines/wolfenstein-raytracer-cpp"
+  },
+  {
+    "description": "Credits: ThinMatrix",
+    "name": "gengine",
+    "url": "https://github.com/study-game-engines/gengine"
+  },
+  {
+    "description": "https://youtu.be/ARn_yhgk7aE",
+    "name": "raytracer-cpp",
+    "url": "https://github.com/study-game-engines/raytracer-cpp"
+  },
+  {
+    "description": "Fast, multi-threaded, recursive ray tracer",
+    "name": "raytracer-hacker",
+    "url": "https://github.com/study-game-engines/raytracer-hacker"
+  },
+  {
+    "description": "some test code while learning jME3",
+    "name": "jmonkeyengine-demos",
+    "url": "https://github.com/study-game-engines/jmonkeyengine-demos"
+  },
+  {
+    "description": "A 3D video game, developed in Java/LWJGL, using my own ground-up implementation of the Wolfenstein 3D raycasting engine.",
+    "name": "wolfenstein-raytracer-java",
+    "url": "https://github.com/study-game-engines/wolfenstein-raytracer-java"
+  },
+  {
+    "description": "CocosBuilder, the visual editor for cocos2d",
+    "name": "cocos-studio",
+    "url": "https://github.com/study-game-engines/cocos-studio"
+  },
+  {
+    "description": "OBJ viewer written in Java",
+    "name": "viw",
+    "url": "https://github.com/study-game-engines/viw"
+  },
+  {
+    "description": "The G3D Innovation Engine by Morgan McGuire",
+    "name": "g3d",
+    "url": "https://github.com/study-game-engines/g3d"
+  },
+  {
+    "description": "mini2Dx sample game - An invaders clone",
+    "name": "mini2dx-invaders-demo",
+    "url": "https://github.com/study-game-engines/mini2dx-invaders-demo"
+  },
+  {
+    "description": "A repository stocking demos and tutorials for the UPBGE",
+    "name": "blender-demos",
+    "url": "https://github.com/study-game-engines/blender-demos"
+  },
+  {
+    "description": "HTML5 Game Engine",
+    "name": "quintus.js",
+    "url": "https://github.com/study-game-engines/quintus.js"
+  },
+  {
+    "description": "AMD compute-based tiled lighting sample based on DirectX 11",
+    "name": "tiledLighting",
+    "url": "https://github.com/study-game-engines/tiledLighting"
+  },
+  {
+    "description": "3D WebGL engine.",
+    "name": "goo.js",
+    "url": "https://github.com/study-game-engines/goo.js"
+  },
+  {
+    "description": "A rendering library",
+    "name": "opengl-object-oriented-api",
+    "url": "https://github.com/study-game-engines/opengl-object-oriented-api"
+  },
+  {
+    "description": "Official SDK of NeoAxis 3D Engine",
+    "name": "neoaxis-sdk",
+    "url": "https://github.com/study-game-engines/neoaxis-sdk"
+  },
+  {
+    "description": "real-time raytracer written in Kotlin",
+    "name": "kotlin-raytracer",
+    "url": "https://github.com/study-game-engines/kotlin-raytracer"
+  },
+  {
+    "description": "HTML5 Game Engine using Backbone.",
+    "name": "backbone.js",
+    "url": "https://github.com/study-game-engines/backbone.js"
+  },
+  {
+    "description": "Renderer in Java",
+    "name": "koi",
+    "url": "https://github.com/study-game-engines/koi"
+  },
+  {
+    "description": "Source code to pbrt, the ray tracer described in \"Physically Based Rendering: From Theory To Implementation\"",
+    "name": "pbrt-v1",
+    "url": "https://github.com/study-game-engines/pbrt-v1"
+  },
+  {
+    "description": "Rajawali 3D Engine for Android Examples",
+    "name": "rajawali-examples",
+    "url": "https://github.com/study-game-engines/rajawali-examples"
+  },
+  {
+    "description": "DT3 Game Engine",
+    "name": "dt3",
+    "url": "https://github.com/study-game-engines/dt3"
+  },
+  {
+    "description": "A software OpenGL pipeline",
+    "name": "opengl-software-jin",
+    "url": "https://github.com/study-game-engines/opengl-software-jin"
+  },
+  {
+    "description": "Water Shader for Nau3D",
+    "name": "water-nau",
+    "url": "https://github.com/study-game-engines/water-nau"
+  },
+  {
+    "description": "HTML5 entity-component game engine",
+    "name": "entity.js",
+    "url": "https://github.com/study-game-engines/entity.js"
+  },
+  {
+    "description": "Global fog effect for Unity",
+    "name": "unity-fog",
+    "url": "https://github.com/study-game-engines/unity-fog"
+  },
+  {
+    "description": "cocos2d JavaScript test cases and games.",
+    "name": "cocos.js-demos",
+    "url": "https://github.com/study-game-engines/cocos.js-demos"
+  },
+  {
+    "description": "A simple raytracer written in Java for learning purposes",
+    "name": "raytracer-java-dodero",
+    "url": "https://github.com/study-game-engines/raytracer-java-dodero"
+  },
+  {
+    "description": "Code samples for the \"jMonkeyEngine 3.0 Beginner's Guide\"",
+    "name": "jmonkeyengine-guide-examples",
+    "url": "https://github.com/study-game-engines/jmonkeyengine-guide-examples"
+  },
+  {
+    "description": "thebennybox 3D Software Renderer",
+    "name": "software-renderer-benny",
+    "url": "https://github.com/study-game-engines/software-renderer-benny"
+  },
+  {
+    "description": "SVG renderer in pure Java",
+    "name": "svg-java-laukvik",
+    "url": "https://github.com/study-game-engines/svg-java-laukvik"
+  },
+  {
+    "description": "Trace all the rays!",
+    "name": "raytracer-java",
+    "url": "https://github.com/study-game-engines/raytracer-java"
+  },
+  {
+    "description": "Includes different samples to be used with cocos2d",
+    "name": "cocos.js-examples",
+    "url": "https://github.com/study-game-engines/cocos.js-examples"
+  },
+  {
+    "description": "Game/rendering engine for learning and personal showcase purposes only",
+    "name": "ramjam",
+    "url": "https://github.com/study-game-engines/ramjam"
+  },
+  {
+    "description": "An Entity-System game framework for HTML5 games. At the moment dima is a microframework, but an entire collection of modules soon to come",
+    "name": "dima.js",
+    "url": "https://github.com/study-game-engines/dima.js"
+  },
+  {
+    "description": "Three.js experiments and demo sources.",
+    "name": "three.js-experiments",
+    "url": "https://github.com/study-game-engines/three.js-experiments"
+  },
+  {
+    "description": "Converts FBX models to json",
+    "name": "fbx-to-json-converter",
+    "url": "https://github.com/study-game-engines/fbx-to-json-converter"
+  },
+  {
+    "description": "3D graphics and game engine",
+    "name": "colossus",
+    "url": "https://github.com/study-game-engines/colossus"
   }
 ]

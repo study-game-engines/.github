@@ -14,9 +14,9 @@ fun main() {
     val file: InputStream = ClassLoader.getSystemClassLoader().getResourceAsStream("repositories.json")
     val jsonText: String = file.reader().readText()
     val repositories: Array<Repository> = Gson().fromJson(jsonText, Array<Repository>::class.java)
-    repositories.sortWith(object : Comparator<Repository> {
-        override fun compare(repository1: Repository, repository2: Repository): Int = repository1.name.compareTo(repository2.name)
-    })
+    repositories.sortWith { repository1, repository2 ->
+        repository1.name.compareTo(repository2.name)
+    }
     File("REPOSITORIES.md").writer().use { writer ->
         writer.write("""
         # ${repositories.size} references to study game engines
