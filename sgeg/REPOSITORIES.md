@@ -1,7 +1,6 @@
-# 1080 references to study game engines
+# 1079 references to study game engines
 | Reference     | Description        |
 |:--------------|:-------------------|
-| [.github](https://github.com/study-game-engines/.github) |  |
 | [vulkan-demo](https://github.com/study-game-engines/vulkan-demo) | PBR, IBL, Clustered Forward Shading, Path Tracing, Shadow Mapping, and more! |
 | [opengl-examples-gordan](https://github.com/study-game-engines/opengl-examples-gordan) | Tutorials from the following playlist: https://www.youtube.com/playlist?list=PLPaoO-vpZnumdcb4tZc4x5Q-v7CkrQ6M- |
 | [three.js-particles](https://github.com/study-game-engines/three.js-particles) | Three.quarks is a general purpose particle system /  VFX engine for three.js |

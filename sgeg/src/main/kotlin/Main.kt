@@ -10,6 +10,7 @@ data class Repository(val url: String, val description: String)
 
 val Repository.name: String get() = url.removePrefix("https://github.com/study-game-engines/")
 val exclude: List<String> = listOf(
+    ".github",
     "mraid.js",
     "hazel",
     "hazel-dichotomy-demo",
